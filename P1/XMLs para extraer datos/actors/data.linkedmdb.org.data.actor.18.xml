@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:dbpedia="http://dbpedia.org/property/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:oddlinker="http://data.linkedmdb.org/resource/oddlinker/"
+    xmlns:db="http://data.linkedmdb.org/resource/"
+    xmlns:movie="http://data.linkedmdb.org/resource/movie/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:map="file:/C:/d2r-server-0.4/mapping.n3#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:d2r="http://sites.wiwiss.fu-berlin.de/suhl/bizer/d2r-server/config.rdf#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/103758">
+    <oddlinker:link_source>
+      <foaf:Person rdf:about="http://data.linkedmdb.org/resource/actor/18">
+        <owl:sameAs>
+          <rdf:Description rdf:about="http://mpii.de/yago/resource/Leslie_Howard_%28actor%29">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fmpii.de%2Fyago%2Fresource%2FLeslie_Howard_%2528actor%2529%3E"/>
+          </rdf:Description>
+        </owl:sameAs>
+        <dbpedia:hasPhotoCollection>
+          <rdf:Description rdf:about="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Leslie_Howard_(actor)">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fflickrwrappr%2Fphotos%2FLeslie_Howard_%28actor%29%3E"/>
+          </rdf:Description>
+        </dbpedia:hasPhotoCollection>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/149609"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/24824"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/12725"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/52068"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/57951"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/68120"/>
+        <rdf:type rdf:resource="http://data.linkedmdb.org/resource/movie/actor"/>
+        <movie:actor_name>Leslie Howard</movie:actor_name>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/46896"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/100702"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/65202"/>
+        <movie:actor_actorid rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >18</movie:actor_actorid>
+        <owl:sameAs>
+          <rdf:Description rdf:about="http://dbpedia.org/resource/Leslie_Howard_%28actor%29">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FLeslie_Howard_%2528actor%2529%3E"/>
+          </rdf:Description>
+        </owl:sameAs>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/187564"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/136178"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/125067"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/31179"/>
+        <foaf:page>
+          <rdf:Description rdf:about="http://www.freebase.com/view/guid/9202a8c04000641f8000000000092da1">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.freebase.com%2Fview%2Fguid%2F9202a8c04000641f8000000000092da1%3E"/>
+          </rdf:Description>
+        </foaf:page>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/46243"/>
+        <rdfs:label>Leslie Howard (Actor)</rdfs:label>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/48208"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/93945"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/195143"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/147447"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/149551"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/100273"/>
+      </foaf:Person>
+    </oddlinker:link_source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/91937">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/data/actor/18">
+    <rdfs:comment>Contents of this file may include content from 
+		      FreeBase (http://www.freebase.com) or Wikipedia 
+		      (http://www.wikipedia.org) licensed under CC-BY
+		      (http://www.freebase.com/view/common/license/cc_attribution_25)
+		      or GFDL (http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License). 
+		      Refer to http://www.linkedmdb.org:8080/Main/Licensing for more details.</rdfs:comment>
+    <rdfs:label>RDF Description of Leslie Howard (Actor)</rdfs:label>
+    <foaf:primaryTopic rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/14842">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/61315">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/7006">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/6570">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/10770">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Person">
+    <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fxmlns.com%2Ffoaf%2F0.1%2FPerson%3E"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/1584">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/73107">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/94">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/39643">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/73296">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/19409">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/115579">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/23284">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/40498">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/764">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38470">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/96471">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/4335">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/51394">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/2752">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38633">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/18"/>
+  </rdf:Description>
+</rdf:RDF>

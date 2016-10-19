@@ -1,0 +1,13 @@
+Código
+ |___Ejecutables ~ contiene el .jar ejecutable y el .txt necesario para ello
+ |___Strava-GR05 ~ contiene el proyecto listo para importar como proyecto Maven en Eclipse
+
+Documentación.pdf ~ la memoria del proyecto
+
+Extras
+ |___TXTs ~ contienen información útil para el análisis posterior de los grafos de Madrid 
+ |          y Barcelona, esta información es generada mediante las funciones "print*" 
+ |          del código
+ |___CSVs ~ los .csv de salida con el archivo proporcionado "coordenadasMapa.txt"
+ |___Gephi ~ los distintos proyectos creados en Gephi con los .csv generados
+ |___IMGs ~ imágenes de algunos grafos de Madrid y Barcelona

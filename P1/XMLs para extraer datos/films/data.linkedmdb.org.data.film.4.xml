@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:dbpedia="http://dbpedia.org/property/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:oddlinker="http://data.linkedmdb.org/resource/oddlinker/"
+    xmlns:db="http://data.linkedmdb.org/resource/"
+    xmlns:movie="http://data.linkedmdb.org/resource/movie/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:map="file:/C:/d2r-server-0.4/mapping.n3#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:d2r="http://sites.wiwiss.fu-berlin.de/suhl/bizer/d2r-server/config.rdf#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://www.freebase.com/view/guid/9202a8c04000641f800000000000bed1">
+    <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.freebase.com%2Fview%2Fguid%2F9202a8c04000641f800000000000bed1%3E"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38076">
+    <movie:sequel>
+      <movie:film rdf:about="http://data.linkedmdb.org/resource/film/4">
+        <movie:prequel rdf:resource="http://data.linkedmdb.org/resource/film/38076"/>
+        <movie:producer rdf:resource="http://data.linkedmdb.org/resource/producer/14106"/>
+        <dc:title>Batman &amp; Robin</dc:title>
+        <dbpedia:hasPhotoCollection>
+          <rdf:Description rdf:about="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Batman_&amp;_Robin_(film)">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fflickrwrappr%2Fphotos%2FBatman_%26_Robin_%28film%29%3E"/>
+          </rdf:Description>
+        </dbpedia:hasPhotoCollection>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/83427"/>
+        <movie:producer rdf:resource="http://data.linkedmdb.org/resource/producer/542"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/30516"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/275"/>
+        <dc:date>1997-06-20</dc:date>
+        <foaf:page>
+          <rdf:Description rdf:about="http://www.imdb.com/title/tt0118688">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0118688%3E"/>
+          </rdf:Description>
+        </foaf:page>
+        <movie:producer rdf:resource="http://data.linkedmdb.org/resource/producer/12056"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/3686"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/115574"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/29369"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/109866"/>
+        <movie:writer rdf:resource="http://data.linkedmdb.org/resource/writer/14633"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/3690"/>
+        <movie:music_contributor rdf:resource="http://data.linkedmdb.org/resource/music_contributor/5222"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/30018"/>
+        <movie:film_cut rdf:resource="http://data.linkedmdb.org/resource/film_cut/737"/>
+        <movie:language>
+          <rdf:Description rdf:about="http://www.lingvoj.org/lingvo/en">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.lingvoj.org%2Flingvo%2Fen%3E"/>
+          </rdf:Description>
+        </movie:language>
+        <movie:filmid rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >4</movie:filmid>
+        <rdfs:label>Batman &amp; Robin</rdfs:label>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/109867"/>
+        <movie:director>
+          <rdf:Description rdf:about="http://data.linkedmdb.org/resource/director/8940">
+            <foaf:made rdf:resource="http://data.linkedmdb.org/resource/film/4"/>
+          </rdf:Description>
+        </movie:director>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/74899"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/30060"/>
+        <owl:sameAs>
+          <rdf:Description rdf:about="http://mpii.de/yago/resource/Batman_%26_Robin_%28film%29">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fmpii.de%2Fyago%2Fresource%2FBatman_%2526_Robin_%2528film%2529%3E"/>
+          </rdf:Description>
+        </owl:sameAs>
+        <foaf:page rdf:resource="http://www.freebase.com/view/guid/9202a8c04000641f800000000000bed1"/>
+        <movie:initial_release_date>1997-06-20</movie:initial_release_date>
+        <movie:cinematographer rdf:resource="http://data.linkedmdb.org/resource/cinematographer/1586"/>
+        <movie:writer rdf:resource="http://data.linkedmdb.org/resource/writer/16351"/>
+        <movie:cinematographer rdf:resource="http://data.linkedmdb.org/resource/cinematographer/281"/>
+        <movie:editor rdf:resource="http://data.linkedmdb.org/resource/editor/284"/>
+        <movie:editor rdf:resource="http://data.linkedmdb.org/resource/editor/2828"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/3688"/>
+        <movie:runtime>125</movie:runtime>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/180"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/33318"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/31430"/>
+        <owl:sameAs>
+          <rdf:Description rdf:about="http://dbpedia.org/resource/Batman_%26_Robin_%28film%29">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FBatman_%2526_Robin_%2528film%2529%3E"/>
+          </rdf:Description>
+        </owl:sameAs>
+        <movie:editor rdf:resource="http://data.linkedmdb.org/resource/editor/2569"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/32475"/>
+        <foaf:page>
+          <rdf:Description rdf:about="http://www.rottentomatoes.com/alias?type=imdbid&amp;s=0118688">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.rottentomatoes.com%2Falias%3Ftype%3Dimdbid%26s%3D0118688%3E"/>
+          </rdf:Description>
+        </foaf:page>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/3689"/>
+      </movie:film>
+    </movie:sequel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film_film_distributor_relationship/6377">
+    <movie:film_of_distributor rdf:resource="http://data.linkedmdb.org/resource/film/4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/133950">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/film/4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/37068">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/film/4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/18535">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/film/4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/2">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/film/4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/data/film/4">
+    <rdfs:comment>Contents of this file may include content from 
+		      FreeBase (http://www.freebase.com) or Wikipedia 
+		      (http://www.wikipedia.org) licensed under CC-BY
+		      (http://www.freebase.com/view/common/license/cc_attribution_25)
+		      or GFDL (http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License). 
+		      Refer to http://www.linkedmdb.org:8080/Main/Licensing for more details.</rdfs:comment>
+    <rdfs:label>RDF Description of Batman &amp; Robin</rdfs:label>
+    <foaf:primaryTopic rdf:resource="http://data.linkedmdb.org/resource/film/4"/>
+  </rdf:Description>
+</rdf:RDF>

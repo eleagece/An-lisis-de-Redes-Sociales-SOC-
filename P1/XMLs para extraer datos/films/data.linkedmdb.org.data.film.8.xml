@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:dbpedia="http://dbpedia.org/property/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:oddlinker="http://data.linkedmdb.org/resource/oddlinker/"
+    xmlns:db="http://data.linkedmdb.org/resource/"
+    xmlns:movie="http://data.linkedmdb.org/resource/movie/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:map="file:/C:/d2r-server-0.4/mapping.n3#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:d2r="http://sites.wiwiss.fu-berlin.de/suhl/bizer/d2r-server/config.rdf#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://www.rottentomatoes.com/alias?type=imdbid&amp;s=0057012">
+    <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.rottentomatoes.com%2Falias%3Ftype%3Dimdbid%26s%3D0057012%3E"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/70218">
+    <oddlinker:link_source>
+      <movie:film rdf:about="http://data.linkedmdb.org/resource/film/8">
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/9394"/>
+        <movie:film_subject rdf:resource="http://data.linkedmdb.org/resource/film_subject/883"/>
+        <movie:language>
+          <rdf:Description rdf:about="http://www.lingvoj.org/lingvo/en">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.lingvoj.org%2Flingvo%2Fen%3E"/>
+          </rdf:Description>
+        </movie:language>
+        <movie:featured_film_location rdf:resource="http://data.linkedmdb.org/resource/film_location/349"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/42481"/>
+        <movie:featured_film_location rdf:resource="http://data.linkedmdb.org/resource/film_location/290"/>
+        <movie:film_subject rdf:resource="http://data.linkedmdb.org/resource/film_subject/581"/>
+        <movie:film_subject rdf:resource="http://data.linkedmdb.org/resource/film_subject/484"/>
+        <movie:writer rdf:resource="http://data.linkedmdb.org/resource/writer/13247"/>
+        <dc:title>Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</dc:title>
+        <movie:featured_film_location rdf:resource="http://data.linkedmdb.org/resource/film_location/318"/>
+        <foaf:page rdf:resource="http://www.rottentomatoes.com/alias?type=imdbid&amp;s=0057012"/>
+        <movie:film_cut rdf:resource="http://data.linkedmdb.org/resource/film_cut/1961"/>
+        <skos:subject rdf:resource="http://data.linkedmdb.org/resource/film_subject/883"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/9397"/>
+        <movie:producer rdf:resource="http://data.linkedmdb.org/resource/producer/9749"/>
+        <movie:country rdf:resource="http://data.linkedmdb.org/resource/country/GB"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/42474"/>
+        <rdfs:label>Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</rdfs:label>
+        <movie:editor rdf:resource="http://data.linkedmdb.org/resource/editor/1727"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/150931"/>
+        <foaf:page>
+          <rdf:Description rdf:about="http://www.imdb.com/title/tt0057012">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0057012%3E"/>
+          </rdf:Description>
+        </foaf:page>
+        <movie:writer rdf:resource="http://data.linkedmdb.org/resource/writer/388"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/29985"/>
+        <skos:subject rdf:resource="http://data.linkedmdb.org/resource/film_subject/362"/>
+        <skos:subject rdf:resource="http://data.linkedmdb.org/resource/film_subject/581"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/9396"/>
+        <movie:featured_film_location rdf:resource="http://data.linkedmdb.org/resource/film_location/791"/>
+        <movie:production_company rdf:resource="http://data.linkedmdb.org/resource/production_company/33"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/44109"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/42298"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/42473"/>
+        <movie:writer rdf:resource="http://data.linkedmdb.org/resource/writer/14719"/>
+        <movie:director>
+          <rdf:Description rdf:about="http://data.linkedmdb.org/resource/director/8476">
+            <foaf:made rdf:resource="http://data.linkedmdb.org/resource/film/8"/>
+          </rdf:Description>
+        </movie:director>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/29614"/>
+        <dc:date>1964-01-29</dc:date>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/46909"/>
+        <movie:genre rdf:resource="http://data.linkedmdb.org/resource/film_genre/17"/>
+        <skos:subject rdf:resource="http://data.linkedmdb.org/resource/film_subject/531"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/98651"/>
+        <skos:subject rdf:resource="http://data.linkedmdb.org/resource/film_subject/1211"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/35078"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/30085"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/34480"/>
+        <movie:runtime>94</movie:runtime>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/9395"/>
+        <movie:featured_film_location rdf:resource="http://data.linkedmdb.org/resource/film_location/298"/>
+        <movie:film_subject rdf:resource="http://data.linkedmdb.org/resource/film_subject/531"/>
+        <movie:film_subject rdf:resource="http://data.linkedmdb.org/resource/film_subject/1211"/>
+        <movie:writer rdf:resource="http://data.linkedmdb.org/resource/writer/13220"/>
+        <movie:initial_release_date>1964-01-29</movie:initial_release_date>
+        <movie:writer rdf:resource="http://data.linkedmdb.org/resource/writer/15250"/>
+        <movie:film_subject rdf:resource="http://data.linkedmdb.org/resource/film_subject/362"/>
+        <foaf:based_near>
+          <rdf:Description rdf:about="http://sws.geonames.org/2635167/">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fsws.geonames.org%2F2635167%2F%3E"/>
+          </rdf:Description>
+        </foaf:based_near>
+        <movie:featured_film_location rdf:resource="http://data.linkedmdb.org/resource/film_location/302"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/29874"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/9393"/>
+        <movie:music_contributor rdf:resource="http://data.linkedmdb.org/resource/music_contributor/1730"/>
+        <movie:featured_film_location rdf:resource="http://data.linkedmdb.org/resource/film_location/971"/>
+        <skos:subject rdf:resource="http://data.linkedmdb.org/resource/film_subject/484"/>
+        <foaf:page>
+          <rdf:Description rdf:about="http://www.freebase.com/view/guid/9202a8c04000641f8000000000013370">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.freebase.com%2Fview%2Fguid%2F9202a8c04000641f8000000000013370%3E"/>
+          </rdf:Description>
+        </foaf:page>
+        <movie:filmid rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >8</movie:filmid>
+      </movie:film>
+    </oddlinker:link_source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/data/film/8">
+    <rdfs:comment>Contents of this file may include content from 
+		      FreeBase (http://www.freebase.com) or Wikipedia 
+		      (http://www.wikipedia.org) licensed under CC-BY
+		      (http://www.freebase.com/view/common/license/cc_attribution_25)
+		      or GFDL (http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License). 
+		      Refer to http://www.linkedmdb.org:8080/Main/Licensing for more details.</rdfs:comment>
+    <rdfs:label>RDF Description of Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</rdfs:label>
+    <foaf:primaryTopic rdf:resource="http://data.linkedmdb.org/resource/film/8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film_film_distributor_relationship/76">
+    <movie:film_of_distributor rdf:resource="http://data.linkedmdb.org/resource/film/8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/133952">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/film/8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/63064">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/film/8"/>
+  </rdf:Description>
+</rdf:RDF>

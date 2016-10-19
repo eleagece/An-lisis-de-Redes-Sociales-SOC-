@@ -1,0 +1,1286 @@
+*****************************************************
+************** printArraySegments() *****************
+Segmento <pos:0,id:8551820,name:A5 SuperSnake (with tail)>
+  Atleta <pos:0,id:6961620,name:fer ponce>
+  Atleta <pos:1,id:3917358,name:Daniel Martin >
+  Atleta <pos:2,id:6397073,name:jose frutero>
+  Atleta <pos:3,id:9582999,name:Ramon  Cykel>
+  Atleta <pos:4,id:4863523,name:Carlosja Tf>
+Segmento <pos:1,id:4273053,name:Subida Zoo-Metro Casa de Campo>
+  Atleta <pos:0,id:6388933,name:Rubén Martin Gala>
+  Atleta <pos:1,id:5986952,name:David Alonso Cronoescalada.com>
+  Atleta <pos:2,id:12896710,name:Jorge Ramos>
+  Atleta <pos:3,id:2984192,name:Juan Jose Blanco>
+  Atleta <pos:4,id:6061900,name:Raúl Santos>
+Segmento <pos:2,id:8222742,name:Sendero "Gay">
+  Atleta <pos:0,id:2378916,name:Xendo Gomez Garcia>
+  Atleta <pos:1,id:1464843,name:Fer Hhl bichillo colorado>
+  Atleta <pos:2,id:8473626,name:javier de la flor>
+  Atleta <pos:3,id:1049583,name:Pablo Margom>
+  Atleta <pos:4,id:39235,name:Jaime  Ruiz>
+Segmento <pos:3,id:3524337,name:Boadilla - Zoo>
+  Atleta <pos:0,id:1049583,name:Pablo Margom>
+  Atleta <pos:1,id:6994023,name:javier lemus>
+  Atleta <pos:2,id:5712154,name:David Chache>
+  Atleta <pos:3,id:6397073,name:jose frutero>
+  Atleta <pos:4,id:3004426,name:Luis Mellado>
+Segmento <pos:4,id:5019042,name:Subida A5 casa de campo por carril bici>
+  Atleta <pos:0,id:5228164,name:Roberto Arranz>
+  Atleta <pos:1,id:687732,name:Ariel Toledo>
+  Atleta <pos:2,id:2625266,name:pEpE fm>
+  Atleta <pos:3,id:3100835,name:Jesus Galindo>
+  Atleta <pos:4,id:2427606,name:Ruben Almazan Hernandez>
+Segmento <pos:5,id:8876982,name:[AVC] Calle Valmojado (hasta semáforo)>
+  Atleta <pos:0,id:6961620,name:fer ponce>
+  Atleta <pos:1,id:39235,name:Jaime  Ruiz>
+  Atleta <pos:2,id:2471250,name:Carlos Tudela>
+  Atleta <pos:3,id:5821543,name:David jimenez GRANCANYON/KTM>
+  Atleta <pos:4,id:1415665,name:ROBERTO COLOMA>
+Segmento <pos:6,id:2501450,name:Subida Metro San Francisco>
+  Atleta <pos:0,id:1186680,name:Toni Abril>
+  Atleta <pos:1,id:8592589,name:Jesús Ángel Herrera>
+  Atleta <pos:2,id:432624,name:• Carlos Fdez>
+  Atleta <pos:3,id:4191792,name:jesus alonso>
+  Atleta <pos:4,id:6961620,name:fer ponce>
+Segmento <pos:7,id:7667303,name:Subida Trasera Sanatorio>
+  Atleta <pos:0,id:1733220,name:Daniel Nest>
+  Atleta <pos:1,id:1098268,name:Xolon Als>
+  Atleta <pos:2,id:357273,name:Brian McKay>
+  Atleta <pos:3,id:3125678,name:Carlos G Hermida>
+  Atleta <pos:4,id:2378916,name:Xendo Gomez Garcia>
+Segmento <pos:8,id:7667023,name:Pinarin -Sent. Norte->
+  Atleta <pos:0,id:10538025,name:Raul Paños>
+  Atleta <pos:1,id:1045172,name:Mario Moreno Martín>
+  Atleta <pos:2,id:5882521,name:David Gil Ruiz>
+  Atleta <pos:3,id:1415665,name:ROBERTO COLOMA>
+  Atleta <pos:4,id:750680,name:Juanjo Mayo>
+Segmento <pos:9,id:6920808,name:Subida hacia Ronda de Toledo>
+  Atleta <pos:0,id:1570533,name:Excmo  Sr Conde>
+  Atleta <pos:1,id:1585223,name:EspadaWan .>
+  Atleta <pos:2,id:5233679,name:Raúl Gª Domínguez>
+  Atleta <pos:3,id:10064936,name:Gabriel Carranza>
+  Atleta <pos:4,id:7635297,name:Lars  R.>
+Segmento <pos:10,id:3271181,name:Subida Garabitas>
+  Atleta <pos:0,id:5986952,name:David Alonso Cronoescalada.com>
+  Atleta <pos:1,id:3613592,name:E. Talavera Cronoescalada.com>
+  Atleta <pos:2,id:7787809,name:Yael Peña Moreno>
+  Atleta <pos:3,id:2984192,name:Juan Jose Blanco>
+  Atleta <pos:4,id:1476323,name:Hendrik  J>
+Segmento <pos:11,id:6393236,name:Repecho Lagotrainer>
+  Atleta <pos:0,id:5009464,name:SergioQuero CICLISMO EN CADENA>
+  Atleta <pos:1,id:3613592,name:E. Talavera Cronoescalada.com>
+  Atleta <pos:2,id:6037313,name:Lobsan Lopez Mur>
+  Atleta <pos:3,id:1229641,name:Miguel Cronoescalada.com>
+  Atleta <pos:4,id:4439012,name:Alvaro Tutor Cronoescalada.com>
+Segmento <pos:12,id:1790307,name:Llano entre barreras>
+  Atleta <pos:0,id:1731477,name:Ed Mund>
+  Atleta <pos:1,id:2474364,name:Berti Grnble>
+  Atleta <pos:2,id:3613592,name:E. Talavera Cronoescalada.com>
+  Atleta <pos:3,id:974357,name:Philip Graves>
+  Atleta <pos:4,id:6037313,name:Lobsan Lopez Mur>
+Segmento <pos:13,id:9142399,name:A la minicuesta>
+  Atleta <pos:0,id:8607466,name:Sadscha Koslowski>
+  Atleta <pos:1,id:106639,name:Isra Ms>
+  Atleta <pos:2,id:5228164,name:Roberto Arranz>
+  Atleta <pos:3,id:6388933,name:Rubén Martin Gala>
+  Atleta <pos:4,id:5644607,name:Ignacio Garcia-Valdecasas Dorrego>
+Segmento <pos:14,id:7426636,name:grabitas ataque final>
+  Atleta <pos:0,id:5986952,name:David Alonso Cronoescalada.com>
+  Atleta <pos:1,id:3613592,name:E. Talavera Cronoescalada.com>
+  Atleta <pos:2,id:6408990,name:Pablo Manso>
+  Atleta <pos:3,id:4657642,name:Mario Frutos Serrano>
+  Atleta <pos:4,id:6995653,name:Victor Cano Fernández>
+Segmento <pos:15,id:4938120,name:Paseo Azul>
+  Atleta <pos:0,id:3662533,name:Víctor  Garcimartín Jiménez>
+  Atleta <pos:1,id:1173818,name:txinomorao Juli>
+  Atleta <pos:2,id:2748816,name:Pablo Abascal>
+  Atleta <pos:3,id:6388933,name:Rubén Martin Gala>
+  Atleta <pos:4,id:1476323,name:Hendrik  J>
+Segmento <pos:16,id:6568656,name:Repecho Garabitas>
+  Atleta <pos:0,id:1124374,name:Jorge Blasco>
+  Atleta <pos:1,id:5986952,name:David Alonso Cronoescalada.com>
+  Atleta <pos:2,id:1167297,name:Andreas Phillipsen>
+  Atleta <pos:3,id:2474364,name:Berti Grnble>
+  Atleta <pos:4,id:5554443,name:AGUSTIN M B>
+Segmento <pos:17,id:6153169,name:Subida Zarzon>
+  Atleta <pos:0,id:2474364,name:Berti Grnble>
+  Atleta <pos:1,id:1685980,name:Miguel70 Angel>
+  Atleta <pos:2,id:1233434,name:LMKenya .>
+  Atleta <pos:3,id:1517203,name:Diego Matesanz>
+  Atleta <pos:4,id:147005,name:Diego Ramos>
+Segmento <pos:18,id:3603222,name:puente a puente manzanares>
+  Atleta <pos:0,id:1731477,name:Ed Mund>
+  Atleta <pos:1,id:884335,name:Cosmo Lauw>
+  Atleta <pos:2,id:1476323,name:Hendrik  J>
+  Atleta <pos:3,id:2923617,name:Diego Barron Vega>
+  Atleta <pos:4,id:3145169,name:Pedro Serrano>
+Segmento <pos:19,id:8619505,name:MGL Bajada del Zarzón>
+  Atleta <pos:0,id:3091071,name:iago barreiro>
+  Atleta <pos:1,id:3145169,name:Pedro Serrano>
+  Atleta <pos:2,id:2515154,name:Guiller Dc>
+  Atleta <pos:3,id:2943810,name:Pablo Dotu>
+  Atleta <pos:4,id:1476323,name:Hendrik  J>
+Segmento <pos:20,id:3301166,name:DH Tubería>
+  Atleta <pos:0,id:1477729,name:Turreras CC>
+  Atleta <pos:1,id:68415,name:Iago Garay>
+  Atleta <pos:2,id:3557253,name:Jorge Bazan>
+  Atleta <pos:3,id:3593959,name:Hugo Garzón>
+  Atleta <pos:4,id:2275089,name:Carlos Fernández Algobia>
+Segmento <pos:21,id:3301185,name:DH Palomar>
+  Atleta <pos:0,id:3557253,name:Jorge Bazan>
+  Atleta <pos:1,id:3593959,name:Hugo Garzón>
+  Atleta <pos:2,id:1736560,name:Dach Fernandez>
+  Atleta <pos:3,id:1477729,name:Turreras CC>
+  Atleta <pos:4,id:1806823,name:Eusebio Martinez>
+Segmento <pos:22,id:2813149,name:Bajada "tuberia" 2ª parte.>
+  Atleta <pos:0,id:1561571,name:Serrano Fernandez>
+  Atleta <pos:1,id:1169996,name:Aitor García>
+  Atleta <pos:2,id:3593959,name:Hugo Garzón>
+  Atleta <pos:3,id:1477729,name:Turreras CC>
+  Atleta <pos:4,id:2522562,name:jordi fornells>
+Segmento <pos:23,id:8200739,name:Repecho Carril Bici lado M40>
+  Atleta <pos:0,id:1443785,name:Eugenio Peña>
+  Atleta <pos:1,id:9408579,name:Paco Galan>
+  Atleta <pos:2,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:3,id:2451675,name:XC13 David>
+  Atleta <pos:4,id:884335,name:Cosmo Lauw>
+Segmento <pos:24,id:7469701,name:Rotonda M40 - Rotonda El Pardo>
+  Atleta <pos:0,id:39235,name:Jaime  Ruiz>
+  Atleta <pos:1,id:1517203,name:Diego Matesanz>
+  Atleta <pos:2,id:1625366,name:Jorge Morcillo Sanchez>
+  Atleta <pos:3,id:1402451,name:Lobo Tecuesta>
+  Atleta <pos:4,id:1515039,name:Francisco Fernandez Arribas>
+Segmento <pos:25,id:7507985,name:Sendero técnico>
+  Atleta <pos:0,id:9425228,name:Miguel Rodríguez>
+  Atleta <pos:1,id:3061018,name:Mark "Kimpo" Kimpton>
+  Atleta <pos:2,id:147005,name:Diego Ramos>
+  Atleta <pos:3,id:821443,name:Alberto Crespo>
+  Atleta <pos:4,id:4011838,name:Jose Manuel>
+Segmento <pos:26,id:6195512,name:Enduro Palomar>
+  Atleta <pos:0,id:3935345,name:fernando san emeterio>
+  Atleta <pos:1,id:147005,name:Diego Ramos>
+  Atleta <pos:2,id:3559500,name:Alvaro Astiz>
+  Atleta <pos:3,id:1736560,name:Dach Fernandez>
+  Atleta <pos:4,id:1710581,name:Manuel Aguirre>
+Segmento <pos:27,id:8477483,name:DH El Mirador>
+  Atleta <pos:0,id:1529959,name:kinde 33>
+  Atleta <pos:1,id:1049583,name:Pablo Margom>
+  Atleta <pos:2,id:2644124,name:Mountain Cranks>
+  Atleta <pos:3,id:3308737,name:Alejandro Delgado>
+  Atleta <pos:4,id:4222176,name:Pablo González>
+Segmento <pos:28,id:3745957,name:Vuelta el pardo puente a puente>
+  Atleta <pos:0,id:3491340,name:Itmar Esteban>
+  Atleta <pos:1,id:1101224,name:Manu Regidor>
+  Atleta <pos:2,id:3024775,name:Diego Tamayo>
+  Atleta <pos:3,id:2737819,name:Pau Castellvell>
+  Atleta <pos:4,id:2378916,name:Xendo Gomez Garcia>
+Segmento <pos:29,id:7936925,name:entrance fire road to parking lot E MCM>
+  Atleta <pos:0,id:2251634,name:Javier Garcia>
+  Atleta <pos:1,id:1851403,name:Gonzalo Zapatero De Murga>
+  Atleta <pos:2,id:621080,name:Ben Roberts>
+  Atleta <pos:3,id:3796428,name:alfonso sánchez >
+  Atleta <pos:4,id:1101224,name:Manu Regidor>
+Segmento <pos:30,id:6944661,name:subida del nudo sur>
+  Atleta <pos:0,id:1822018,name:Israel Corrochano>
+  Atleta <pos:1,id:7692003,name:Daniel Carbonero>
+  Atleta <pos:2,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:3,id:2809894,name:Txema Villar del Saz - Gordon>
+  Atleta <pos:4,id:4014641,name:M GIRALDEZ>
+Segmento <pos:31,id:7436778,name:Camino llano Madrid rio - Parque lineal del manzanares>
+  Atleta <pos:0,id:10325943,name:Dani Bazaco>
+  Atleta <pos:1,id:2809894,name:Txema Villar del Saz - Gordon>
+  Atleta <pos:2,id:1822018,name:Israel Corrochano>
+  Atleta <pos:3,id:7209153,name:IRONPIKI Pataliebre>
+  Atleta <pos:4,id:2322204,name:David Pi>
+Segmento <pos:32,id:3364802,name:Subida Palomeras (via ciclista)>
+  Atleta <pos:0,id:5774815,name:Juan Jose Liz Martos>
+  Atleta <pos:1,id:1621259,name:Raul diaz>
+  Atleta <pos:2,id:7709503,name:Giulio Agostini>
+  Atleta <pos:3,id:105208,name:Alberto Lobo>
+  Atleta <pos:4,id:4477089,name:Javier de la Torre Moliner>
+Segmento <pos:33,id:7021711,name:subida bar M-40>
+  Atleta <pos:0,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:1,id:3410787,name:Cubanito Chevere MTB>
+  Atleta <pos:2,id:4796185,name:Bernardo Martín Luna>
+  Atleta <pos:3,id:3373431,name:yon martinez>
+  Atleta <pos:4,id:3026395,name:Fernando - Eastern Watts>
+Segmento <pos:34,id:8987105,name:Curvas entre Árboles >
+  Atleta <pos:0,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:1,id:3753241,name:Manuel Nuñez>
+  Atleta <pos:2,id:5244299,name:Andres Barbero>
+  Atleta <pos:3,id:1681782,name:Joshua Bundy>
+  Atleta <pos:4,id:4453866,name:viktor Alvarez>
+Segmento <pos:35,id:3485768,name:Subida Palomeras desde puente>
+  Atleta <pos:0,id:5933662,name:Lucho Bravo>
+  Atleta <pos:1,id:105208,name:Alberto Lobo>
+  Atleta <pos:2,id:7619956,name:Alberto Segovia>
+  Atleta <pos:3,id:1677953,name:Yutis Calvo>
+  Atleta <pos:4,id:7709503,name:Giulio Agostini>
+Segmento <pos:36,id:4516523,name:Pedo Park Push>
+  Atleta <pos:0,id:2809894,name:Txema Villar del Saz - Gordon>
+  Atleta <pos:1,id:3504578,name:LUIS EL PERU CHIMÚ-VANILLABIKE luis antero nanfuñay calderon>
+  Atleta <pos:2,id:2904703,name:Tarek El Youssef Alarcón>
+  Atleta <pos:3,id:4738440,name:Fernando Quevedo Carrasco>
+  Atleta <pos:4,id:7429089,name:Jose Antonio Figueroa>
+Segmento <pos:37,id:1240431,name:Anillo verde - Bajada Entrevías>
+  Atleta <pos:0,id:1183586,name:Marcin Kuwalek>
+  Atleta <pos:1,id:5821543,name:David jimenez GRANCANYON/KTM>
+  Atleta <pos:2,id:4453866,name:viktor Alvarez>
+  Atleta <pos:3,id:8066492,name:Miguel Giant TCR>
+  Atleta <pos:4,id:5933662,name:Lucho Bravo>
+Segmento <pos:38,id:8533448,name:Subida Delicias>
+  Atleta <pos:0,id:5009464,name:SergioQuero CICLISMO EN CADENA>
+  Atleta <pos:1,id:7880211,name:Aaron merino>
+  Atleta <pos:2,id:10325943,name:Dani Bazaco>
+  Atleta <pos:3,id:3514251,name:Nacho Tapia>
+  Atleta <pos:4,id:868783,name:Carlos Guillén Herranz>
+Segmento <pos:39,id:2315041,name:AVC(A-3>Av.EntreVias>
+  Atleta <pos:0,id:4453866,name:viktor Alvarez>
+  Atleta <pos:1,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:2,id:5244299,name:Andres Barbero>
+  Atleta <pos:3,id:2322204,name:David Pi>
+  Atleta <pos:4,id:4796185,name:Bernardo Martín Luna>
+Segmento <pos:40,id:3738761,name:Col de Gran Via>
+  Atleta <pos:0,id:1173286,name:Joanne Dowling>
+  Atleta <pos:1,id:2455522,name:Christian Knees>
+  Atleta <pos:2,id:4044192,name:javi moreno>
+  Atleta <pos:3,id:1756844,name:Davide Villella>
+  Atleta <pos:4,id:1405137,name:Carlos Verona>
+Segmento <pos:41,id:9264157,name:Castellana [Bajada] De Plaza San Juan de la Cruz hasta Fernando el Santo>
+  Atleta <pos:0,id:3079890,name:Merino Martin>
+  Atleta <pos:1,id:10126155,name:Álvaro Nieto>
+  Atleta <pos:2,id:5637414,name:Bravo Rider>
+  Atleta <pos:3,id:602626,name:anders bakke>
+  Atleta <pos:4,id:6974138,name:Rubén Durán>
+Segmento <pos:42,id:10157807,name:cibeles-gran via>
+  Atleta <pos:0,id:2455522,name:Christian Knees>
+  Atleta <pos:1,id:3172791,name:Uri Sabat>
+  Atleta <pos:2,id:1173286,name:Joanne Dowling>
+  Atleta <pos:3,id:5680614,name:Johan Conradson>
+  Atleta <pos:4,id:423495,name:Dominique Rollin>
+Segmento <pos:43,id:5698580,name:Castellana (Cuzco - Colón)>
+  Atleta <pos:0,id:620302,name:Berto cq>
+  Atleta <pos:1,id:6974138,name:Rubén Durán>
+  Atleta <pos:2,id:602626,name:anders bakke>
+  Atleta <pos:3,id:7880211,name:Aaron merino>
+  Atleta <pos:4,id:3079890,name:Merino Martin>
+Segmento <pos:44,id:2354118,name:Castellano - María de Molina a Cuzco>
+  Atleta <pos:0,id:6350126,name:Brais Cela>
+  Atleta <pos:1,id:620302,name:Berto cq>
+  Atleta <pos:2,id:7880211,name:Aaron merino>
+  Atleta <pos:3,id:10765371,name:Eduardo Carrizo>
+  Atleta <pos:4,id:1652982,name:Edison Cueva Maza>
+Segmento <pos:45,id:10331666,name:Nuevos Ministerios - Bernabeu>
+  Atleta <pos:0,id:620302,name:Berto cq>
+  Atleta <pos:1,id:1517203,name:Diego Matesanz>
+  Atleta <pos:2,id:2923617,name:Diego Barron Vega>
+  Atleta <pos:3,id:4806496,name:r00bbo .>
+  Atleta <pos:4,id:6350126,name:Brais Cela>
+Segmento <pos:46,id:2553662,name:bravo murillo ending (down)>
+  Atleta <pos:0,id:2967539,name:Roberto Bolaños>
+  Atleta <pos:1,id:6181150,name:David Rico>
+  Atleta <pos:2,id:296076,name:benito gutierrezz>
+  Atleta <pos:3,id:620302,name:Berto cq>
+  Atleta <pos:4,id:884335,name:Cosmo Lauw>
+Segmento <pos:47,id:6244142,name:Subida Calle Alcalá (Ventas-Manuel Becerra)>
+  Atleta <pos:0,id:2439198,name:gerard paturel>
+  Atleta <pos:1,id:7042269,name:Oliver Gonzalez>
+  Atleta <pos:2,id:6325693,name:Manuel Ramírez>
+  Atleta <pos:3,id:3273768,name:Santi Royo>
+  Atleta <pos:4,id:187312,name:Julio F>
+Segmento <pos:48,id:6797333,name:Recta larga Retiro>
+  Atleta <pos:0,id:9494315,name:David Algora>
+  Atleta <pos:1,id:3075247,name:isengarder _>
+  Atleta <pos:2,id:2366388,name:JOSE LUIS PEÑA MTB>
+  Atleta <pos:3,id:1662080,name:Fernando Lopez>
+  Atleta <pos:4,id:7359886,name:Fernando Campomanes>
+Segmento <pos:49,id:6921814,name:Subida Arroyo de la Media Legua>
+  Atleta <pos:0,id:3995124,name:Alejandro Murillo>
+  Atleta <pos:1,id:9176994,name:Javier Fernández>
+  Atleta <pos:2,id:2991054,name:Carlos Ruiz>
+  Atleta <pos:3,id:4217026,name:Raul G G>
+  Atleta <pos:4,id:7874297,name:Noah Wánebo>
+Segmento <pos:50,id:5975240,name:Rampa de la salida del túnel>
+  Atleta <pos:0,id:3670038,name:Alex .>
+  Atleta <pos:1,id:147005,name:Diego Ramos>
+  Atleta <pos:2,id:488918,name:Tim Evans>
+  Atleta <pos:3,id:3097820,name:Jordi  Gayolà>
+  Atleta <pos:4,id:9821583,name:Naval Garcia>
+Segmento <pos:51,id:9978210,name:Sprint de vuelta Montecarmelo>
+  Atleta <pos:0,id:1669059,name:Héctor M Romero G>
+  Atleta <pos:1,id:2487338,name:Jesus Torres>
+  Atleta <pos:2,id:2487157,name:Matt Smith>
+  Atleta <pos:3,id:104362,name:pedro irastorza>
+  Atleta <pos:4,id:1625366,name:Jorge Morcillo Sanchez>
+Segmento <pos:52,id:1228625,name:Calle De Mauricio Legendre, 40 Climb>
+  Atleta <pos:0,id:1517203,name:Diego Matesanz>
+  Atleta <pos:1,id:3300748,name:Javier Cudero>
+  Atleta <pos:2,id:1768824,name:Bruno Martin MRtinez>
+  Atleta <pos:3,id:2967539,name:Roberto Bolaños>
+  Atleta <pos:4,id:1541151,name:Tomas Hernan>
+Segmento <pos:53,id:6295732,name:Calle de Vicente Blasco Ibáñez Climb>
+  Atleta <pos:0,id:2031548,name:dav garf>
+  Atleta <pos:1,id:738240,name:José Manuel Galindo>
+  Atleta <pos:2,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:3,id:1651222,name:Quique Gutiérrez Martín>
+  Atleta <pos:4,id:3097820,name:Jordi  Gayolà>
+Segmento <pos:54,id:8567490,name:Primer calenton>
+  Atleta <pos:0,id:7130822,name:Pablo Tardáguila>
+  Atleta <pos:1,id:3300748,name:Javier Cudero>
+  Atleta <pos:2,id:3264051,name:Victor Cano>
+  Atleta <pos:3,id:6759041,name:Abraham L>
+  Atleta <pos:4,id:1845867,name:xavier del Olmo>
+Segmento <pos:55,id:3807291,name:Mauricio Legendre hasta Cercanias Fuencarral>
+  Atleta <pos:0,id:2366388,name:JOSE LUIS PEÑA MTB>
+  Atleta <pos:1,id:1604479,name:David Herranz>
+  Atleta <pos:2,id:3831296,name:PITERA REY  FIXEDLAND/ SLCHRMTG TEAM>
+  Atleta <pos:3,id:2811815,name:Jesus Incera>
+  Atleta <pos:4,id:319493,name:David Tovar>
+Segmento <pos:56,id:9696870,name:Recta Fuencarral>
+  Atleta <pos:0,id:620302,name:Berto cq>
+  Atleta <pos:1,id:1541151,name:Tomas Hernan>
+  Atleta <pos:2,id:1604479,name:David Herranz>
+  Atleta <pos:3,id:3977435,name:Juan Carlos Guzmán>
+  Atleta <pos:4,id:187312,name:Julio F>
+Segmento <pos:57,id:6909964,name:Último tramo carril bici hasta rotonda>
+  Atleta <pos:0,id:105208,name:Alberto Lobo>
+  Atleta <pos:1,id:2031548,name:dav garf>
+  Atleta <pos:2,id:6628894,name:J M>
+  Atleta <pos:3,id:8623879,name:David Lario>
+  Atleta <pos:4,id:1765216,name:Jorge Díaz>
+Segmento <pos:58,id:3807283,name:Plaza Castilla - lateral Castellana hasta Mauricio Legendre>
+  Atleta <pos:0,id:187312,name:Julio F>
+  Atleta <pos:1,id:1517203,name:Diego Matesanz>
+  Atleta <pos:2,id:3298070,name:Jose A. Arantave>
+  Atleta <pos:3,id:2038341,name:Aitor F>
+  Atleta <pos:4,id:3952097,name:Ignacio Fo Pe>
+Segmento <pos:59,id:7077995,name:Bajada carril bici portomarín>
+  Atleta <pos:0,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:1,id:105208,name:Alberto Lobo>
+  Atleta <pos:2,id:1086808,name:juan picon>
+  Atleta <pos:3,id:2031548,name:dav garf>
+  Atleta <pos:4,id:2589354,name:Jeremy Barrett>
+Segmento <pos:60,id:4441639,name:Circuito Cerro Milano (ida/vuelta)>
+  Atleta <pos:0,id:6377812,name:Juan José Medina Sogas>
+  Atleta <pos:1,id:1822018,name:Israel Corrochano>
+  Atleta <pos:2,id:1983857,name:Rubén Hernández>
+  Atleta <pos:3,id:7619956,name:Alberto Segovia>
+  Atleta <pos:4,id:7709503,name:Giulio Agostini>
+Segmento <pos:61,id:7443177,name:Zig zag Vallecas>
+  Atleta <pos:0,id:1183586,name:Marcin Kuwalek>
+  Atleta <pos:1,id:1045172,name:Mario Moreno Martín>
+  Atleta <pos:2,id:2983625,name:XC13 Lapierre>
+  Atleta <pos:3,id:7410350,name:Fernando Lopez>
+  Atleta <pos:4,id:6051868,name:Bogdan Vasile Dadu>
+Segmento <pos:62,id:3576429,name:subida tolsa>
+  Atleta <pos:0,id:2920170,name:Luis Skywalker - Eastern Watts>
+  Atleta <pos:1,id:1090559,name:edu g >
+  Atleta <pos:2,id:1621259,name:Raul diaz>
+  Atleta <pos:3,id:1584223,name:Javier San Emeterio - Eastern Watts>
+  Atleta <pos:4,id:1998788,name:Adrián Mateo Parra>
+Segmento <pos:63,id:8270722,name:Circuito ensanche (solo vuelta)>
+  Atleta <pos:0,id:1822018,name:Israel Corrochano>
+  Atleta <pos:1,id:2456143,name:Queco .>
+  Atleta <pos:2,id:290181,name:Pablo Villarroel>
+  Atleta <pos:3,id:6377812,name:Juan José Medina Sogas>
+  Atleta <pos:4,id:1983857,name:Rubén Hernández>
+Segmento <pos:64,id:7121271,name:recta>
+  Atleta <pos:0,id:1183586,name:Marcin Kuwalek>
+  Atleta <pos:1,id:2983625,name:XC13 Lapierre>
+  Atleta <pos:2,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:3,id:7303421,name:@ira_y_fuego `>
+  Atleta <pos:4,id:2609161,name:daniel sanchez rod>
+Segmento <pos:65,id:3364826,name:Subida A3 (via ciclista)>
+  Atleta <pos:0,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:1,id:3753241,name:Manuel Nuñez>
+  Atleta <pos:2,id:3691363,name:jesus martinez Mcan>
+  Atleta <pos:3,id:3446647,name:Martinez Villarta MTB>
+  Atleta <pos:4,id:3612187,name:Jose Luis Vega Tallante>
+Segmento <pos:66,id:4492800,name:Subida a Dr Garcia Tapia>
+  Atleta <pos:0,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:1,id:3579295,name:Diego Delgado Corredor>
+  Atleta <pos:2,id:10530470,name:Alberto Martínez>
+  Atleta <pos:3,id:3090616,name:MARCIAL DOBLADO>
+  Atleta <pos:4,id:3446647,name:Martinez Villarta MTB>
+Segmento <pos:67,id:2364946,name:Calle de la Pirotécnia>
+  Atleta <pos:0,id:1528607,name:Lisardo Carballal>
+  Atleta <pos:1,id:3205634,name:Daniel Cruz Álvarez>
+  Atleta <pos:2,id:3474041,name:Francis Salazar - Eastern Watts>
+  Atleta <pos:3,id:1584223,name:Javier San Emeterio - Eastern Watts>
+  Atleta <pos:4,id:2031548,name:dav garf>
+Segmento <pos:68,id:8273269,name:Col du Ikea>
+  Atleta <pos:0,id:2456143,name:Queco .>
+  Atleta <pos:1,id:1822018,name:Israel Corrochano>
+  Atleta <pos:2,id:44111,name:Fran Gongora>
+  Atleta <pos:3,id:2189426,name:agogarcia _>
+  Atleta <pos:4,id:3914785,name:josera arellano>
+Segmento <pos:69,id:8719153,name:Calle Pirotecnia>
+  Atleta <pos:0,id:10328620,name:Javier Puente>
+  Atleta <pos:1,id:1584223,name:Javier San Emeterio - Eastern Watts>
+  Atleta <pos:2,id:3026395,name:Fernando - Eastern Watts>
+  Atleta <pos:3,id:2031548,name:dav garf>
+  Atleta <pos:4,id:3695986,name:Juan Carlos Simon Fernandez>
+Segmento <pos:70,id:3874241,name:Subida Peineta>
+  Atleta <pos:0,id:3787502,name:Ebel Gonzalez>
+  Atleta <pos:1,id:1801950,name:Javier Martin>
+  Atleta <pos:2,id:2031548,name:dav garf>
+  Atleta <pos:3,id:1231978,name:Jozef Van Der Alixen>
+  Atleta <pos:4,id:1893044,name:Guillermo Merino Jiménez>
+Segmento <pos:71,id:1004389,name:Gran Bajada (cerca Peineta)>
+  Atleta <pos:0,id:8499443,name:Antonio CR>
+  Atleta <pos:1,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:2,id:3787502,name:Ebel Gonzalez>
+  Atleta <pos:3,id:2031548,name:dav garf>
+  Atleta <pos:4,id:3410787,name:Cubanito Chevere MTB>
+Segmento <pos:72,id:4055147,name:Último Tramo subida Peineta 4%>
+  Atleta <pos:0,id:3507613,name:Antonio Osuna>
+  Atleta <pos:1,id:2031548,name:dav garf>
+  Atleta <pos:2,id:7793806,name:Albert Cano>
+  Atleta <pos:3,id:3410787,name:Cubanito Chevere MTB>
+  Atleta <pos:4,id:1893044,name:Guillermo Merino Jiménez>
+Segmento <pos:73,id:4311379,name:Subida a Campo de Las Naciones por sendero>
+  Atleta <pos:0,id:8499443,name:Antonio CR>
+  Atleta <pos:1,id:3787502,name:Ebel Gonzalez>
+  Atleta <pos:2,id:2031548,name:dav garf>
+  Atleta <pos:3,id:105208,name:Alberto Lobo>
+  Atleta <pos:4,id:554992,name:Antoine Berte>
+Segmento <pos:74,id:3343285,name:-Bajada- Carril Bici El corte inglés>
+  Atleta <pos:0,id:8499443,name:Antonio CR>
+  Atleta <pos:1,id:3787502,name:Ebel Gonzalez>
+  Atleta <pos:2,id:6641044,name:Coleta100 Gonzalez Guerra>
+  Atleta <pos:3,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:4,id:3475376,name:Marco Antonio Hita>
+Segmento <pos:75,id:7257529,name:Subida a plaza Alsacia>
+  Atleta <pos:0,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:1,id:7838137,name:alf 88>
+  Atleta <pos:2,id:4453866,name:viktor Alvarez>
+  Atleta <pos:3,id:10702309,name:David Peces>
+  Atleta <pos:4,id:1677953,name:Yutis Calvo>
+Segmento <pos:76,id:798190,name:Calle de Versalles>
+  Atleta <pos:0,id:2744994,name:Óscar Esteban Sánchez>
+  Atleta <pos:1,id:105208,name:Alberto Lobo>
+  Atleta <pos:2,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:3,id:10435548,name:alberto caro>
+  Atleta <pos:4,id:256218,name:Brett Wachtendorf>
+Segmento <pos:77,id:4604984,name:Las Rosas (C/ Sofia desde Arcentales)>
+  Atleta <pos:0,id:1141697,name:Javier Cañís>
+  Atleta <pos:1,id:3446647,name:Martinez Villarta MTB>
+  Atleta <pos:2,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:3,id:9553247,name:Patrick Paul>
+  Atleta <pos:4,id:7303421,name:@ira_y_fuego `>
+Segmento <pos:78,id:6561792,name:Calle de Sofia>
+  Atleta <pos:0,id:2031548,name:dav garf>
+  Atleta <pos:1,id:4477089,name:Javier de la Torre Moliner>
+  Atleta <pos:2,id:3446647,name:Martinez Villarta MTB>
+  Atleta <pos:3,id:8410328,name:Santiago Uriel>
+  Atleta <pos:4,id:3410787,name:Cubanito Chevere MTB>
+Segmento <pos:79,id:2323452,name:Subida Coslada - Madrid (Av. Arcentales)>
+  Atleta <pos:0,id:3475376,name:Marco Antonio Hita>
+  Atleta <pos:1,id:2769500,name:Jesús Nieto>
+  Atleta <pos:2,id:3787502,name:Ebel Gonzalez>
+  Atleta <pos:3,id:1585223,name:EspadaWan .>
+  Atleta <pos:4,id:1018382,name:Andres Del Rey Toribio>
+Segmento <pos:80,id:4125980,name:Repecho Circuito Valdebebas>
+  Atleta <pos:0,id:5022556,name:Gonzalo Zambrano>
+  Atleta <pos:1,id:8202568,name:Raul Corzo>
+  Atleta <pos:2,id:2233337,name:Rubén Toro>
+  Atleta <pos:3,id:2755722,name:Oscar Ciclos Barajas>
+  Atleta <pos:4,id:158971,name:Rubén de la Llave Esteban>
+Segmento <pos:81,id:7419971,name:Jodido falso llano..>
+  Atleta <pos:0,id:8585151,name:Alejandro Rodríguez>
+  Atleta <pos:1,id:4530018,name:moises moreno>
+  Atleta <pos:2,id:2710026,name:Sergio Valerio>
+  Atleta <pos:3,id:1326831,name:Nacho R. Pozuelo>
+  Atleta <pos:4,id:1384927,name:Carlos Ortega>
+Segmento <pos:82,id:4311133,name:Subida Monte Juan Carlos I>
+  Atleta <pos:0,id:3300748,name:Javier Cudero>
+  Atleta <pos:1,id:3730622,name:Guillermo Del Campo>
+  Atleta <pos:2,id:3728786,name:Santi Gonzalo>
+  Atleta <pos:3,id:3787502,name:Ebel Gonzalez>
+  Atleta <pos:4,id:2089897,name:Jose Angel SANTOS>
+Segmento <pos:83,id:5113589,name:Cuesta peaje R>
+  Atleta <pos:0,id:1919573,name:Alberto Gutierrez >
+  Atleta <pos:1,id:2710026,name:Sergio Valerio>
+  Atleta <pos:2,id:139512,name:Juan Díez>
+  Atleta <pos:3,id:8585151,name:Alejandro Rodríguez>
+  Atleta <pos:4,id:1651222,name:Quique Gutiérrez Martín>
+Segmento <pos:84,id:7451871,name:Subidita metro Valdebebas>
+  Atleta <pos:0,id:2238160,name:Alejandro Barcos>
+  Atleta <pos:1,id:3785603,name:Colbie Pro HRMTG>
+  Atleta <pos:2,id:402850,name:Pedro Pérez-Prim Saiz>
+  Atleta <pos:3,id:5588973,name:Gonzelara Autojoven>
+  Atleta <pos:4,id:11489176,name:Edu Delgado>
+Segmento <pos:85,id:6138869,name:Valdebebas´s Sprint>
+  Atleta <pos:0,id:4000139,name:carlos carchenilla>
+  Atleta <pos:1,id:2759716,name:Guillermo Baqué Taramona>
+  Atleta <pos:2,id:3475376,name:Marco Antonio Hita>
+  Atleta <pos:3,id:1651222,name:Quique Gutiérrez Martín>
+  Atleta <pos:4,id:3785603,name:Colbie Pro HRMTG>
+Segmento <pos:86,id:6811693,name:Zona 2A>
+  Atleta <pos:0,id:5830031,name:DOZIO HANDIMER>
+  Atleta <pos:1,id:1585223,name:EspadaWan .>
+  Atleta <pos:2,id:4015107,name:Saúl Martínez>
+  Atleta <pos:3,id:4654810,name:Jonhy Paz>
+  Atleta <pos:4,id:554992,name:Antoine Berte>
+Segmento <pos:87,id:8969368,name:julio cano laso hacia el norte>
+  Atleta <pos:0,id:2710026,name:Sergio Valerio>
+  Atleta <pos:1,id:2238160,name:Alejandro Barcos>
+  Atleta <pos:2,id:8585151,name:Alejandro Rodríguez>
+  Atleta <pos:3,id:738240,name:José Manuel Galindo>
+  Atleta <pos:4,id:2157331,name:Alejandro Fernandez>
+Segmento <pos:88,id:7253650,name:Entrada a Valdebebas>
+  Atleta <pos:0,id:3097820,name:Jordi  Gayolà>
+  Atleta <pos:1,id:1384927,name:Carlos Ortega>
+  Atleta <pos:2,id:2894233,name:Aitor Sanz>
+  Atleta <pos:3,id:3785603,name:Colbie Pro HRMTG>
+  Atleta <pos:4,id:7130822,name:Pablo Tardáguila>
+Segmento <pos:89,id:7517756,name:Ineeercia!>
+  Atleta <pos:0,id:10942507,name:Carlos Encinas>
+  Atleta <pos:1,id:3045120,name:Jesús M. Méndez>
+  Atleta <pos:2,id:1919573,name:Alberto Gutierrez >
+  Atleta <pos:3,id:2710026,name:Sergio Valerio>
+  Atleta <pos:4,id:8247498,name:Alfonso Menéndez>
+************** /printArraySegments() ****************
+*****************************************************
+
+*****************************************************
+************** printArrayAthletes() *****************
+Atleta <pos:0,id:6961620,name:fer ponce>
+  Segmento <pos:0,id:8551820,name:A5 SuperSnake (with tail)>
+  Segmento <pos:1,id:8876982,name:[AVC] Calle Valmojado (hasta semáforo)>
+  Segmento <pos:2,id:2501450,name:Subida Metro San Francisco>
+Atleta <pos:1,id:3917358,name:Daniel Martin >
+  Segmento <pos:0,id:8551820,name:A5 SuperSnake (with tail)>
+Atleta <pos:2,id:6397073,name:jose frutero>
+  Segmento <pos:0,id:8551820,name:A5 SuperSnake (with tail)>
+  Segmento <pos:1,id:3524337,name:Boadilla - Zoo>
+Atleta <pos:3,id:9582999,name:Ramon  Cykel>
+  Segmento <pos:0,id:8551820,name:A5 SuperSnake (with tail)>
+Atleta <pos:4,id:4863523,name:Carlosja Tf>
+  Segmento <pos:0,id:8551820,name:A5 SuperSnake (with tail)>
+Atleta <pos:5,id:6388933,name:Rubén Martin Gala>
+  Segmento <pos:0,id:4273053,name:Subida Zoo-Metro Casa de Campo>
+  Segmento <pos:1,id:9142399,name:A la minicuesta>
+  Segmento <pos:2,id:4938120,name:Paseo Azul>
+Atleta <pos:6,id:5986952,name:David Alonso Cronoescalada.com>
+  Segmento <pos:0,id:4273053,name:Subida Zoo-Metro Casa de Campo>
+  Segmento <pos:1,id:3271181,name:Subida Garabitas>
+  Segmento <pos:2,id:7426636,name:grabitas ataque final>
+  Segmento <pos:3,id:6568656,name:Repecho Garabitas>
+Atleta <pos:7,id:12896710,name:Jorge Ramos>
+  Segmento <pos:0,id:4273053,name:Subida Zoo-Metro Casa de Campo>
+Atleta <pos:8,id:2984192,name:Juan Jose Blanco>
+  Segmento <pos:0,id:4273053,name:Subida Zoo-Metro Casa de Campo>
+  Segmento <pos:1,id:3271181,name:Subida Garabitas>
+Atleta <pos:9,id:6061900,name:Raúl Santos>
+  Segmento <pos:0,id:4273053,name:Subida Zoo-Metro Casa de Campo>
+Atleta <pos:10,id:2378916,name:Xendo Gomez Garcia>
+  Segmento <pos:0,id:8222742,name:Sendero "Gay">
+  Segmento <pos:1,id:7667303,name:Subida Trasera Sanatorio>
+  Segmento <pos:2,id:3745957,name:Vuelta el pardo puente a puente>
+Atleta <pos:11,id:1464843,name:Fer Hhl bichillo colorado>
+  Segmento <pos:0,id:8222742,name:Sendero "Gay">
+Atleta <pos:12,id:8473626,name:javier de la flor>
+  Segmento <pos:0,id:8222742,name:Sendero "Gay">
+Atleta <pos:13,id:1049583,name:Pablo Margom>
+  Segmento <pos:0,id:8222742,name:Sendero "Gay">
+  Segmento <pos:1,id:3524337,name:Boadilla - Zoo>
+  Segmento <pos:2,id:8477483,name:DH El Mirador>
+Atleta <pos:14,id:39235,name:Jaime  Ruiz>
+  Segmento <pos:0,id:8222742,name:Sendero "Gay">
+  Segmento <pos:1,id:8876982,name:[AVC] Calle Valmojado (hasta semáforo)>
+  Segmento <pos:2,id:7469701,name:Rotonda M40 - Rotonda El Pardo>
+Atleta <pos:15,id:6994023,name:javier lemus>
+  Segmento <pos:0,id:3524337,name:Boadilla - Zoo>
+Atleta <pos:16,id:5712154,name:David Chache>
+  Segmento <pos:0,id:3524337,name:Boadilla - Zoo>
+Atleta <pos:17,id:3004426,name:Luis Mellado>
+  Segmento <pos:0,id:3524337,name:Boadilla - Zoo>
+Atleta <pos:18,id:5228164,name:Roberto Arranz>
+  Segmento <pos:0,id:5019042,name:Subida A5 casa de campo por carril bici>
+  Segmento <pos:1,id:9142399,name:A la minicuesta>
+Atleta <pos:19,id:687732,name:Ariel Toledo>
+  Segmento <pos:0,id:5019042,name:Subida A5 casa de campo por carril bici>
+Atleta <pos:20,id:2625266,name:pEpE fm>
+  Segmento <pos:0,id:5019042,name:Subida A5 casa de campo por carril bici>
+Atleta <pos:21,id:3100835,name:Jesus Galindo>
+  Segmento <pos:0,id:5019042,name:Subida A5 casa de campo por carril bici>
+Atleta <pos:22,id:2427606,name:Ruben Almazan Hernandez>
+  Segmento <pos:0,id:5019042,name:Subida A5 casa de campo por carril bici>
+Atleta <pos:23,id:2471250,name:Carlos Tudela>
+  Segmento <pos:0,id:8876982,name:[AVC] Calle Valmojado (hasta semáforo)>
+Atleta <pos:24,id:5821543,name:David jimenez GRANCANYON/KTM>
+  Segmento <pos:0,id:8876982,name:[AVC] Calle Valmojado (hasta semáforo)>
+  Segmento <pos:1,id:1240431,name:Anillo verde - Bajada Entrevías>
+Atleta <pos:25,id:1415665,name:ROBERTO COLOMA>
+  Segmento <pos:0,id:8876982,name:[AVC] Calle Valmojado (hasta semáforo)>
+  Segmento <pos:1,id:7667023,name:Pinarin -Sent. Norte->
+Atleta <pos:26,id:1186680,name:Toni Abril>
+  Segmento <pos:0,id:2501450,name:Subida Metro San Francisco>
+Atleta <pos:27,id:8592589,name:Jesús Ángel Herrera>
+  Segmento <pos:0,id:2501450,name:Subida Metro San Francisco>
+Atleta <pos:28,id:432624,name:• Carlos Fdez>
+  Segmento <pos:0,id:2501450,name:Subida Metro San Francisco>
+Atleta <pos:29,id:4191792,name:jesus alonso>
+  Segmento <pos:0,id:2501450,name:Subida Metro San Francisco>
+Atleta <pos:30,id:1733220,name:Daniel Nest>
+  Segmento <pos:0,id:7667303,name:Subida Trasera Sanatorio>
+Atleta <pos:31,id:1098268,name:Xolon Als>
+  Segmento <pos:0,id:7667303,name:Subida Trasera Sanatorio>
+Atleta <pos:32,id:357273,name:Brian McKay>
+  Segmento <pos:0,id:7667303,name:Subida Trasera Sanatorio>
+Atleta <pos:33,id:3125678,name:Carlos G Hermida>
+  Segmento <pos:0,id:7667303,name:Subida Trasera Sanatorio>
+Atleta <pos:34,id:10538025,name:Raul Paños>
+  Segmento <pos:0,id:7667023,name:Pinarin -Sent. Norte->
+Atleta <pos:35,id:1045172,name:Mario Moreno Martín>
+  Segmento <pos:0,id:7667023,name:Pinarin -Sent. Norte->
+  Segmento <pos:1,id:7443177,name:Zig zag Vallecas>
+Atleta <pos:36,id:5882521,name:David Gil Ruiz>
+  Segmento <pos:0,id:7667023,name:Pinarin -Sent. Norte->
+Atleta <pos:37,id:750680,name:Juanjo Mayo>
+  Segmento <pos:0,id:7667023,name:Pinarin -Sent. Norte->
+Atleta <pos:38,id:1570533,name:Excmo  Sr Conde>
+  Segmento <pos:0,id:6920808,name:Subida hacia Ronda de Toledo>
+Atleta <pos:39,id:1585223,name:EspadaWan .>
+  Segmento <pos:0,id:6920808,name:Subida hacia Ronda de Toledo>
+  Segmento <pos:1,id:2323452,name:Subida Coslada - Madrid (Av. Arcentales)>
+  Segmento <pos:2,id:6811693,name:Zona 2A>
+Atleta <pos:40,id:5233679,name:Raúl Gª Domínguez>
+  Segmento <pos:0,id:6920808,name:Subida hacia Ronda de Toledo>
+Atleta <pos:41,id:10064936,name:Gabriel Carranza>
+  Segmento <pos:0,id:6920808,name:Subida hacia Ronda de Toledo>
+Atleta <pos:42,id:7635297,name:Lars  R.>
+  Segmento <pos:0,id:6920808,name:Subida hacia Ronda de Toledo>
+Atleta <pos:43,id:3613592,name:E. Talavera Cronoescalada.com>
+  Segmento <pos:0,id:3271181,name:Subida Garabitas>
+  Segmento <pos:1,id:6393236,name:Repecho Lagotrainer>
+  Segmento <pos:2,id:1790307,name:Llano entre barreras>
+  Segmento <pos:3,id:7426636,name:grabitas ataque final>
+Atleta <pos:44,id:7787809,name:Yael Peña Moreno>
+  Segmento <pos:0,id:3271181,name:Subida Garabitas>
+Atleta <pos:45,id:1476323,name:Hendrik  J>
+  Segmento <pos:0,id:3271181,name:Subida Garabitas>
+  Segmento <pos:1,id:4938120,name:Paseo Azul>
+  Segmento <pos:2,id:3603222,name:puente a puente manzanares>
+  Segmento <pos:3,id:8619505,name:MGL Bajada del Zarzón>
+Atleta <pos:46,id:5009464,name:SergioQuero CICLISMO EN CADENA>
+  Segmento <pos:0,id:6393236,name:Repecho Lagotrainer>
+  Segmento <pos:1,id:8533448,name:Subida Delicias>
+Atleta <pos:47,id:6037313,name:Lobsan Lopez Mur>
+  Segmento <pos:0,id:6393236,name:Repecho Lagotrainer>
+  Segmento <pos:1,id:1790307,name:Llano entre barreras>
+Atleta <pos:48,id:1229641,name:Miguel Cronoescalada.com>
+  Segmento <pos:0,id:6393236,name:Repecho Lagotrainer>
+Atleta <pos:49,id:4439012,name:Alvaro Tutor Cronoescalada.com>
+  Segmento <pos:0,id:6393236,name:Repecho Lagotrainer>
+Atleta <pos:50,id:1731477,name:Ed Mund>
+  Segmento <pos:0,id:1790307,name:Llano entre barreras>
+  Segmento <pos:1,id:3603222,name:puente a puente manzanares>
+Atleta <pos:51,id:2474364,name:Berti Grnble>
+  Segmento <pos:0,id:1790307,name:Llano entre barreras>
+  Segmento <pos:1,id:6568656,name:Repecho Garabitas>
+  Segmento <pos:2,id:6153169,name:Subida Zarzon>
+Atleta <pos:52,id:974357,name:Philip Graves>
+  Segmento <pos:0,id:1790307,name:Llano entre barreras>
+Atleta <pos:53,id:8607466,name:Sadscha Koslowski>
+  Segmento <pos:0,id:9142399,name:A la minicuesta>
+Atleta <pos:54,id:106639,name:Isra Ms>
+  Segmento <pos:0,id:9142399,name:A la minicuesta>
+Atleta <pos:55,id:5644607,name:Ignacio Garcia-Valdecasas Dorrego>
+  Segmento <pos:0,id:9142399,name:A la minicuesta>
+Atleta <pos:56,id:6408990,name:Pablo Manso>
+  Segmento <pos:0,id:7426636,name:grabitas ataque final>
+Atleta <pos:57,id:4657642,name:Mario Frutos Serrano>
+  Segmento <pos:0,id:7426636,name:grabitas ataque final>
+Atleta <pos:58,id:6995653,name:Victor Cano Fernández>
+  Segmento <pos:0,id:7426636,name:grabitas ataque final>
+Atleta <pos:59,id:3662533,name:Víctor  Garcimartín Jiménez>
+  Segmento <pos:0,id:4938120,name:Paseo Azul>
+Atleta <pos:60,id:1173818,name:txinomorao Juli>
+  Segmento <pos:0,id:4938120,name:Paseo Azul>
+Atleta <pos:61,id:2748816,name:Pablo Abascal>
+  Segmento <pos:0,id:4938120,name:Paseo Azul>
+Atleta <pos:62,id:1124374,name:Jorge Blasco>
+  Segmento <pos:0,id:6568656,name:Repecho Garabitas>
+Atleta <pos:63,id:1167297,name:Andreas Phillipsen>
+  Segmento <pos:0,id:6568656,name:Repecho Garabitas>
+Atleta <pos:64,id:5554443,name:AGUSTIN M B>
+  Segmento <pos:0,id:6568656,name:Repecho Garabitas>
+Atleta <pos:65,id:1685980,name:Miguel70 Angel>
+  Segmento <pos:0,id:6153169,name:Subida Zarzon>
+Atleta <pos:66,id:1233434,name:LMKenya .>
+  Segmento <pos:0,id:6153169,name:Subida Zarzon>
+Atleta <pos:67,id:1517203,name:Diego Matesanz>
+  Segmento <pos:0,id:6153169,name:Subida Zarzon>
+  Segmento <pos:1,id:7469701,name:Rotonda M40 - Rotonda El Pardo>
+  Segmento <pos:2,id:10331666,name:Nuevos Ministerios - Bernabeu>
+  Segmento <pos:3,id:1228625,name:Calle De Mauricio Legendre, 40 Climb>
+  Segmento <pos:4,id:3807283,name:Plaza Castilla - lateral Castellana hasta Mauricio Legendre>
+Atleta <pos:68,id:147005,name:Diego Ramos>
+  Segmento <pos:0,id:6153169,name:Subida Zarzon>
+  Segmento <pos:1,id:7507985,name:Sendero técnico>
+  Segmento <pos:2,id:6195512,name:Enduro Palomar>
+  Segmento <pos:3,id:5975240,name:Rampa de la salida del túnel>
+Atleta <pos:69,id:884335,name:Cosmo Lauw>
+  Segmento <pos:0,id:3603222,name:puente a puente manzanares>
+  Segmento <pos:1,id:8200739,name:Repecho Carril Bici lado M40>
+  Segmento <pos:2,id:2553662,name:bravo murillo ending (down)>
+Atleta <pos:70,id:2923617,name:Diego Barron Vega>
+  Segmento <pos:0,id:3603222,name:puente a puente manzanares>
+  Segmento <pos:1,id:10331666,name:Nuevos Ministerios - Bernabeu>
+Atleta <pos:71,id:3145169,name:Pedro Serrano>
+  Segmento <pos:0,id:3603222,name:puente a puente manzanares>
+  Segmento <pos:1,id:8619505,name:MGL Bajada del Zarzón>
+Atleta <pos:72,id:3091071,name:iago barreiro>
+  Segmento <pos:0,id:8619505,name:MGL Bajada del Zarzón>
+Atleta <pos:73,id:2515154,name:Guiller Dc>
+  Segmento <pos:0,id:8619505,name:MGL Bajada del Zarzón>
+Atleta <pos:74,id:2943810,name:Pablo Dotu>
+  Segmento <pos:0,id:8619505,name:MGL Bajada del Zarzón>
+Atleta <pos:75,id:1477729,name:Turreras CC>
+  Segmento <pos:0,id:3301166,name:DH Tubería>
+  Segmento <pos:1,id:3301185,name:DH Palomar>
+  Segmento <pos:2,id:2813149,name:Bajada "tuberia" 2ª parte.>
+Atleta <pos:76,id:68415,name:Iago Garay>
+  Segmento <pos:0,id:3301166,name:DH Tubería>
+Atleta <pos:77,id:3557253,name:Jorge Bazan>
+  Segmento <pos:0,id:3301166,name:DH Tubería>
+  Segmento <pos:1,id:3301185,name:DH Palomar>
+Atleta <pos:78,id:3593959,name:Hugo Garzón>
+  Segmento <pos:0,id:3301166,name:DH Tubería>
+  Segmento <pos:1,id:3301185,name:DH Palomar>
+  Segmento <pos:2,id:2813149,name:Bajada "tuberia" 2ª parte.>
+Atleta <pos:79,id:2275089,name:Carlos Fernández Algobia>
+  Segmento <pos:0,id:3301166,name:DH Tubería>
+Atleta <pos:80,id:1736560,name:Dach Fernandez>
+  Segmento <pos:0,id:3301185,name:DH Palomar>
+  Segmento <pos:1,id:6195512,name:Enduro Palomar>
+Atleta <pos:81,id:1806823,name:Eusebio Martinez>
+  Segmento <pos:0,id:3301185,name:DH Palomar>
+Atleta <pos:82,id:1561571,name:Serrano Fernandez>
+  Segmento <pos:0,id:2813149,name:Bajada "tuberia" 2ª parte.>
+Atleta <pos:83,id:1169996,name:Aitor García>
+  Segmento <pos:0,id:2813149,name:Bajada "tuberia" 2ª parte.>
+Atleta <pos:84,id:2522562,name:jordi fornells>
+  Segmento <pos:0,id:2813149,name:Bajada "tuberia" 2ª parte.>
+Atleta <pos:85,id:1443785,name:Eugenio Peña>
+  Segmento <pos:0,id:8200739,name:Repecho Carril Bici lado M40>
+Atleta <pos:86,id:9408579,name:Paco Galan>
+  Segmento <pos:0,id:8200739,name:Repecho Carril Bici lado M40>
+Atleta <pos:87,id:4477089,name:Javier de la Torre Moliner>
+  Segmento <pos:0,id:8200739,name:Repecho Carril Bici lado M40>
+  Segmento <pos:1,id:6944661,name:subida del nudo sur>
+  Segmento <pos:2,id:3364802,name:Subida Palomeras (via ciclista)>
+  Segmento <pos:3,id:7021711,name:subida bar M-40>
+  Segmento <pos:4,id:8987105,name:Curvas entre Árboles >
+  Segmento <pos:5,id:2315041,name:AVC(A-3>Av.EntreVias>
+  Segmento <pos:6,id:6295732,name:Calle de Vicente Blasco Ibáñez Climb>
+  Segmento <pos:7,id:7077995,name:Bajada carril bici portomarín>
+  Segmento <pos:8,id:7121271,name:recta>
+  Segmento <pos:9,id:3364826,name:Subida A3 (via ciclista)>
+  Segmento <pos:10,id:4492800,name:Subida a Dr Garcia Tapia>
+  Segmento <pos:11,id:1004389,name:Gran Bajada (cerca Peineta)>
+  Segmento <pos:12,id:3343285,name:-Bajada- Carril Bici El corte inglés>
+  Segmento <pos:13,id:7257529,name:Subida a plaza Alsacia>
+  Segmento <pos:14,id:798190,name:Calle de Versalles>
+  Segmento <pos:15,id:4604984,name:Las Rosas (C/ Sofia desde Arcentales)>
+  Segmento <pos:16,id:6561792,name:Calle de Sofia>
+Atleta <pos:88,id:2451675,name:XC13 David>
+  Segmento <pos:0,id:8200739,name:Repecho Carril Bici lado M40>
+Atleta <pos:89,id:1625366,name:Jorge Morcillo Sanchez>
+  Segmento <pos:0,id:7469701,name:Rotonda M40 - Rotonda El Pardo>
+  Segmento <pos:1,id:9978210,name:Sprint de vuelta Montecarmelo>
+Atleta <pos:90,id:1402451,name:Lobo Tecuesta>
+  Segmento <pos:0,id:7469701,name:Rotonda M40 - Rotonda El Pardo>
+Atleta <pos:91,id:1515039,name:Francisco Fernandez Arribas>
+  Segmento <pos:0,id:7469701,name:Rotonda M40 - Rotonda El Pardo>
+Atleta <pos:92,id:9425228,name:Miguel Rodríguez>
+  Segmento <pos:0,id:7507985,name:Sendero técnico>
+Atleta <pos:93,id:3061018,name:Mark "Kimpo" Kimpton>
+  Segmento <pos:0,id:7507985,name:Sendero técnico>
+Atleta <pos:94,id:821443,name:Alberto Crespo>
+  Segmento <pos:0,id:7507985,name:Sendero técnico>
+Atleta <pos:95,id:4011838,name:Jose Manuel>
+  Segmento <pos:0,id:7507985,name:Sendero técnico>
+Atleta <pos:96,id:3935345,name:fernando san emeterio>
+  Segmento <pos:0,id:6195512,name:Enduro Palomar>
+Atleta <pos:97,id:3559500,name:Alvaro Astiz>
+  Segmento <pos:0,id:6195512,name:Enduro Palomar>
+Atleta <pos:98,id:1710581,name:Manuel Aguirre>
+  Segmento <pos:0,id:6195512,name:Enduro Palomar>
+Atleta <pos:99,id:1529959,name:kinde 33>
+  Segmento <pos:0,id:8477483,name:DH El Mirador>
+Atleta <pos:100,id:2644124,name:Mountain Cranks>
+  Segmento <pos:0,id:8477483,name:DH El Mirador>
+Atleta <pos:101,id:3308737,name:Alejandro Delgado>
+  Segmento <pos:0,id:8477483,name:DH El Mirador>
+Atleta <pos:102,id:4222176,name:Pablo González>
+  Segmento <pos:0,id:8477483,name:DH El Mirador>
+Atleta <pos:103,id:3491340,name:Itmar Esteban>
+  Segmento <pos:0,id:3745957,name:Vuelta el pardo puente a puente>
+Atleta <pos:104,id:1101224,name:Manu Regidor>
+  Segmento <pos:0,id:3745957,name:Vuelta el pardo puente a puente>
+  Segmento <pos:1,id:7936925,name:entrance fire road to parking lot E MCM>
+Atleta <pos:105,id:3024775,name:Diego Tamayo>
+  Segmento <pos:0,id:3745957,name:Vuelta el pardo puente a puente>
+Atleta <pos:106,id:2737819,name:Pau Castellvell>
+  Segmento <pos:0,id:3745957,name:Vuelta el pardo puente a puente>
+Atleta <pos:107,id:2251634,name:Javier Garcia>
+  Segmento <pos:0,id:7936925,name:entrance fire road to parking lot E MCM>
+Atleta <pos:108,id:1851403,name:Gonzalo Zapatero De Murga>
+  Segmento <pos:0,id:7936925,name:entrance fire road to parking lot E MCM>
+Atleta <pos:109,id:621080,name:Ben Roberts>
+  Segmento <pos:0,id:7936925,name:entrance fire road to parking lot E MCM>
+Atleta <pos:110,id:3796428,name:alfonso sánchez >
+  Segmento <pos:0,id:7936925,name:entrance fire road to parking lot E MCM>
+Atleta <pos:111,id:1822018,name:Israel Corrochano>
+  Segmento <pos:0,id:6944661,name:subida del nudo sur>
+  Segmento <pos:1,id:7436778,name:Camino llano Madrid rio - Parque lineal del manzanares>
+  Segmento <pos:2,id:4441639,name:Circuito Cerro Milano (ida/vuelta)>
+  Segmento <pos:3,id:8270722,name:Circuito ensanche (solo vuelta)>
+  Segmento <pos:4,id:8273269,name:Col du Ikea>
+Atleta <pos:112,id:7692003,name:Daniel Carbonero>
+  Segmento <pos:0,id:6944661,name:subida del nudo sur>
+Atleta <pos:113,id:2809894,name:Txema Villar del Saz - Gordon>
+  Segmento <pos:0,id:6944661,name:subida del nudo sur>
+  Segmento <pos:1,id:7436778,name:Camino llano Madrid rio - Parque lineal del manzanares>
+  Segmento <pos:2,id:4516523,name:Pedo Park Push>
+Atleta <pos:114,id:4014641,name:M GIRALDEZ>
+  Segmento <pos:0,id:6944661,name:subida del nudo sur>
+Atleta <pos:115,id:10325943,name:Dani Bazaco>
+  Segmento <pos:0,id:7436778,name:Camino llano Madrid rio - Parque lineal del manzanares>
+  Segmento <pos:1,id:8533448,name:Subida Delicias>
+Atleta <pos:116,id:7209153,name:IRONPIKI Pataliebre>
+  Segmento <pos:0,id:7436778,name:Camino llano Madrid rio - Parque lineal del manzanares>
+Atleta <pos:117,id:2322204,name:David Pi>
+  Segmento <pos:0,id:7436778,name:Camino llano Madrid rio - Parque lineal del manzanares>
+  Segmento <pos:1,id:2315041,name:AVC(A-3>Av.EntreVias>
+Atleta <pos:118,id:5774815,name:Juan Jose Liz Martos>
+  Segmento <pos:0,id:3364802,name:Subida Palomeras (via ciclista)>
+Atleta <pos:119,id:1621259,name:Raul diaz>
+  Segmento <pos:0,id:3364802,name:Subida Palomeras (via ciclista)>
+  Segmento <pos:1,id:3576429,name:subida tolsa>
+Atleta <pos:120,id:7709503,name:Giulio Agostini>
+  Segmento <pos:0,id:3364802,name:Subida Palomeras (via ciclista)>
+  Segmento <pos:1,id:3485768,name:Subida Palomeras desde puente>
+  Segmento <pos:2,id:4441639,name:Circuito Cerro Milano (ida/vuelta)>
+Atleta <pos:121,id:105208,name:Alberto Lobo>
+  Segmento <pos:0,id:3364802,name:Subida Palomeras (via ciclista)>
+  Segmento <pos:1,id:3485768,name:Subida Palomeras desde puente>
+  Segmento <pos:2,id:6909964,name:Último tramo carril bici hasta rotonda>
+  Segmento <pos:3,id:7077995,name:Bajada carril bici portomarín>
+  Segmento <pos:4,id:4311379,name:Subida a Campo de Las Naciones por sendero>
+  Segmento <pos:5,id:798190,name:Calle de Versalles>
+Atleta <pos:122,id:3410787,name:Cubanito Chevere MTB>
+  Segmento <pos:0,id:7021711,name:subida bar M-40>
+  Segmento <pos:1,id:1004389,name:Gran Bajada (cerca Peineta)>
+  Segmento <pos:2,id:4055147,name:Último Tramo subida Peineta 4%>
+  Segmento <pos:3,id:6561792,name:Calle de Sofia>
+Atleta <pos:123,id:4796185,name:Bernardo Martín Luna>
+  Segmento <pos:0,id:7021711,name:subida bar M-40>
+  Segmento <pos:1,id:2315041,name:AVC(A-3>Av.EntreVias>
+Atleta <pos:124,id:3373431,name:yon martinez>
+  Segmento <pos:0,id:7021711,name:subida bar M-40>
+Atleta <pos:125,id:3026395,name:Fernando - Eastern Watts>
+  Segmento <pos:0,id:7021711,name:subida bar M-40>
+  Segmento <pos:1,id:8719153,name:Calle Pirotecnia>
+Atleta <pos:126,id:3753241,name:Manuel Nuñez>
+  Segmento <pos:0,id:8987105,name:Curvas entre Árboles >
+  Segmento <pos:1,id:3364826,name:Subida A3 (via ciclista)>
+Atleta <pos:127,id:5244299,name:Andres Barbero>
+  Segmento <pos:0,id:8987105,name:Curvas entre Árboles >
+  Segmento <pos:1,id:2315041,name:AVC(A-3>Av.EntreVias>
+Atleta <pos:128,id:1681782,name:Joshua Bundy>
+  Segmento <pos:0,id:8987105,name:Curvas entre Árboles >
+Atleta <pos:129,id:4453866,name:viktor Alvarez>
+  Segmento <pos:0,id:8987105,name:Curvas entre Árboles >
+  Segmento <pos:1,id:1240431,name:Anillo verde - Bajada Entrevías>
+  Segmento <pos:2,id:2315041,name:AVC(A-3>Av.EntreVias>
+  Segmento <pos:3,id:7257529,name:Subida a plaza Alsacia>
+Atleta <pos:130,id:5933662,name:Lucho Bravo>
+  Segmento <pos:0,id:3485768,name:Subida Palomeras desde puente>
+  Segmento <pos:1,id:1240431,name:Anillo verde - Bajada Entrevías>
+Atleta <pos:131,id:7619956,name:Alberto Segovia>
+  Segmento <pos:0,id:3485768,name:Subida Palomeras desde puente>
+  Segmento <pos:1,id:4441639,name:Circuito Cerro Milano (ida/vuelta)>
+Atleta <pos:132,id:1677953,name:Yutis Calvo>
+  Segmento <pos:0,id:3485768,name:Subida Palomeras desde puente>
+  Segmento <pos:1,id:7257529,name:Subida a plaza Alsacia>
+Atleta <pos:133,id:3504578,name:LUIS EL PERU CHIMÚ-VANILLABIKE luis antero nanfuñay calderon>
+  Segmento <pos:0,id:4516523,name:Pedo Park Push>
+Atleta <pos:134,id:2904703,name:Tarek El Youssef Alarcón>
+  Segmento <pos:0,id:4516523,name:Pedo Park Push>
+Atleta <pos:135,id:4738440,name:Fernando Quevedo Carrasco>
+  Segmento <pos:0,id:4516523,name:Pedo Park Push>
+Atleta <pos:136,id:7429089,name:Jose Antonio Figueroa>
+  Segmento <pos:0,id:4516523,name:Pedo Park Push>
+Atleta <pos:137,id:1183586,name:Marcin Kuwalek>
+  Segmento <pos:0,id:1240431,name:Anillo verde - Bajada Entrevías>
+  Segmento <pos:1,id:7443177,name:Zig zag Vallecas>
+  Segmento <pos:2,id:7121271,name:recta>
+Atleta <pos:138,id:8066492,name:Miguel Giant TCR>
+  Segmento <pos:0,id:1240431,name:Anillo verde - Bajada Entrevías>
+Atleta <pos:139,id:7880211,name:Aaron merino>
+  Segmento <pos:0,id:8533448,name:Subida Delicias>
+  Segmento <pos:1,id:5698580,name:Castellana (Cuzco - Colón)>
+  Segmento <pos:2,id:2354118,name:Castellano - María de Molina a Cuzco>
+Atleta <pos:140,id:3514251,name:Nacho Tapia>
+  Segmento <pos:0,id:8533448,name:Subida Delicias>
+Atleta <pos:141,id:868783,name:Carlos Guillén Herranz>
+  Segmento <pos:0,id:8533448,name:Subida Delicias>
+Atleta <pos:142,id:1173286,name:Joanne Dowling>
+  Segmento <pos:0,id:3738761,name:Col de Gran Via>
+  Segmento <pos:1,id:10157807,name:cibeles-gran via>
+Atleta <pos:143,id:2455522,name:Christian Knees>
+  Segmento <pos:0,id:3738761,name:Col de Gran Via>
+  Segmento <pos:1,id:10157807,name:cibeles-gran via>
+Atleta <pos:144,id:4044192,name:javi moreno>
+  Segmento <pos:0,id:3738761,name:Col de Gran Via>
+Atleta <pos:145,id:1756844,name:Davide Villella>
+  Segmento <pos:0,id:3738761,name:Col de Gran Via>
+Atleta <pos:146,id:1405137,name:Carlos Verona>
+  Segmento <pos:0,id:3738761,name:Col de Gran Via>
+Atleta <pos:147,id:3079890,name:Merino Martin>
+  Segmento <pos:0,id:9264157,name:Castellana [Bajada] De Plaza San Juan de la Cruz hasta Fernando el Santo>
+  Segmento <pos:1,id:5698580,name:Castellana (Cuzco - Colón)>
+Atleta <pos:148,id:10126155,name:Álvaro Nieto>
+  Segmento <pos:0,id:9264157,name:Castellana [Bajada] De Plaza San Juan de la Cruz hasta Fernando el Santo>
+Atleta <pos:149,id:5637414,name:Bravo Rider>
+  Segmento <pos:0,id:9264157,name:Castellana [Bajada] De Plaza San Juan de la Cruz hasta Fernando el Santo>
+Atleta <pos:150,id:602626,name:anders bakke>
+  Segmento <pos:0,id:9264157,name:Castellana [Bajada] De Plaza San Juan de la Cruz hasta Fernando el Santo>
+  Segmento <pos:1,id:5698580,name:Castellana (Cuzco - Colón)>
+Atleta <pos:151,id:6974138,name:Rubén Durán>
+  Segmento <pos:0,id:9264157,name:Castellana [Bajada] De Plaza San Juan de la Cruz hasta Fernando el Santo>
+  Segmento <pos:1,id:5698580,name:Castellana (Cuzco - Colón)>
+Atleta <pos:152,id:3172791,name:Uri Sabat>
+  Segmento <pos:0,id:10157807,name:cibeles-gran via>
+Atleta <pos:153,id:5680614,name:Johan Conradson>
+  Segmento <pos:0,id:10157807,name:cibeles-gran via>
+Atleta <pos:154,id:423495,name:Dominique Rollin>
+  Segmento <pos:0,id:10157807,name:cibeles-gran via>
+Atleta <pos:155,id:620302,name:Berto cq>
+  Segmento <pos:0,id:5698580,name:Castellana (Cuzco - Colón)>
+  Segmento <pos:1,id:2354118,name:Castellano - María de Molina a Cuzco>
+  Segmento <pos:2,id:10331666,name:Nuevos Ministerios - Bernabeu>
+  Segmento <pos:3,id:2553662,name:bravo murillo ending (down)>
+  Segmento <pos:4,id:9696870,name:Recta Fuencarral>
+Atleta <pos:156,id:6350126,name:Brais Cela>
+  Segmento <pos:0,id:2354118,name:Castellano - María de Molina a Cuzco>
+  Segmento <pos:1,id:10331666,name:Nuevos Ministerios - Bernabeu>
+Atleta <pos:157,id:10765371,name:Eduardo Carrizo>
+  Segmento <pos:0,id:2354118,name:Castellano - María de Molina a Cuzco>
+Atleta <pos:158,id:1652982,name:Edison Cueva Maza>
+  Segmento <pos:0,id:2354118,name:Castellano - María de Molina a Cuzco>
+Atleta <pos:159,id:4806496,name:r00bbo .>
+  Segmento <pos:0,id:10331666,name:Nuevos Ministerios - Bernabeu>
+Atleta <pos:160,id:2967539,name:Roberto Bolaños>
+  Segmento <pos:0,id:2553662,name:bravo murillo ending (down)>
+  Segmento <pos:1,id:1228625,name:Calle De Mauricio Legendre, 40 Climb>
+Atleta <pos:161,id:6181150,name:David Rico>
+  Segmento <pos:0,id:2553662,name:bravo murillo ending (down)>
+Atleta <pos:162,id:296076,name:benito gutierrezz>
+  Segmento <pos:0,id:2553662,name:bravo murillo ending (down)>
+Atleta <pos:163,id:2439198,name:gerard paturel>
+  Segmento <pos:0,id:6244142,name:Subida Calle Alcalá (Ventas-Manuel Becerra)>
+Atleta <pos:164,id:7042269,name:Oliver Gonzalez>
+  Segmento <pos:0,id:6244142,name:Subida Calle Alcalá (Ventas-Manuel Becerra)>
+Atleta <pos:165,id:6325693,name:Manuel Ramírez>
+  Segmento <pos:0,id:6244142,name:Subida Calle Alcalá (Ventas-Manuel Becerra)>
+Atleta <pos:166,id:3273768,name:Santi Royo>
+  Segmento <pos:0,id:6244142,name:Subida Calle Alcalá (Ventas-Manuel Becerra)>
+Atleta <pos:167,id:187312,name:Julio F>
+  Segmento <pos:0,id:6244142,name:Subida Calle Alcalá (Ventas-Manuel Becerra)>
+  Segmento <pos:1,id:9696870,name:Recta Fuencarral>
+  Segmento <pos:2,id:3807283,name:Plaza Castilla - lateral Castellana hasta Mauricio Legendre>
+Atleta <pos:168,id:9494315,name:David Algora>
+  Segmento <pos:0,id:6797333,name:Recta larga Retiro>
+Atleta <pos:169,id:3075247,name:isengarder _>
+  Segmento <pos:0,id:6797333,name:Recta larga Retiro>
+Atleta <pos:170,id:2366388,name:JOSE LUIS PEÑA MTB>
+  Segmento <pos:0,id:6797333,name:Recta larga Retiro>
+  Segmento <pos:1,id:3807291,name:Mauricio Legendre hasta Cercanias Fuencarral>
+Atleta <pos:171,id:1662080,name:Fernando Lopez>
+  Segmento <pos:0,id:6797333,name:Recta larga Retiro>
+Atleta <pos:172,id:7359886,name:Fernando Campomanes>
+  Segmento <pos:0,id:6797333,name:Recta larga Retiro>
+Atleta <pos:173,id:3995124,name:Alejandro Murillo>
+  Segmento <pos:0,id:6921814,name:Subida Arroyo de la Media Legua>
+Atleta <pos:174,id:9176994,name:Javier Fernández>
+  Segmento <pos:0,id:6921814,name:Subida Arroyo de la Media Legua>
+Atleta <pos:175,id:2991054,name:Carlos Ruiz>
+  Segmento <pos:0,id:6921814,name:Subida Arroyo de la Media Legua>
+Atleta <pos:176,id:4217026,name:Raul G G>
+  Segmento <pos:0,id:6921814,name:Subida Arroyo de la Media Legua>
+Atleta <pos:177,id:7874297,name:Noah Wánebo>
+  Segmento <pos:0,id:6921814,name:Subida Arroyo de la Media Legua>
+Atleta <pos:178,id:3670038,name:Alex .>
+  Segmento <pos:0,id:5975240,name:Rampa de la salida del túnel>
+Atleta <pos:179,id:488918,name:Tim Evans>
+  Segmento <pos:0,id:5975240,name:Rampa de la salida del túnel>
+Atleta <pos:180,id:3097820,name:Jordi  Gayolà>
+  Segmento <pos:0,id:5975240,name:Rampa de la salida del túnel>
+  Segmento <pos:1,id:6295732,name:Calle de Vicente Blasco Ibáñez Climb>
+  Segmento <pos:2,id:7253650,name:Entrada a Valdebebas>
+Atleta <pos:181,id:9821583,name:Naval Garcia>
+  Segmento <pos:0,id:5975240,name:Rampa de la salida del túnel>
+Atleta <pos:182,id:1669059,name:Héctor M Romero G>
+  Segmento <pos:0,id:9978210,name:Sprint de vuelta Montecarmelo>
+Atleta <pos:183,id:2487338,name:Jesus Torres>
+  Segmento <pos:0,id:9978210,name:Sprint de vuelta Montecarmelo>
+Atleta <pos:184,id:2487157,name:Matt Smith>
+  Segmento <pos:0,id:9978210,name:Sprint de vuelta Montecarmelo>
+Atleta <pos:185,id:104362,name:pedro irastorza>
+  Segmento <pos:0,id:9978210,name:Sprint de vuelta Montecarmelo>
+Atleta <pos:186,id:3300748,name:Javier Cudero>
+  Segmento <pos:0,id:1228625,name:Calle De Mauricio Legendre, 40 Climb>
+  Segmento <pos:1,id:8567490,name:Primer calenton>
+  Segmento <pos:2,id:4311133,name:Subida Monte Juan Carlos I>
+Atleta <pos:187,id:1768824,name:Bruno Martin MRtinez>
+  Segmento <pos:0,id:1228625,name:Calle De Mauricio Legendre, 40 Climb>
+Atleta <pos:188,id:1541151,name:Tomas Hernan>
+  Segmento <pos:0,id:1228625,name:Calle De Mauricio Legendre, 40 Climb>
+  Segmento <pos:1,id:9696870,name:Recta Fuencarral>
+Atleta <pos:189,id:2031548,name:dav garf>
+  Segmento <pos:0,id:6295732,name:Calle de Vicente Blasco Ibáñez Climb>
+  Segmento <pos:1,id:6909964,name:Último tramo carril bici hasta rotonda>
+  Segmento <pos:2,id:7077995,name:Bajada carril bici portomarín>
+  Segmento <pos:3,id:2364946,name:Calle de la Pirotécnia>
+  Segmento <pos:4,id:8719153,name:Calle Pirotecnia>
+  Segmento <pos:5,id:3874241,name:Subida Peineta>
+  Segmento <pos:6,id:1004389,name:Gran Bajada (cerca Peineta)>
+  Segmento <pos:7,id:4055147,name:Último Tramo subida Peineta 4%>
+  Segmento <pos:8,id:4311379,name:Subida a Campo de Las Naciones por sendero>
+  Segmento <pos:9,id:6561792,name:Calle de Sofia>
+Atleta <pos:190,id:738240,name:José Manuel Galindo>
+  Segmento <pos:0,id:6295732,name:Calle de Vicente Blasco Ibáñez Climb>
+  Segmento <pos:1,id:8969368,name:julio cano laso hacia el norte>
+Atleta <pos:191,id:1651222,name:Quique Gutiérrez Martín>
+  Segmento <pos:0,id:6295732,name:Calle de Vicente Blasco Ibáñez Climb>
+  Segmento <pos:1,id:5113589,name:Cuesta peaje R>
+  Segmento <pos:2,id:6138869,name:Valdebebas´s Sprint>
+Atleta <pos:192,id:7130822,name:Pablo Tardáguila>
+  Segmento <pos:0,id:8567490,name:Primer calenton>
+  Segmento <pos:1,id:7253650,name:Entrada a Valdebebas>
+Atleta <pos:193,id:3264051,name:Victor Cano>
+  Segmento <pos:0,id:8567490,name:Primer calenton>
+Atleta <pos:194,id:6759041,name:Abraham L>
+  Segmento <pos:0,id:8567490,name:Primer calenton>
+Atleta <pos:195,id:1845867,name:xavier del Olmo>
+  Segmento <pos:0,id:8567490,name:Primer calenton>
+Atleta <pos:196,id:1604479,name:David Herranz>
+  Segmento <pos:0,id:3807291,name:Mauricio Legendre hasta Cercanias Fuencarral>
+  Segmento <pos:1,id:9696870,name:Recta Fuencarral>
+Atleta <pos:197,id:3831296,name:PITERA REY  FIXEDLAND/ SLCHRMTG TEAM>
+  Segmento <pos:0,id:3807291,name:Mauricio Legendre hasta Cercanias Fuencarral>
+Atleta <pos:198,id:2811815,name:Jesus Incera>
+  Segmento <pos:0,id:3807291,name:Mauricio Legendre hasta Cercanias Fuencarral>
+Atleta <pos:199,id:319493,name:David Tovar>
+  Segmento <pos:0,id:3807291,name:Mauricio Legendre hasta Cercanias Fuencarral>
+Atleta <pos:200,id:3977435,name:Juan Carlos Guzmán>
+  Segmento <pos:0,id:9696870,name:Recta Fuencarral>
+Atleta <pos:201,id:6628894,name:J M>
+  Segmento <pos:0,id:6909964,name:Último tramo carril bici hasta rotonda>
+Atleta <pos:202,id:8623879,name:David Lario>
+  Segmento <pos:0,id:6909964,name:Último tramo carril bici hasta rotonda>
+Atleta <pos:203,id:1765216,name:Jorge Díaz>
+  Segmento <pos:0,id:6909964,name:Último tramo carril bici hasta rotonda>
+Atleta <pos:204,id:3298070,name:Jose A. Arantave>
+  Segmento <pos:0,id:3807283,name:Plaza Castilla - lateral Castellana hasta Mauricio Legendre>
+Atleta <pos:205,id:2038341,name:Aitor F>
+  Segmento <pos:0,id:3807283,name:Plaza Castilla - lateral Castellana hasta Mauricio Legendre>
+Atleta <pos:206,id:3952097,name:Ignacio Fo Pe>
+  Segmento <pos:0,id:3807283,name:Plaza Castilla - lateral Castellana hasta Mauricio Legendre>
+Atleta <pos:207,id:1086808,name:juan picon>
+  Segmento <pos:0,id:7077995,name:Bajada carril bici portomarín>
+Atleta <pos:208,id:2589354,name:Jeremy Barrett>
+  Segmento <pos:0,id:7077995,name:Bajada carril bici portomarín>
+Atleta <pos:209,id:6377812,name:Juan José Medina Sogas>
+  Segmento <pos:0,id:4441639,name:Circuito Cerro Milano (ida/vuelta)>
+  Segmento <pos:1,id:8270722,name:Circuito ensanche (solo vuelta)>
+Atleta <pos:210,id:1983857,name:Rubén Hernández>
+  Segmento <pos:0,id:4441639,name:Circuito Cerro Milano (ida/vuelta)>
+  Segmento <pos:1,id:8270722,name:Circuito ensanche (solo vuelta)>
+Atleta <pos:211,id:2983625,name:XC13 Lapierre>
+  Segmento <pos:0,id:7443177,name:Zig zag Vallecas>
+  Segmento <pos:1,id:7121271,name:recta>
+Atleta <pos:212,id:7410350,name:Fernando Lopez>
+  Segmento <pos:0,id:7443177,name:Zig zag Vallecas>
+Atleta <pos:213,id:6051868,name:Bogdan Vasile Dadu>
+  Segmento <pos:0,id:7443177,name:Zig zag Vallecas>
+Atleta <pos:214,id:2920170,name:Luis Skywalker - Eastern Watts>
+  Segmento <pos:0,id:3576429,name:subida tolsa>
+Atleta <pos:215,id:1090559,name:edu g >
+  Segmento <pos:0,id:3576429,name:subida tolsa>
+Atleta <pos:216,id:1584223,name:Javier San Emeterio - Eastern Watts>
+  Segmento <pos:0,id:3576429,name:subida tolsa>
+  Segmento <pos:1,id:2364946,name:Calle de la Pirotécnia>
+  Segmento <pos:2,id:8719153,name:Calle Pirotecnia>
+Atleta <pos:217,id:1998788,name:Adrián Mateo Parra>
+  Segmento <pos:0,id:3576429,name:subida tolsa>
+Atleta <pos:218,id:2456143,name:Queco .>
+  Segmento <pos:0,id:8270722,name:Circuito ensanche (solo vuelta)>
+  Segmento <pos:1,id:8273269,name:Col du Ikea>
+Atleta <pos:219,id:290181,name:Pablo Villarroel>
+  Segmento <pos:0,id:8270722,name:Circuito ensanche (solo vuelta)>
+Atleta <pos:220,id:7303421,name:@ira_y_fuego `>
+  Segmento <pos:0,id:7121271,name:recta>
+  Segmento <pos:1,id:4604984,name:Las Rosas (C/ Sofia desde Arcentales)>
+Atleta <pos:221,id:2609161,name:daniel sanchez rod>
+  Segmento <pos:0,id:7121271,name:recta>
+Atleta <pos:222,id:3691363,name:jesus martinez Mcan>
+  Segmento <pos:0,id:3364826,name:Subida A3 (via ciclista)>
+Atleta <pos:223,id:3446647,name:Martinez Villarta MTB>
+  Segmento <pos:0,id:3364826,name:Subida A3 (via ciclista)>
+  Segmento <pos:1,id:4492800,name:Subida a Dr Garcia Tapia>
+  Segmento <pos:2,id:4604984,name:Las Rosas (C/ Sofia desde Arcentales)>
+  Segmento <pos:3,id:6561792,name:Calle de Sofia>
+Atleta <pos:224,id:3612187,name:Jose Luis Vega Tallante>
+  Segmento <pos:0,id:3364826,name:Subida A3 (via ciclista)>
+Atleta <pos:225,id:3579295,name:Diego Delgado Corredor>
+  Segmento <pos:0,id:4492800,name:Subida a Dr Garcia Tapia>
+Atleta <pos:226,id:10530470,name:Alberto Martínez>
+  Segmento <pos:0,id:4492800,name:Subida a Dr Garcia Tapia>
+Atleta <pos:227,id:3090616,name:MARCIAL DOBLADO>
+  Segmento <pos:0,id:4492800,name:Subida a Dr Garcia Tapia>
+Atleta <pos:228,id:1528607,name:Lisardo Carballal>
+  Segmento <pos:0,id:2364946,name:Calle de la Pirotécnia>
+Atleta <pos:229,id:3205634,name:Daniel Cruz Álvarez>
+  Segmento <pos:0,id:2364946,name:Calle de la Pirotécnia>
+Atleta <pos:230,id:3474041,name:Francis Salazar - Eastern Watts>
+  Segmento <pos:0,id:2364946,name:Calle de la Pirotécnia>
+Atleta <pos:231,id:44111,name:Fran Gongora>
+  Segmento <pos:0,id:8273269,name:Col du Ikea>
+Atleta <pos:232,id:2189426,name:agogarcia _>
+  Segmento <pos:0,id:8273269,name:Col du Ikea>
+Atleta <pos:233,id:3914785,name:josera arellano>
+  Segmento <pos:0,id:8273269,name:Col du Ikea>
+Atleta <pos:234,id:10328620,name:Javier Puente>
+  Segmento <pos:0,id:8719153,name:Calle Pirotecnia>
+Atleta <pos:235,id:3695986,name:Juan Carlos Simon Fernandez>
+  Segmento <pos:0,id:8719153,name:Calle Pirotecnia>
+Atleta <pos:236,id:3787502,name:Ebel Gonzalez>
+  Segmento <pos:0,id:3874241,name:Subida Peineta>
+  Segmento <pos:1,id:1004389,name:Gran Bajada (cerca Peineta)>
+  Segmento <pos:2,id:4311379,name:Subida a Campo de Las Naciones por sendero>
+  Segmento <pos:3,id:3343285,name:-Bajada- Carril Bici El corte inglés>
+  Segmento <pos:4,id:2323452,name:Subida Coslada - Madrid (Av. Arcentales)>
+  Segmento <pos:5,id:4311133,name:Subida Monte Juan Carlos I>
+Atleta <pos:237,id:1801950,name:Javier Martin>
+  Segmento <pos:0,id:3874241,name:Subida Peineta>
+Atleta <pos:238,id:1231978,name:Jozef Van Der Alixen>
+  Segmento <pos:0,id:3874241,name:Subida Peineta>
+Atleta <pos:239,id:1893044,name:Guillermo Merino Jiménez>
+  Segmento <pos:0,id:3874241,name:Subida Peineta>
+  Segmento <pos:1,id:4055147,name:Último Tramo subida Peineta 4%>
+Atleta <pos:240,id:8499443,name:Antonio CR>
+  Segmento <pos:0,id:1004389,name:Gran Bajada (cerca Peineta)>
+  Segmento <pos:1,id:4311379,name:Subida a Campo de Las Naciones por sendero>
+  Segmento <pos:2,id:3343285,name:-Bajada- Carril Bici El corte inglés>
+Atleta <pos:241,id:3507613,name:Antonio Osuna>
+  Segmento <pos:0,id:4055147,name:Último Tramo subida Peineta 4%>
+Atleta <pos:242,id:7793806,name:Albert Cano>
+  Segmento <pos:0,id:4055147,name:Último Tramo subida Peineta 4%>
+Atleta <pos:243,id:554992,name:Antoine Berte>
+  Segmento <pos:0,id:4311379,name:Subida a Campo de Las Naciones por sendero>
+  Segmento <pos:1,id:6811693,name:Zona 2A>
+Atleta <pos:244,id:6641044,name:Coleta100 Gonzalez Guerra>
+  Segmento <pos:0,id:3343285,name:-Bajada- Carril Bici El corte inglés>
+Atleta <pos:245,id:3475376,name:Marco Antonio Hita>
+  Segmento <pos:0,id:3343285,name:-Bajada- Carril Bici El corte inglés>
+  Segmento <pos:1,id:2323452,name:Subida Coslada - Madrid (Av. Arcentales)>
+  Segmento <pos:2,id:6138869,name:Valdebebas´s Sprint>
+Atleta <pos:246,id:7838137,name:alf 88>
+  Segmento <pos:0,id:7257529,name:Subida a plaza Alsacia>
+Atleta <pos:247,id:10702309,name:David Peces>
+  Segmento <pos:0,id:7257529,name:Subida a plaza Alsacia>
+Atleta <pos:248,id:2744994,name:Óscar Esteban Sánchez>
+  Segmento <pos:0,id:798190,name:Calle de Versalles>
+Atleta <pos:249,id:10435548,name:alberto caro>
+  Segmento <pos:0,id:798190,name:Calle de Versalles>
+Atleta <pos:250,id:256218,name:Brett Wachtendorf>
+  Segmento <pos:0,id:798190,name:Calle de Versalles>
+Atleta <pos:251,id:1141697,name:Javier Cañís>
+  Segmento <pos:0,id:4604984,name:Las Rosas (C/ Sofia desde Arcentales)>
+Atleta <pos:252,id:9553247,name:Patrick Paul>
+  Segmento <pos:0,id:4604984,name:Las Rosas (C/ Sofia desde Arcentales)>
+Atleta <pos:253,id:8410328,name:Santiago Uriel>
+  Segmento <pos:0,id:6561792,name:Calle de Sofia>
+Atleta <pos:254,id:2769500,name:Jesús Nieto>
+  Segmento <pos:0,id:2323452,name:Subida Coslada - Madrid (Av. Arcentales)>
+Atleta <pos:255,id:1018382,name:Andres Del Rey Toribio>
+  Segmento <pos:0,id:2323452,name:Subida Coslada - Madrid (Av. Arcentales)>
+Atleta <pos:256,id:5022556,name:Gonzalo Zambrano>
+  Segmento <pos:0,id:4125980,name:Repecho Circuito Valdebebas>
+Atleta <pos:257,id:8202568,name:Raul Corzo>
+  Segmento <pos:0,id:4125980,name:Repecho Circuito Valdebebas>
+Atleta <pos:258,id:2233337,name:Rubén Toro>
+  Segmento <pos:0,id:4125980,name:Repecho Circuito Valdebebas>
+Atleta <pos:259,id:2755722,name:Oscar Ciclos Barajas>
+  Segmento <pos:0,id:4125980,name:Repecho Circuito Valdebebas>
+Atleta <pos:260,id:158971,name:Rubén de la Llave Esteban>
+  Segmento <pos:0,id:4125980,name:Repecho Circuito Valdebebas>
+Atleta <pos:261,id:8585151,name:Alejandro Rodríguez>
+  Segmento <pos:0,id:7419971,name:Jodido falso llano..>
+  Segmento <pos:1,id:5113589,name:Cuesta peaje R>
+  Segmento <pos:2,id:8969368,name:julio cano laso hacia el norte>
+Atleta <pos:262,id:4530018,name:moises moreno>
+  Segmento <pos:0,id:7419971,name:Jodido falso llano..>
+Atleta <pos:263,id:2710026,name:Sergio Valerio>
+  Segmento <pos:0,id:7419971,name:Jodido falso llano..>
+  Segmento <pos:1,id:5113589,name:Cuesta peaje R>
+  Segmento <pos:2,id:8969368,name:julio cano laso hacia el norte>
+  Segmento <pos:3,id:7517756,name:Ineeercia!>
+Atleta <pos:264,id:1326831,name:Nacho R. Pozuelo>
+  Segmento <pos:0,id:7419971,name:Jodido falso llano..>
+Atleta <pos:265,id:1384927,name:Carlos Ortega>
+  Segmento <pos:0,id:7419971,name:Jodido falso llano..>
+  Segmento <pos:1,id:7253650,name:Entrada a Valdebebas>
+Atleta <pos:266,id:3730622,name:Guillermo Del Campo>
+  Segmento <pos:0,id:4311133,name:Subida Monte Juan Carlos I>
+Atleta <pos:267,id:3728786,name:Santi Gonzalo>
+  Segmento <pos:0,id:4311133,name:Subida Monte Juan Carlos I>
+Atleta <pos:268,id:2089897,name:Jose Angel SANTOS>
+  Segmento <pos:0,id:4311133,name:Subida Monte Juan Carlos I>
+Atleta <pos:269,id:1919573,name:Alberto Gutierrez >
+  Segmento <pos:0,id:5113589,name:Cuesta peaje R>
+  Segmento <pos:1,id:7517756,name:Ineeercia!>
+Atleta <pos:270,id:139512,name:Juan Díez>
+  Segmento <pos:0,id:5113589,name:Cuesta peaje R>
+Atleta <pos:271,id:2238160,name:Alejandro Barcos>
+  Segmento <pos:0,id:7451871,name:Subidita metro Valdebebas>
+  Segmento <pos:1,id:8969368,name:julio cano laso hacia el norte>
+Atleta <pos:272,id:3785603,name:Colbie Pro HRMTG>
+  Segmento <pos:0,id:7451871,name:Subidita metro Valdebebas>
+  Segmento <pos:1,id:6138869,name:Valdebebas´s Sprint>
+  Segmento <pos:2,id:7253650,name:Entrada a Valdebebas>
+Atleta <pos:273,id:402850,name:Pedro Pérez-Prim Saiz>
+  Segmento <pos:0,id:7451871,name:Subidita metro Valdebebas>
+Atleta <pos:274,id:5588973,name:Gonzelara Autojoven>
+  Segmento <pos:0,id:7451871,name:Subidita metro Valdebebas>
+Atleta <pos:275,id:11489176,name:Edu Delgado>
+  Segmento <pos:0,id:7451871,name:Subidita metro Valdebebas>
+Atleta <pos:276,id:4000139,name:carlos carchenilla>
+  Segmento <pos:0,id:6138869,name:Valdebebas´s Sprint>
+Atleta <pos:277,id:2759716,name:Guillermo Baqué Taramona>
+  Segmento <pos:0,id:6138869,name:Valdebebas´s Sprint>
+Atleta <pos:278,id:5830031,name:DOZIO HANDIMER>
+  Segmento <pos:0,id:6811693,name:Zona 2A>
+Atleta <pos:279,id:4015107,name:Saúl Martínez>
+  Segmento <pos:0,id:6811693,name:Zona 2A>
+Atleta <pos:280,id:4654810,name:Jonhy Paz>
+  Segmento <pos:0,id:6811693,name:Zona 2A>
+Atleta <pos:281,id:2157331,name:Alejandro Fernandez>
+  Segmento <pos:0,id:8969368,name:julio cano laso hacia el norte>
+Atleta <pos:282,id:2894233,name:Aitor Sanz>
+  Segmento <pos:0,id:7253650,name:Entrada a Valdebebas>
+Atleta <pos:283,id:10942507,name:Carlos Encinas>
+  Segmento <pos:0,id:7517756,name:Ineeercia!>
+Atleta <pos:284,id:3045120,name:Jesús M. Méndez>
+  Segmento <pos:0,id:7517756,name:Ineeercia!>
+Atleta <pos:285,id:8247498,name:Alfonso Menéndez>
+  Segmento <pos:0,id:7517756,name:Ineeercia!>
+************** /printArrayAthletes() ****************
+*****************************************************
+

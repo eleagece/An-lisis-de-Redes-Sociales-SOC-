@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:dbpedia="http://dbpedia.org/property/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:oddlinker="http://data.linkedmdb.org/resource/oddlinker/"
+    xmlns:db="http://data.linkedmdb.org/resource/"
+    xmlns:movie="http://data.linkedmdb.org/resource/movie/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:map="file:/C:/d2r-server-0.4/mapping.n3#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:d2r="http://sites.wiwiss.fu-berlin.de/suhl/bizer/d2r-server/config.rdf#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/3239">
+    <movie:actor>
+      <movie:actor rdf:about="http://data.linkedmdb.org/resource/actor/7">
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/62692"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/156121"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/165440"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/31226"/>
+        <rdf:type>
+          <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Person">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fxmlns.com%2Ffoaf%2F0.1%2FPerson%3E"/>
+          </rdf:Description>
+        </rdf:type>
+        <rdfs:label>Rosie O'Donnell (Actor)</rdfs:label>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/159266"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/54280"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/725"/>
+        <movie:actor_name>Rosie O'Donnell</movie:actor_name>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/90508"/>
+        <foaf:page>
+          <rdf:Description rdf:about="http://www.freebase.com/view/guid/9202a8c04000641f800000000005861f">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.freebase.com%2Fview%2Fguid%2F9202a8c04000641f800000000005861f%3E"/>
+          </rdf:Description>
+        </foaf:page>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/92738"/>
+        <owl:sameAs>
+          <rdf:Description rdf:about="http://dbpedia.org/resource/Rosie_O%27Donnell">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FRosie_O%2527Donnell%3E"/>
+          </rdf:Description>
+        </owl:sameAs>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/2684"/>
+        <movie:actor_actorid rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >7</movie:actor_actorid>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/99121"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/3836"/>
+        <owl:sameAs>
+          <rdf:Description rdf:about="http://mpii.de/yago/resource/Rosie_O%27Donnell">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fmpii.de%2Fyago%2Fresource%2FRosie_O%2527Donnell%3E"/>
+          </rdf:Description>
+        </owl:sameAs>
+        <dbpedia:hasPhotoCollection>
+          <rdf:Description rdf:about="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Rosie_O&apos;Donnell">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fflickrwrappr%2Fphotos%2FRosie_O%27Donnell%3E"/>
+          </rdf:Description>
+        </dbpedia:hasPhotoCollection>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/10468"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/26805"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/28605"/>
+      </movie:actor>
+    </movie:actor>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38992">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/39620">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/522">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/19870">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/94947">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/13718">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/17316">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/43343">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38185">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/data/actor/7">
+    <rdfs:comment>Contents of this file may include content from 
+		      FreeBase (http://www.freebase.com) or Wikipedia 
+		      (http://www.wikipedia.org) licensed under CC-BY
+		      (http://www.freebase.com/view/common/license/cc_attribution_25)
+		      or GFDL (http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License). 
+		      Refer to http://www.linkedmdb.org:8080/Main/Licensing for more details.</rdfs:comment>
+    <rdfs:label>RDF Description of Rosie O'Donnell (Actor)</rdfs:label>
+    <foaf:primaryTopic rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/106768">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/118589">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/80082">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/73964">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/40018">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/2820">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/40579">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/8406">
+    <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/7"/>
+  </rdf:Description>
+</rdf:RDF>

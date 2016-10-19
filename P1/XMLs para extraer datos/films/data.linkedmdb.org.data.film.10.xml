@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:dbpedia="http://dbpedia.org/property/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:oddlinker="http://data.linkedmdb.org/resource/oddlinker/"
+    xmlns:db="http://data.linkedmdb.org/resource/"
+    xmlns:movie="http://data.linkedmdb.org/resource/movie/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:map="file:/C:/d2r-server-0.4/mapping.n3#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:d2r="http://sites.wiwiss.fu-berlin.de/suhl/bizer/d2r-server/config.rdf#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/70219">
+    <oddlinker:link_source>
+      <movie:film rdf:about="http://data.linkedmdb.org/resource/film/10">
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/33572"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/47191"/>
+        <movie:director>
+          <rdf:Description rdf:about="http://data.linkedmdb.org/resource/director/8931">
+            <foaf:made rdf:resource="http://data.linkedmdb.org/resource/film/10"/>
+          </rdf:Description>
+        </movie:director>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/75916"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/75913"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/30282"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/10988"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/10990"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/32509"/>
+        <movie:featured_film_location rdf:resource="http://data.linkedmdb.org/resource/film_location/64"/>
+        <movie:producer rdf:resource="http://data.linkedmdb.org/resource/producer/6379"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/88830"/>
+        <movie:writer rdf:resource="http://data.linkedmdb.org/resource/writer/1100"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/41344"/>
+        <dc:date>2001-07-11,2001-07-13</dc:date>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/30848"/>
+        <movie:producer rdf:resource="http://data.linkedmdb.org/resource/producer/10182"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/75912"/>
+        <movie:music_contributor rdf:resource="http://data.linkedmdb.org/resource/music_contributor/5222"/>
+        <movie:writer rdf:resource="http://data.linkedmdb.org/resource/writer/2480"/>
+        <movie:initial_release_date>2001-07-11,2001-07-13</movie:initial_release_date>
+        <rdfs:label>Final Fantasy: The Spirits Within</rdfs:label>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/30675"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/33510"/>
+        <foaf:page>
+          <rdf:Description rdf:about="http://www.rottentomatoes.com/alias?type=imdbid&amp;s=0173840">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.rottentomatoes.com%2Falias%3Ftype%3Dimdbid%26s%3D0173840%3E"/>
+          </rdf:Description>
+        </foaf:page>
+        <movie:editor rdf:resource="http://data.linkedmdb.org/resource/editor/1817"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/75915"/>
+        <movie:story_contributor rdf:resource="http://data.linkedmdb.org/resource/film_story_contributor/60"/>
+        <dc:title>Final Fantasy: The Spirits Within</dc:title>
+        <movie:sequel>
+          <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/1243">
+            <movie:prequel rdf:resource="http://data.linkedmdb.org/resource/film/10"/>
+          </rdf:Description>
+        </movie:sequel>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/30821"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/75911"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/75914"/>
+        <movie:film_cut rdf:resource="http://data.linkedmdb.org/resource/film_cut/2317"/>
+        <movie:filmid rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >10</movie:filmid>
+        <movie:film_story_contributor rdf:resource="http://data.linkedmdb.org/resource/film_story_contributor/60"/>
+        <movie:producer rdf:resource="http://data.linkedmdb.org/resource/producer/12554"/>
+        <movie:runtime>106</movie:runtime>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/42342"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/75910"/>
+        <movie:rating rdf:resource="http://data.linkedmdb.org/resource/content_rating/3"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/30925"/>
+        <movie:producer rdf:resource="http://data.linkedmdb.org/resource/producer/6380"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/84029"/>
+        <foaf:page>
+          <rdf:Description rdf:about="http://www.imdb.com/title/tt0173840">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0173840%3E"/>
+          </rdf:Description>
+        </foaf:page>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/10989"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/34463"/>
+        <foaf:page>
+          <rdf:Description rdf:about="http://www.freebase.com/view/guid/9202a8c04000641f8000000000017ed9">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.freebase.com%2Fview%2Fguid%2F9202a8c04000641f8000000000017ed9%3E"/>
+          </rdf:Description>
+        </foaf:page>
+        <movie:language>
+          <rdf:Description rdf:about="http://www.lingvoj.org/lingvo/en">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.lingvoj.org%2Flingvo%2Fen%3E"/>
+          </rdf:Description>
+        </movie:language>
+      </movie:film>
+    </oddlinker:link_source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/133954">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/film/10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/data/film/10">
+    <rdfs:comment>Contents of this file may include content from 
+		      FreeBase (http://www.freebase.com) or Wikipedia 
+		      (http://www.wikipedia.org) licensed under CC-BY
+		      (http://www.freebase.com/view/common/license/cc_attribution_25)
+		      or GFDL (http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License). 
+		      Refer to http://www.linkedmdb.org:8080/Main/Licensing for more details.</rdfs:comment>
+    <rdfs:label>RDF Description of Final Fantasy: The Spirits Within</rdfs:label>
+    <foaf:primaryTopic rdf:resource="http://data.linkedmdb.org/resource/film/10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film_film_distributor_relationship/120">
+    <movie:film_of_distributor rdf:resource="http://data.linkedmdb.org/resource/film/10"/>
+  </rdf:Description>
+</rdf:RDF>

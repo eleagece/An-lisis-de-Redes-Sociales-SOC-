@@ -1,0 +1,2 @@
+Estos son ejemplos de archivos de los que se extraen los datos para hacer la P1. Faltan muchos, y
+sólo están subidos a GitHub de modo ilustrativo unos cuantos

@@ -1,0 +1,1181 @@
+*****************************************************
+************** printArraySegments() *****************
+Segmento <pos:0,id:6538798,name:Puente splau to Pedrolos Carrefur (by kiwi)>
+  Atleta <pos:0,id:3917934,name:Javier Cid>
+  Atleta <pos:1,id:1157957,name:Martin Fernandez>
+  Atleta <pos:2,id:840055,name:DPua Martinez>
+  Atleta <pos:3,id:1644957,name:Samuel Ruíz BICICLINIC CC>
+  Atleta <pos:4,id:861153,name:Ivan Vam>
+Segmento <pos:1,id:7275100,name:Coast to coast 1>
+  Atleta <pos:0,id:5029599,name:Juan HF>
+  Atleta <pos:1,id:6250533,name:Jose Sanchez Navarro>
+  Atleta <pos:2,id:1821115,name:Miguel A. Cornellá>
+  Atleta <pos:3,id:6245270,name:rober sanchez martinez>
+  Atleta <pos:4,id:3236709,name:jose gonzalezBttBSF L´H>
+Segmento <pos:2,id:8813513,name:se te caen lo cacahuetes?>
+  Atleta <pos:0,id:2131290,name:Miguel Angel Bici-osos>
+  Atleta <pos:1,id:6535652,name:Eduard Querol>
+  Atleta <pos:2,id:3908898,name:Jaume Pereira>
+  Atleta <pos:3,id:5504592,name:Jordi Cabrero  RETOOLS>
+  Atleta <pos:4,id:973693,name:Sergio Carbono>
+Segmento <pos:3,id:6276714,name:Full Gas!!>
+  Atleta <pos:0,id:3853045,name:Jose Antonio Reloba>
+  Atleta <pos:1,id:2040280,name:JUSTO LB / CobrasTEAM>
+  Atleta <pos:2,id:5015973,name:oliver jarque>
+  Atleta <pos:3,id:7398131,name:Sergio Bikehome Team>
+  Atleta <pos:4,id:1185023,name:Beto Carroggio>
+Segmento <pos:4,id:7119238,name:Carretera Santa Creu de Calafell>
+  Atleta <pos:0,id:2876405,name:F E R>
+  Atleta <pos:1,id:2053152,name:MANEL,MERINO C.C.RATPENAT>
+  Atleta <pos:2,id:547565,name:D.F.R. ALPCROSS>
+  Atleta <pos:3,id:299065,name:Javier Arredondo>
+  Atleta <pos:4,id:3539161,name:Miguel Cc Rat Penat>
+Segmento <pos:5,id:6198662,name:Carrer Saragossa Climb>
+  Atleta <pos:0,id:1855274,name:Thomas De Gendt>
+  Atleta <pos:1,id:1655561,name:Roy Jérémy>
+  Atleta <pos:2,id:479385,name:Wilco Kelderman>
+  Atleta <pos:3,id:4587013,name:Thomas Degand>
+  Atleta <pos:4,id:1389861,name:TOMATO DOSNOVENTA>
+Segmento <pos:6,id:2639518,name:viladecans -sant boi>
+  Atleta <pos:0,id:1855274,name:Thomas De Gendt>
+  Atleta <pos:1,id:2387206,name:Globero 1>
+  Atleta <pos:2,id:1389861,name:TOMATO DOSNOVENTA>
+  Atleta <pos:3,id:1432185,name:Oscar Viniegra>
+  Atleta <pos:4,id:4378691,name:Jose Antonio Fernandez Sanchez>
+Segmento <pos:7,id:7613721,name:túnel a túnel ida Prat >
+  Atleta <pos:0,id:1659872,name:Oliver VIudez>
+  Atleta <pos:1,id:10740035,name:Eduardo Izquierdo>
+  Atleta <pos:2,id:1075406,name:Luis Fernandez>
+  Atleta <pos:3,id:1041078,name:Victor Caballé Bladé>
+  Atleta <pos:4,id:10629613,name:Julen Marshall>
+Segmento <pos:8,id:4095151,name:Nissan to Llobregat River Cornella-Splau>
+  Atleta <pos:0,id:1427705,name:Alexis "TomasDomingo">
+  Atleta <pos:1,id:2894233,name:Aitor Sanz>
+  Atleta <pos:2,id:3913802,name:Jose Maqui>
+  Atleta <pos:3,id:1108522,name:Tony Gallardo PROBIKE>
+  Atleta <pos:4,id:1809499,name:Ferran Sprint Bike>
+Segmento <pos:9,id:7894724,name:Bridge A2 Sant Joan>
+  Atleta <pos:0,id:9329491,name:Antonio Moreno>
+  Atleta <pos:1,id:3355415,name:Jaume Duran>
+  Atleta <pos:2,id:5882472,name:xavier Cots>
+  Atleta <pos:3,id:4657068,name:Manuel Jimenez>
+  Atleta <pos:4,id:5573221,name:José Luis Pérez Rodríguez>
+Segmento <pos:10,id:3037365,name:trialera dragon khan>
+  Atleta <pos:0,id:123114,name:Ismael Ventura>
+  Atleta <pos:1,id:1925463,name:Sergix Shaman Team>
+  Atleta <pos:2,id:16387,name:Øyvind Aas>
+  Atleta <pos:3,id:1961589,name:Ivan Oulego>
+  Atleta <pos:4,id:2083692,name:Oriol Probike>
+Segmento <pos:11,id:3021023,name:Collserola - Pujada Sant Pere Martir (asfalt)>
+  Atleta <pos:0,id:1359797,name:Oscar Ferrer>
+  Atleta <pos:1,id:771131,name:mauro carne>
+  Atleta <pos:2,id:668162,name:Carlos Portilla>
+  Atleta <pos:3,id:761551,name:Pedro Anglada>
+  Atleta <pos:4,id:1168895,name:Manuel ATRAPALO>
+Segmento <pos:12,id:4590835,name:Drecera de Vallvidrera Climb>
+  Atleta <pos:0,id:8771820,name:Adrià Montserrat Salvatella>
+  Atleta <pos:1,id:1389861,name:TOMATO DOSNOVENTA>
+  Atleta <pos:2,id:177024,name:Abdón  Cayero>
+  Atleta <pos:3,id:6936488,name:Paul Moorage>
+  Atleta <pos:4,id:3234707,name:Pablo Velat>
+Segmento <pos:13,id:3567391,name:BCN-Molins: Ascension parte 2>
+  Atleta <pos:0,id:1497589,name:Ibon Zugasti Arrese>
+  Atleta <pos:1,id:6390713,name:Roger Adrià>
+  Atleta <pos:2,id:1359797,name:Oscar Ferrer>
+  Atleta <pos:3,id:6467180,name:Albert Castella Sapé>
+  Atleta <pos:4,id:614691,name:Javier Salamero KING BCN RC>
+Segmento <pos:14,id:7614261,name:(SHERPAS) Crtra. Molins de La Creu a Containers>
+  Atleta <pos:0,id:2624527,name:Albert Nafría>
+  Atleta <pos:1,id:155290,name:Levi Leipheimer>
+  Atleta <pos:2,id:1692235,name:Lucas Mola>
+  Atleta <pos:3,id:1497589,name:Ibon Zugasti Arrese>
+  Atleta <pos:4,id:776311,name:Jose A. Lopez Gomez>
+Segmento <pos:15,id:6416815,name:La Pantoja!!!>
+  Atleta <pos:0,id:1766809,name:Oscar Muñoz/PROBIKE>
+  Atleta <pos:1,id:1083994,name:Eme Romer /Alpcross>
+  Atleta <pos:2,id:278772,name:Robert Soley BSNTS>
+  Atleta <pos:3,id:1256145,name:Jesus Pau VÈRTIC >
+  Atleta <pos:4,id:614691,name:Javier Salamero KING BCN RC>
+Segmento <pos:16,id:3678488,name:Tramo final plaza mireia>
+  Atleta <pos:0,id:11444264,name:Alex C>
+  Atleta <pos:1,id:6467180,name:Albert Castella Sapé>
+  Atleta <pos:2,id:1625801,name:Oriol Perera>
+  Atleta <pos:3,id:1637296,name:Adam Alonso>
+  Atleta <pos:4,id:4287392,name:Robert Ton>
+Segmento <pos:17,id:3193787,name:Cronoescalada Sprint bikes>
+  Atleta <pos:0,id:1083994,name:Eme Romer /Alpcross>
+  Atleta <pos:1,id:1766809,name:Oscar Muñoz/PROBIKE>
+  Atleta <pos:2,id:1256145,name:Jesus Pau VÈRTIC >
+  Atleta <pos:3,id:6499657,name:Rafael Molina 43>
+  Atleta <pos:4,id:6829924,name:Eduardo Abian>
+Segmento <pos:18,id:4296777,name:Can Gelabert up>
+  Atleta <pos:0,id:4518268,name:Sergio Palmero BttBSF L'H>
+  Atleta <pos:1,id:3384936,name:Ilde Sumotordepersianas>
+  Atleta <pos:2,id:1467223,name:Joan Guillamat>
+  Atleta <pos:3,id:1083994,name:Eme Romer /Alpcross>
+  Atleta <pos:4,id:3236709,name:jose gonzalezBttBSF L´H>
+Segmento <pos:19,id:2950265,name:Trialera Camí Sta.Creu Olorda a Institut BUP (versió llarga)>
+  Atleta <pos:0,id:1265720,name:Pol Romero>
+  Atleta <pos:1,id:567766,name:josh Biciclinic>
+  Atleta <pos:2,id:2423187,name:Marc Arañó>
+  Atleta <pos:3,id:1925463,name:Sergix Shaman Team>
+  Atleta <pos:4,id:1359797,name:Oscar Ferrer>
+Segmento <pos:20,id:707005,name:Siberia>
+  Atleta <pos:0,id:1497589,name:Ibon Zugasti Arrese>
+  Atleta <pos:1,id:3964613,name:Andrés López>
+  Atleta <pos:2,id:761551,name:Pedro Anglada>
+  Atleta <pos:3,id:251070,name:Àngel Marco "Bucles" BSNTS>
+  Atleta <pos:4,id:668162,name:Carlos Portilla>
+Segmento <pos:21,id:6010919,name:Apreton Can Borrell -Pedala tu>
+  Atleta <pos:0,id:1423325,name:Isma Martín>
+  Atleta <pos:1,id:946943,name:Oscar Berral>
+  Atleta <pos:2,id:5772041,name:Carlos Mendez>
+  Atleta <pos:3,id:1310844,name:Deivid Jarram>
+  Atleta <pos:4,id:1385181,name:Alex Caballero  (RR Bikers)>
+Segmento <pos:22,id:7040577,name:ojo perros -subida>
+  Atleta <pos:0,id:1385181,name:Alex Caballero  (RR Bikers)>
+  Atleta <pos:1,id:896095,name:Jony  .>
+  Atleta <pos:2,id:1310844,name:Deivid Jarram>
+  Atleta <pos:3,id:4030821,name:Aritz Iriarte>
+  Atleta <pos:4,id:4494827,name:joaquin escudero>
+Segmento <pos:23,id:4335993,name:Esprint entrada St. Cugat>
+  Atleta <pos:0,id:2447079,name:Rogelio Rodriguez - Tona Bikes>
+  Atleta <pos:1,id:11158588,name:Marc Puig, GoVegan!>
+  Atleta <pos:2,id:3017142,name:M??ARC ??.>
+  Atleta <pos:3,id:2223236,name:Andre  Cafeducycliste.com>
+  Atleta <pos:4,id:4859767,name:Xavi Fas>
+Segmento <pos:24,id:3436363,name:Arrabassada - Primer tram (St.Cugat)>
+  Atleta <pos:0,id:1497589,name:Ibon Zugasti Arrese>
+  Atleta <pos:1,id:1692235,name:Lucas Mola>
+  Atleta <pos:2,id:567766,name:josh Biciclinic>
+  Atleta <pos:3,id:761551,name:Pedro Anglada>
+  Atleta <pos:4,id:428395,name:marc de maar>
+Segmento <pos:25,id:7566776,name:Sprint llegada a Sant Cugat>
+  Atleta <pos:0,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:1,id:1274326,name:Xavi Buzon>
+  Atleta <pos:2,id:1319565,name:Miguel Angel Gómez>
+  Atleta <pos:3,id:5481041,name:bnog .>
+  Atleta <pos:4,id:2117883,name:Carles Ramírez>
+Segmento <pos:26,id:9877038,name:Baixada La Floresta Sant Cugat Arrebasada>
+  Atleta <pos:0,id:7193743,name:Kasper Christensen>
+  Atleta <pos:1,id:3002956,name:Marcus Ballnath>
+  Atleta <pos:2,id:1882081,name:Salatiel Barros>
+  Atleta <pos:3,id:573108,name:Daniel Gonzalez>
+  Atleta <pos:4,id:1077628,name:Daniel Campos Hull>
+Segmento <pos:27,id:7357399,name:Corriols i pista per la Rierada (by Ricard Ferrer)>
+  Atleta <pos:0,id:1981138,name:Xavier PALLEJA (Insaciables bike)>
+  Atleta <pos:1,id:1083994,name:Eme Romer /Alpcross>
+  Atleta <pos:2,id:2153813,name:David Barcelo>
+  Atleta <pos:3,id:1385181,name:Alex Caballero  (RR Bikers)>
+  Atleta <pos:4,id:2359572,name:Toni Juba>
+Segmento <pos:28,id:4881961,name:Repechón La Floresta>
+  Atleta <pos:0,id:2004765,name:Oscar Teijeiro (RR Bikers)>
+  Atleta <pos:1,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:2,id:1151506,name:Octavi Grau  SHAMAN TEAM>
+  Atleta <pos:3,id:1168895,name:Manuel ATRAPALO>
+  Atleta <pos:4,id:788578,name:Xavier Nafría>
+Segmento <pos:29,id:8326554,name:trialera de los hobbyts>
+  Atleta <pos:0,id:1068669,name:Marc Castanye Panyella>
+  Atleta <pos:1,id:3558852,name:Roberto Moreno>
+  Atleta <pos:2,id:2789429,name:Miguel  moreno >
+  Atleta <pos:3,id:5379747,name:Xavi Sanchez>
+  Atleta <pos:4,id:1265720,name:Pol Romero>
+Segmento <pos:30,id:2778885,name:Step 1 up to Estadi Olimpic>
+  Atleta <pos:0,id:808828,name:jasper hermsen>
+  Atleta <pos:1,id:199926,name:Nurul Momin Ahmed BikeTraining>
+  Atleta <pos:2,id:7078088,name:Cal DiCal>
+  Atleta <pos:3,id:3512225,name:Jordi www.bcnonboard.com>
+  Atleta <pos:4,id:3364388,name:Ruben Rodriguez - MAKROBIKE>
+Segmento <pos:31,id:7081907,name:Entering the castell >
+  Atleta <pos:0,id:11456825,name:Joan Del Rio>
+  Atleta <pos:1,id:12834893,name:Matti De Bruyne>
+  Atleta <pos:2,id:2345368,name:roberto bou martin>
+  Atleta <pos:3,id:3512225,name:Jordi www.bcnonboard.com>
+  Atleta <pos:4,id:1737903,name:Thomas Lund>
+Segmento <pos:32,id:8162404,name:Carrer A uphill Sprint>
+  Atleta <pos:0,id:1076590,name:Hector HMGentrenamiento.com>
+  Atleta <pos:1,id:6354428,name:Eloy de la Fuente>
+  Atleta <pos:2,id:1359797,name:Oscar Ferrer>
+  Atleta <pos:3,id:173968,name:Gabriel Nogueira CCGràcia>
+  Atleta <pos:4,id:3885666,name:Aitor Garay>
+Segmento <pos:33,id:6705684,name:SPRINT CALLE A>
+  Atleta <pos:0,id:2345368,name:roberto bou martin>
+  Atleta <pos:1,id:5694142,name:Marc Villalba>
+  Atleta <pos:2,id:1724829,name:David Flaggio>
+  Atleta <pos:3,id:8750069,name:Marc Canet>
+  Atleta <pos:4,id:2494190,name:Lucas Chirico>
+Segmento <pos:34,id:8440236,name:Pujada W>
+  Atleta <pos:0,id:6533624,name:Nacho Petit Gil>
+  Atleta <pos:1,id:1193998,name:Ivan Arroyo>
+  Atleta <pos:2,id:3274159,name:Daniel Carbó>
+  Atleta <pos:3,id:3851278,name:Jesus 26"Ti>
+  Atleta <pos:4,id:199926,name:Nurul Momin Ahmed BikeTraining>
+Segmento <pos:35,id:7232052,name:Bajada hasta semáforo c/del Foc>
+  Atleta <pos:0,id:1055377,name:Manuel  Villalba(RR Bikers)>
+  Atleta <pos:1,id:2004220,name:Nano Nano>
+  Atleta <pos:2,id:538415,name:Raul Lopez Ramos>
+  Atleta <pos:3,id:1093012,name:Riqui Pantani>
+  Atleta <pos:4,id:3916508,name:Francesco De Pasquale>
+Segmento <pos:36,id:8378471,name:SPRINT CARRER A>
+  Atleta <pos:0,id:4697413,name:Tomahawk .>
+  Atleta <pos:1,id:1274326,name:Xavi Buzon>
+  Atleta <pos:2,id:3885666,name:Aitor Garay>
+  Atleta <pos:3,id:1076590,name:Hector HMGentrenamiento.com>
+  Atleta <pos:4,id:525832,name:Raúl Vallecillos>
+Segmento <pos:37,id:6895354,name:Calle 6 (full)>
+  Atleta <pos:0,id:3230990,name:Lolo Marin CcNoLimits>
+  Atleta <pos:1,id:6390559,name:Dani Velasco>
+  Atleta <pos:2,id:4287392,name:Robert Ton>
+  Atleta <pos:3,id:2154099,name:johnny arce>
+  Atleta <pos:4,id:4838217,name:Carlos Molina Guisado>
+Segmento <pos:38,id:7743570,name:Sprint Ikea>
+  Atleta <pos:0,id:5896645,name:Carlos Lapuerta>
+  Atleta <pos:1,id:11468326,name:Marcos Doblas>
+  Atleta <pos:2,id:351663,name:David Dalmau>
+  Atleta <pos:3,id:12586897,name:SUILEUNG TSE>
+  Atleta <pos:4,id:2387206,name:Globero 1>
+Segmento <pos:39,id:9323080,name:Cerdà - Fira>
+  Atleta <pos:0,id:10324146,name:Mauro Banelli>
+  Atleta <pos:1,id:12557612,name:Eusebio M>
+  Atleta <pos:2,id:2494190,name:Lucas Chirico>
+  Atleta <pos:3,id:4138390,name:Jofre Obrador>
+  Atleta <pos:4,id:4403860,name:josep nuñez>
+Segmento <pos:40,id:6803220,name:last km tibi>
+  Atleta <pos:0,id:2036897,name:Jaume Estrada>
+  Atleta <pos:1,id:1497589,name:Ibon Zugasti Arrese>
+  Atleta <pos:2,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:3,id:199926,name:Nurul Momin Ahmed BikeTraining>
+  Atleta <pos:4,id:526287,name:ferrAn Marsà>
+Segmento <pos:41,id:6303892,name:Subida final Tibi Dabo>
+  Atleta <pos:0,id:9800830,name:Jose Luis Alvarez>
+  Atleta <pos:1,id:1164871,name:FREHNER  ALPCROSS>
+  Atleta <pos:2,id:1759786,name:Alejandro Surroca (RCR19)>
+  Atleta <pos:3,id:5622769,name:Javier González>
+  Atleta <pos:4,id:5300850,name:Javier Palacio>
+Segmento <pos:42,id:850114,name:Can Borni>
+  Atleta <pos:0,id:1359797,name:Oscar Ferrer>
+  Atleta <pos:1,id:428395,name:marc de maar>
+  Atleta <pos:2,id:567766,name:josh Biciclinic>
+  Atleta <pos:3,id:297984,name:Quim pagès>
+  Atleta <pos:4,id:284330,name:Iván Romo>
+Segmento <pos:43,id:2456949,name:Trialera Raíces Shaman>
+  Atleta <pos:0,id:1503703,name:Gonzalo King Bikes>
+  Atleta <pos:1,id:1674019,name:Moi Gimeno (Fomula Extrem Bike Shop)>
+  Atleta <pos:2,id:1643992,name:Eugenio Led>
+  Atleta <pos:3,id:4108326,name:Mario Vasilev>
+  Atleta <pos:4,id:3040324,name:Toralainen ST bcmkt>
+Segmento <pos:44,id:8574585,name:TIBIDABO HILL CLIMB 2014>
+  Atleta <pos:0,id:1497589,name:Ibon Zugasti Arrese>
+  Atleta <pos:1,id:2345368,name:roberto bou martin>
+  Atleta <pos:2,id:2509260,name:Maarten Klijnstra>
+  Atleta <pos:3,id:1864941,name:Pau Moltó>
+  Atleta <pos:4,id:573108,name:Daniel Gonzalez>
+Segmento <pos:45,id:6333605,name:Subida Tibidabo ctra san cugat, primeros 2 semáforos>
+  Atleta <pos:0,id:567766,name:josh Biciclinic>
+  Atleta <pos:1,id:2345368,name:roberto bou martin>
+  Atleta <pos:2,id:7366141,name:Miguel Betanzos>
+  Atleta <pos:3,id:1710706,name:Cristian Astals>
+  Atleta <pos:4,id:1497589,name:Ibon Zugasti Arrese>
+Segmento <pos:46,id:6715482,name:Carles a UPC>
+  Atleta <pos:0,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:1,id:1540153,name:xongoku sergio pedrero>
+  Atleta <pos:2,id:5317756,name:Jose Sanz Garcia>
+  Atleta <pos:3,id:1129744,name:Daniel Moreno>
+  Atleta <pos:4,id:4411008,name:David Girodon>
+Segmento <pos:47,id:7960128,name:Avinguda Maria Cristina>
+  Atleta <pos:0,id:344229,name:Joan Francolí>
+  Atleta <pos:1,id:423495,name:Dominique Rollin>
+  Atleta <pos:2,id:3488421,name:Albert Lorente>
+  Atleta <pos:3,id:1546243,name:Jussi Veikkanen>
+  Atleta <pos:4,id:1758948,name:roger barranco pons>
+Segmento <pos:48,id:8712540,name:Passeig Maritim N>
+  Atleta <pos:0,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:1,id:2801177,name:Harald Grimm>
+  Atleta <pos:2,id:6269734,name:Andre Lahouter>
+  Atleta <pos:3,id:1018573,name:Andreas Danielsen>
+  Atleta <pos:4,id:3615917,name:Ogies C>
+Segmento <pos:49,id:7238024,name:Pujada diagonal>
+  Atleta <pos:0,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:1,id:4859767,name:Xavi Fas>
+  Atleta <pos:2,id:1143918,name:endurer atipic>
+  Atleta <pos:3,id:178272,name:Luca Giovannini>
+  Atleta <pos:4,id:6257037,name:ulf S>
+Segmento <pos:50,id:4610793,name:Forat del vent (de pont a pont)>
+  Atleta <pos:0,id:1497589,name:Ibon Zugasti Arrese>
+  Atleta <pos:1,id:428395,name:marc de maar>
+  Atleta <pos:2,id:335430,name:Pep Tatché>
+  Atleta <pos:3,id:440611,name:Oriol Escolano Navés>
+  Atleta <pos:4,id:123114,name:Ismael Ventura>
+Segmento <pos:51,id:1332560,name:Matamachos>
+  Atleta <pos:0,id:668162,name:Carlos Portilla>
+  Atleta <pos:1,id:6325948,name:Robert RcB>
+  Atleta <pos:2,id:5352720,name:Arturo Martinez (RR Bikers)>
+  Atleta <pos:3,id:898095,name:Oscar Del Baño C.C MEDINA>
+  Atleta <pos:4,id:1331135,name:Roman Iglesias>
+Segmento <pos:52,id:7143656,name:21 curvas>
+  Atleta <pos:0,id:1359797,name:Oscar Ferrer>
+  Atleta <pos:1,id:614691,name:Javier Salamero KING BCN RC>
+  Atleta <pos:2,id:567766,name:josh Biciclinic>
+  Atleta <pos:3,id:5708381,name:Alex Sastre>
+  Atleta <pos:4,id:761551,name:Pedro Anglada>
+Segmento <pos:53,id:6148342,name:mini raices up>
+  Atleta <pos:0,id:1453793,name:Daniel FVA >
+  Atleta <pos:1,id:552317,name:Peter Lykke>
+  Atleta <pos:2,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:3,id:2212052,name:F J>
+  Atleta <pos:4,id:227328,name:Gary Willis>
+Segmento <pos:54,id:4423008,name: Can Borrell-Ermita St. Medir >
+  Atleta <pos:0,id:274316,name:Ramonet Sagués>
+  Atleta <pos:1,id:1295802,name:Juan Gasso>
+  Atleta <pos:2,id:761551,name:Pedro Anglada>
+  Atleta <pos:3,id:1108522,name:Tony Gallardo PROBIKE>
+  Atleta <pos:4,id:2187225,name:Cristian Salazar KING BCN RC>
+Segmento <pos:55,id:6919359,name:Crtra Forat Vent - Forquilla F Groga>
+  Atleta <pos:0,id:709355,name:Pau Egeda>
+  Atleta <pos:1,id:761551,name:Pedro Anglada>
+  Atleta <pos:2,id:284330,name:Iván Romo>
+  Atleta <pos:3,id:1454249,name:Diego Lozano>
+  Atleta <pos:4,id:1472303,name:Paco Po>
+Segmento <pos:56,id:4450611,name:tramo a full>
+  Atleta <pos:0,id:284330,name:Iván Romo>
+  Atleta <pos:1,id:278772,name:Robert Soley BSNTS>
+  Atleta <pos:2,id:1454249,name:Diego Lozano>
+  Atleta <pos:3,id:6350800,name:José Navarro García>
+  Atleta <pos:4,id:1385181,name:Alex Caballero  (RR Bikers)>
+Segmento <pos:57,id:7901413,name:junto al río esquivando mosquitos y peatones>
+  Atleta <pos:0,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:1,id:6344338,name:Isidro Peña>
+  Atleta <pos:2,id:7984176,name:Nico Debs>
+  Atleta <pos:3,id:900711,name:J. Jara (M.M)>
+  Atleta <pos:4,id:6881009,name:Ramón Márquez>
+Segmento <pos:58,id:3454970,name:mini montaña rusa interior>
+  Atleta <pos:0,id:7004015,name:Julián Fierro>
+  Atleta <pos:1,id:7139040,name:Alberto Fernandez>
+  Atleta <pos:2,id:783551,name:Christian Sawatzki>
+  Atleta <pos:3,id:1925212,name:David Martínez Serrano>
+  Atleta <pos:4,id:1018552,name:Tomas CUERPER>
+Segmento <pos:59,id:675792,name:Forat del Vent (BCN) >
+  Atleta <pos:0,id:1497589,name:Ibon Zugasti Arrese>
+  Atleta <pos:1,id:428395,name:marc de maar>
+  Atleta <pos:2,id:614691,name:Javier Salamero KING BCN RC>
+  Atleta <pos:3,id:274316,name:Ramonet Sagués>
+  Atleta <pos:4,id:2345368,name:roberto bou martin>
+Segmento <pos:60,id:6173244,name:BV-5001 Climb>
+  Atleta <pos:0,id:3872414,name:Matias Lorusso>
+  Atleta <pos:1,id:4403381,name:Ramon Guimerà>
+  Atleta <pos:2,id:2849631,name:Raul Montoya Urquiza>
+  Atleta <pos:3,id:3808415,name:Pablo Morales>
+  Atleta <pos:4,id:6709453,name:Roberto Recio>
+Segmento <pos:61,id:8023812,name:VA POR TI GUS( PAJARERO)>
+  Atleta <pos:0,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:1,id:3065972,name:David Juan>
+  Atleta <pos:2,id:1048481,name:Oscar Rosinach>
+  Atleta <pos:3,id:437248,name:Marc Díaz>
+  Atleta <pos:4,id:805089,name:Eduardo Ratera>
+Segmento <pos:62,id:7446459,name:The last bitch>
+  Atleta <pos:0,id:542230,name:Antoine Flori>
+  Atleta <pos:1,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:2,id:1007381,name:François Riva>
+  Atleta <pos:3,id:1497589,name:Ibon Zugasti Arrese>
+  Atleta <pos:4,id:412859,name:Rich Baker>
+Segmento <pos:63,id:7989885,name:Avinguda Mariestany>
+  Atleta <pos:0,id:1300047,name:Xavier Garrido>
+  Atleta <pos:1,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:2,id:1281017,name:HECTOR ABAD [BERRIA RACING TEAM CATALUNYA]>
+  Atleta <pos:3,id:335430,name:Pep Tatché>
+  Atleta <pos:4,id:1083417,name:Jordi  Espinar [Tomas Domingo]>
+Segmento <pos:64,id:10394165,name:Red Hook Crit Barcelona 2015 *official*>
+  Atleta <pos:0,id:2806838,name:Nicholas Varani>
+  Atleta <pos:1,id:1586081,name:Axel Pierre>
+  Atleta <pos:2,id:158793,name:Strava Athlete>
+  Atleta <pos:3,id:3569497,name:Kyle Murphy>
+  Atleta <pos:4,id:263407,name:Walton Brush>
+Segmento <pos:65,id:8508795,name:Forum al Rio>
+  Atleta <pos:0,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:1,id:8134409,name:Ryan Howells>
+  Atleta <pos:2,id:5947739,name:Mattia Legor Cicli>
+  Atleta <pos:3,id:1656489,name:Farid Farhumand>
+  Atleta <pos:4,id:2380478,name:Javier Bertos>
+Segmento <pos:66,id:7446430,name:Nova Icària>
+  Atleta <pos:0,id:1803490,name:Tim Nottage>
+  Atleta <pos:1,id:1043365,name:Jordi Soler>
+  Atleta <pos:2,id:8568658,name:Óscar Castillo>
+  Atleta <pos:3,id:6318215,name:Gonzalo Perales>
+  Atleta <pos:4,id:757670,name:Matt Player>
+Segmento <pos:67,id:3858133,name:Forum to Arts>
+  Atleta <pos:0,id:335430,name:Pep Tatché>
+  Atleta <pos:1,id:1319122,name:Albano Rabassa>
+  Atleta <pos:2,id:933919,name:rastabyke Attitudebikes >
+  Atleta <pos:3,id:1445499,name:Sergio Quintana>
+  Atleta <pos:4,id:7128876,name:Paco Duque>
+Segmento <pos:68,id:2530205,name:Avinguda Diagonal>
+  Atleta <pos:0,id:1497589,name:Ibon Zugasti Arrese>
+  Atleta <pos:1,id:3990124,name:Anders Chabert>
+  Atleta <pos:2,id:1706762,name:Paul Crossley>
+  Atleta <pos:3,id:1043365,name:Jordi Soler>
+  Atleta <pos:4,id:1469137,name:Jordi Vigo>
+Segmento <pos:69,id:6816886,name:Mini Pujada del litoral>
+  Atleta <pos:0,id:4411008,name:David Girodon>
+  Atleta <pos:1,id:538415,name:Raul Lopez Ramos>
+  Atleta <pos:2,id:6057472,name:Mario La Pergola>
+  Atleta <pos:3,id:2512658,name:edgar martinez>
+  Atleta <pos:4,id:1497589,name:Ibon Zugasti Arrese>
+Segmento <pos:70,id:7070035,name:CADENA A MIRADOR VALLESANA>
+  Atleta <pos:0,id:1083417,name:Jordi  Espinar [Tomas Domingo]>
+  Atleta <pos:1,id:2345368,name:roberto bou martin>
+  Atleta <pos:2,id:1986208,name:Carles Ferreres (MegaBici)>
+  Atleta <pos:3,id:3244099,name:Pato Rossi>
+  Atleta <pos:4,id:1077699,name:Eduardo Horacio>
+Segmento <pos:71,id:3962805,name:Repexo Montgat>
+  Atleta <pos:0,id:512651,name:Toni Gil>
+  Atleta <pos:1,id:1161897,name:Jose María Benítez>
+  Atleta <pos:2,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:3,id:1001616,name:Fernando Alonso>
+  Atleta <pos:4,id:1299262,name:DE AMOS GARCIA BADAGGIOTEAM>
+Segmento <pos:72,id:7991713,name:Sprint del Molinet>
+  Atleta <pos:0,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:1,id:1176913,name:Pablo Benito>
+  Atleta <pos:2,id:427612,name:David Galvany>
+  Atleta <pos:3,id:1039595,name:Stefan Gissler>
+  Atleta <pos:4,id:3303307,name:Jesús Aranda RCR19>
+Segmento <pos:73,id:7942147,name:Mur Badalona>
+  Atleta <pos:0,id:1666274,name:Jan Willem Bolderdijk>
+  Atleta <pos:1,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:2,id:4001071,name:Paco García Cala>
+  Atleta <pos:3,id:738059,name:Pablo López Aguirre>
+  Atleta <pos:4,id:7515409,name:Jordi Arias Ruiz>
+Segmento <pos:74,id:1063452,name:Vallensana desde B20>
+  Atleta <pos:0,id:428395,name:marc de maar>
+  Atleta <pos:1,id:1882081,name:Salatiel Barros>
+  Atleta <pos:2,id:545740,name:Jonathan Rubio Esteban>
+  Atleta <pos:3,id:1521653,name:Oscar Iglesias>
+  Atleta <pos:4,id:274316,name:Ramonet Sagués>
+Segmento <pos:75,id:7315655,name:2 Finals Vallensana. ROAD.>
+  Atleta <pos:0,id:1497589,name:Ibon Zugasti Arrese>
+  Atleta <pos:1,id:7400804,name:Adrian Merino>
+  Atleta <pos:2,id:123114,name:Ismael Ventura>
+  Atleta <pos:3,id:429730,name:Carlos Díaz>
+  Atleta <pos:4,id:7323189,name:Alejandro Gomez Diaz>
+Segmento <pos:76,id:6686788,name:hacia el curro>
+  Atleta <pos:0,id:2849631,name:Raul Montoya Urquiza>
+  Atleta <pos:1,id:1926068,name:Lucky C.C. No Limits>
+  Atleta <pos:2,id:1521653,name:Oscar Iglesias>
+  Atleta <pos:3,id:1038517,name:Riki Español>
+  Atleta <pos:4,id:709355,name:Pau Egeda>
+Segmento <pos:77,id:9552650,name:Besòs - First Bridge >
+  Atleta <pos:0,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:1,id:1299262,name:DE AMOS GARCIA BADAGGIOTEAM>
+  Atleta <pos:2,id:284330,name:Iván Romo>
+  Atleta <pos:3,id:1099003,name:Sergio Soriano Moreno>
+  Atleta <pos:4,id:6301641,name:Rafael Diaz>
+Segmento <pos:78,id:8405258,name:Subida Merendero Bastida>
+  Atleta <pos:0,id:1077699,name:Eduardo Horacio>
+  Atleta <pos:1,id:10870429,name:Aleksey Pertuz Barrera>
+  Atleta <pos:2,id:1516399,name:Gaston Barreto>
+  Atleta <pos:3,id:1208755,name:Andres Rabal (Badabici)>
+  Atleta <pos:4,id:4242448,name:Jose A Calvo>
+Segmento <pos:79,id:8433987,name:Purito Mercadona (PAJAREROS)>
+  Atleta <pos:0,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Atleta <pos:1,id:1944298,name:Nuria Monzonis Martinez>
+  Atleta <pos:2,id:2380478,name:Javier Bertos>
+  Atleta <pos:3,id:4287392,name:Robert Ton>
+  Atleta <pos:4,id:4520938,name:Miguel Angel García Ruiz>
+************** /printArraySegments() ****************
+*****************************************************
+
+*****************************************************
+************** printArrayAthletes() *****************
+Atleta <pos:0,id:3917934,name:Javier Cid>
+  Segmento <pos:0,id:6538798,name:Puente splau to Pedrolos Carrefur (by kiwi)>
+Atleta <pos:1,id:1157957,name:Martin Fernandez>
+  Segmento <pos:0,id:6538798,name:Puente splau to Pedrolos Carrefur (by kiwi)>
+Atleta <pos:2,id:840055,name:DPua Martinez>
+  Segmento <pos:0,id:6538798,name:Puente splau to Pedrolos Carrefur (by kiwi)>
+Atleta <pos:3,id:1644957,name:Samuel Ruíz BICICLINIC CC>
+  Segmento <pos:0,id:6538798,name:Puente splau to Pedrolos Carrefur (by kiwi)>
+Atleta <pos:4,id:861153,name:Ivan Vam>
+  Segmento <pos:0,id:6538798,name:Puente splau to Pedrolos Carrefur (by kiwi)>
+Atleta <pos:5,id:5029599,name:Juan HF>
+  Segmento <pos:0,id:7275100,name:Coast to coast 1>
+Atleta <pos:6,id:6250533,name:Jose Sanchez Navarro>
+  Segmento <pos:0,id:7275100,name:Coast to coast 1>
+Atleta <pos:7,id:1821115,name:Miguel A. Cornellá>
+  Segmento <pos:0,id:7275100,name:Coast to coast 1>
+Atleta <pos:8,id:6245270,name:rober sanchez martinez>
+  Segmento <pos:0,id:7275100,name:Coast to coast 1>
+Atleta <pos:9,id:3236709,name:jose gonzalezBttBSF L´H>
+  Segmento <pos:0,id:7275100,name:Coast to coast 1>
+  Segmento <pos:1,id:4296777,name:Can Gelabert up>
+Atleta <pos:10,id:2131290,name:Miguel Angel Bici-osos>
+  Segmento <pos:0,id:8813513,name:se te caen lo cacahuetes?>
+Atleta <pos:11,id:6535652,name:Eduard Querol>
+  Segmento <pos:0,id:8813513,name:se te caen lo cacahuetes?>
+Atleta <pos:12,id:3908898,name:Jaume Pereira>
+  Segmento <pos:0,id:8813513,name:se te caen lo cacahuetes?>
+Atleta <pos:13,id:5504592,name:Jordi Cabrero  RETOOLS>
+  Segmento <pos:0,id:8813513,name:se te caen lo cacahuetes?>
+Atleta <pos:14,id:973693,name:Sergio Carbono>
+  Segmento <pos:0,id:8813513,name:se te caen lo cacahuetes?>
+Atleta <pos:15,id:3853045,name:Jose Antonio Reloba>
+  Segmento <pos:0,id:6276714,name:Full Gas!!>
+Atleta <pos:16,id:2040280,name:JUSTO LB / CobrasTEAM>
+  Segmento <pos:0,id:6276714,name:Full Gas!!>
+Atleta <pos:17,id:5015973,name:oliver jarque>
+  Segmento <pos:0,id:6276714,name:Full Gas!!>
+Atleta <pos:18,id:7398131,name:Sergio Bikehome Team>
+  Segmento <pos:0,id:6276714,name:Full Gas!!>
+Atleta <pos:19,id:1185023,name:Beto Carroggio>
+  Segmento <pos:0,id:6276714,name:Full Gas!!>
+Atleta <pos:20,id:2876405,name:F E R>
+  Segmento <pos:0,id:7119238,name:Carretera Santa Creu de Calafell>
+Atleta <pos:21,id:2053152,name:MANEL,MERINO C.C.RATPENAT>
+  Segmento <pos:0,id:7119238,name:Carretera Santa Creu de Calafell>
+Atleta <pos:22,id:547565,name:D.F.R. ALPCROSS>
+  Segmento <pos:0,id:7119238,name:Carretera Santa Creu de Calafell>
+Atleta <pos:23,id:299065,name:Javier Arredondo>
+  Segmento <pos:0,id:7119238,name:Carretera Santa Creu de Calafell>
+Atleta <pos:24,id:3539161,name:Miguel Cc Rat Penat>
+  Segmento <pos:0,id:7119238,name:Carretera Santa Creu de Calafell>
+Atleta <pos:25,id:1855274,name:Thomas De Gendt>
+  Segmento <pos:0,id:6198662,name:Carrer Saragossa Climb>
+  Segmento <pos:1,id:2639518,name:viladecans -sant boi>
+Atleta <pos:26,id:1655561,name:Roy Jérémy>
+  Segmento <pos:0,id:6198662,name:Carrer Saragossa Climb>
+Atleta <pos:27,id:479385,name:Wilco Kelderman>
+  Segmento <pos:0,id:6198662,name:Carrer Saragossa Climb>
+Atleta <pos:28,id:4587013,name:Thomas Degand>
+  Segmento <pos:0,id:6198662,name:Carrer Saragossa Climb>
+Atleta <pos:29,id:1389861,name:TOMATO DOSNOVENTA>
+  Segmento <pos:0,id:6198662,name:Carrer Saragossa Climb>
+  Segmento <pos:1,id:2639518,name:viladecans -sant boi>
+  Segmento <pos:2,id:4590835,name:Drecera de Vallvidrera Climb>
+Atleta <pos:30,id:2387206,name:Globero 1>
+  Segmento <pos:0,id:2639518,name:viladecans -sant boi>
+  Segmento <pos:1,id:7743570,name:Sprint Ikea>
+Atleta <pos:31,id:1432185,name:Oscar Viniegra>
+  Segmento <pos:0,id:2639518,name:viladecans -sant boi>
+Atleta <pos:32,id:4378691,name:Jose Antonio Fernandez Sanchez>
+  Segmento <pos:0,id:2639518,name:viladecans -sant boi>
+Atleta <pos:33,id:1659872,name:Oliver VIudez>
+  Segmento <pos:0,id:7613721,name:túnel a túnel ida Prat >
+Atleta <pos:34,id:10740035,name:Eduardo Izquierdo>
+  Segmento <pos:0,id:7613721,name:túnel a túnel ida Prat >
+Atleta <pos:35,id:1075406,name:Luis Fernandez>
+  Segmento <pos:0,id:7613721,name:túnel a túnel ida Prat >
+Atleta <pos:36,id:1041078,name:Victor Caballé Bladé>
+  Segmento <pos:0,id:7613721,name:túnel a túnel ida Prat >
+Atleta <pos:37,id:10629613,name:Julen Marshall>
+  Segmento <pos:0,id:7613721,name:túnel a túnel ida Prat >
+Atleta <pos:38,id:1427705,name:Alexis "TomasDomingo">
+  Segmento <pos:0,id:4095151,name:Nissan to Llobregat River Cornella-Splau>
+Atleta <pos:39,id:2894233,name:Aitor Sanz>
+  Segmento <pos:0,id:4095151,name:Nissan to Llobregat River Cornella-Splau>
+Atleta <pos:40,id:3913802,name:Jose Maqui>
+  Segmento <pos:0,id:4095151,name:Nissan to Llobregat River Cornella-Splau>
+Atleta <pos:41,id:1108522,name:Tony Gallardo PROBIKE>
+  Segmento <pos:0,id:4095151,name:Nissan to Llobregat River Cornella-Splau>
+  Segmento <pos:1,id:4423008,name: Can Borrell-Ermita St. Medir >
+Atleta <pos:42,id:1809499,name:Ferran Sprint Bike>
+  Segmento <pos:0,id:4095151,name:Nissan to Llobregat River Cornella-Splau>
+Atleta <pos:43,id:9329491,name:Antonio Moreno>
+  Segmento <pos:0,id:7894724,name:Bridge A2 Sant Joan>
+Atleta <pos:44,id:3355415,name:Jaume Duran>
+  Segmento <pos:0,id:7894724,name:Bridge A2 Sant Joan>
+Atleta <pos:45,id:5882472,name:xavier Cots>
+  Segmento <pos:0,id:7894724,name:Bridge A2 Sant Joan>
+Atleta <pos:46,id:4657068,name:Manuel Jimenez>
+  Segmento <pos:0,id:7894724,name:Bridge A2 Sant Joan>
+Atleta <pos:47,id:5573221,name:José Luis Pérez Rodríguez>
+  Segmento <pos:0,id:7894724,name:Bridge A2 Sant Joan>
+Atleta <pos:48,id:123114,name:Ismael Ventura>
+  Segmento <pos:0,id:3037365,name:trialera dragon khan>
+  Segmento <pos:1,id:4610793,name:Forat del vent (de pont a pont)>
+  Segmento <pos:2,id:7315655,name:2 Finals Vallensana. ROAD.>
+Atleta <pos:49,id:1925463,name:Sergix Shaman Team>
+  Segmento <pos:0,id:3037365,name:trialera dragon khan>
+  Segmento <pos:1,id:2950265,name:Trialera Camí Sta.Creu Olorda a Institut BUP (versió llarga)>
+Atleta <pos:50,id:16387,name:Øyvind Aas>
+  Segmento <pos:0,id:3037365,name:trialera dragon khan>
+Atleta <pos:51,id:1961589,name:Ivan Oulego>
+  Segmento <pos:0,id:3037365,name:trialera dragon khan>
+Atleta <pos:52,id:2083692,name:Oriol Probike>
+  Segmento <pos:0,id:3037365,name:trialera dragon khan>
+Atleta <pos:53,id:1359797,name:Oscar Ferrer>
+  Segmento <pos:0,id:3021023,name:Collserola - Pujada Sant Pere Martir (asfalt)>
+  Segmento <pos:1,id:3567391,name:BCN-Molins: Ascension parte 2>
+  Segmento <pos:2,id:2950265,name:Trialera Camí Sta.Creu Olorda a Institut BUP (versió llarga)>
+  Segmento <pos:3,id:8162404,name:Carrer A uphill Sprint>
+  Segmento <pos:4,id:850114,name:Can Borni>
+  Segmento <pos:5,id:7143656,name:21 curvas>
+Atleta <pos:54,id:771131,name:mauro carne>
+  Segmento <pos:0,id:3021023,name:Collserola - Pujada Sant Pere Martir (asfalt)>
+Atleta <pos:55,id:668162,name:Carlos Portilla>
+  Segmento <pos:0,id:3021023,name:Collserola - Pujada Sant Pere Martir (asfalt)>
+  Segmento <pos:1,id:707005,name:Siberia>
+  Segmento <pos:2,id:1332560,name:Matamachos>
+Atleta <pos:56,id:761551,name:Pedro Anglada>
+  Segmento <pos:0,id:3021023,name:Collserola - Pujada Sant Pere Martir (asfalt)>
+  Segmento <pos:1,id:707005,name:Siberia>
+  Segmento <pos:2,id:3436363,name:Arrabassada - Primer tram (St.Cugat)>
+  Segmento <pos:3,id:7143656,name:21 curvas>
+  Segmento <pos:4,id:4423008,name: Can Borrell-Ermita St. Medir >
+  Segmento <pos:5,id:6919359,name:Crtra Forat Vent - Forquilla F Groga>
+Atleta <pos:57,id:1168895,name:Manuel ATRAPALO>
+  Segmento <pos:0,id:3021023,name:Collserola - Pujada Sant Pere Martir (asfalt)>
+  Segmento <pos:1,id:4881961,name:Repechón La Floresta>
+Atleta <pos:58,id:8771820,name:Adrià Montserrat Salvatella>
+  Segmento <pos:0,id:4590835,name:Drecera de Vallvidrera Climb>
+Atleta <pos:59,id:177024,name:Abdón  Cayero>
+  Segmento <pos:0,id:4590835,name:Drecera de Vallvidrera Climb>
+Atleta <pos:60,id:6936488,name:Paul Moorage>
+  Segmento <pos:0,id:4590835,name:Drecera de Vallvidrera Climb>
+Atleta <pos:61,id:3234707,name:Pablo Velat>
+  Segmento <pos:0,id:4590835,name:Drecera de Vallvidrera Climb>
+Atleta <pos:62,id:1497589,name:Ibon Zugasti Arrese>
+  Segmento <pos:0,id:3567391,name:BCN-Molins: Ascension parte 2>
+  Segmento <pos:1,id:7614261,name:(SHERPAS) Crtra. Molins de La Creu a Containers>
+  Segmento <pos:2,id:707005,name:Siberia>
+  Segmento <pos:3,id:3436363,name:Arrabassada - Primer tram (St.Cugat)>
+  Segmento <pos:4,id:6803220,name:last km tibi>
+  Segmento <pos:5,id:8574585,name:TIBIDABO HILL CLIMB 2014>
+  Segmento <pos:6,id:6333605,name:Subida Tibidabo ctra san cugat, primeros 2 semáforos>
+  Segmento <pos:7,id:4610793,name:Forat del vent (de pont a pont)>
+  Segmento <pos:8,id:675792,name:Forat del Vent (BCN) >
+  Segmento <pos:9,id:7446459,name:The last bitch>
+  Segmento <pos:10,id:2530205,name:Avinguda Diagonal>
+  Segmento <pos:11,id:6816886,name:Mini Pujada del litoral>
+  Segmento <pos:12,id:7315655,name:2 Finals Vallensana. ROAD.>
+Atleta <pos:63,id:6390713,name:Roger Adrià>
+  Segmento <pos:0,id:3567391,name:BCN-Molins: Ascension parte 2>
+Atleta <pos:64,id:6467180,name:Albert Castella Sapé>
+  Segmento <pos:0,id:3567391,name:BCN-Molins: Ascension parte 2>
+  Segmento <pos:1,id:3678488,name:Tramo final plaza mireia>
+Atleta <pos:65,id:614691,name:Javier Salamero KING BCN RC>
+  Segmento <pos:0,id:3567391,name:BCN-Molins: Ascension parte 2>
+  Segmento <pos:1,id:6416815,name:La Pantoja!!!>
+  Segmento <pos:2,id:7143656,name:21 curvas>
+  Segmento <pos:3,id:675792,name:Forat del Vent (BCN) >
+Atleta <pos:66,id:2624527,name:Albert Nafría>
+  Segmento <pos:0,id:7614261,name:(SHERPAS) Crtra. Molins de La Creu a Containers>
+Atleta <pos:67,id:155290,name:Levi Leipheimer>
+  Segmento <pos:0,id:7614261,name:(SHERPAS) Crtra. Molins de La Creu a Containers>
+Atleta <pos:68,id:1692235,name:Lucas Mola>
+  Segmento <pos:0,id:7614261,name:(SHERPAS) Crtra. Molins de La Creu a Containers>
+  Segmento <pos:1,id:3436363,name:Arrabassada - Primer tram (St.Cugat)>
+Atleta <pos:69,id:776311,name:Jose A. Lopez Gomez>
+  Segmento <pos:0,id:7614261,name:(SHERPAS) Crtra. Molins de La Creu a Containers>
+Atleta <pos:70,id:1766809,name:Oscar Muñoz/PROBIKE>
+  Segmento <pos:0,id:6416815,name:La Pantoja!!!>
+  Segmento <pos:1,id:3193787,name:Cronoescalada Sprint bikes>
+Atleta <pos:71,id:1083994,name:Eme Romer /Alpcross>
+  Segmento <pos:0,id:6416815,name:La Pantoja!!!>
+  Segmento <pos:1,id:3193787,name:Cronoescalada Sprint bikes>
+  Segmento <pos:2,id:4296777,name:Can Gelabert up>
+  Segmento <pos:3,id:7357399,name:Corriols i pista per la Rierada (by Ricard Ferrer)>
+Atleta <pos:72,id:278772,name:Robert Soley BSNTS>
+  Segmento <pos:0,id:6416815,name:La Pantoja!!!>
+  Segmento <pos:1,id:4450611,name:tramo a full>
+Atleta <pos:73,id:1256145,name:Jesus Pau VÈRTIC >
+  Segmento <pos:0,id:6416815,name:La Pantoja!!!>
+  Segmento <pos:1,id:3193787,name:Cronoescalada Sprint bikes>
+Atleta <pos:74,id:11444264,name:Alex C>
+  Segmento <pos:0,id:3678488,name:Tramo final plaza mireia>
+Atleta <pos:75,id:1625801,name:Oriol Perera>
+  Segmento <pos:0,id:3678488,name:Tramo final plaza mireia>
+Atleta <pos:76,id:1637296,name:Adam Alonso>
+  Segmento <pos:0,id:3678488,name:Tramo final plaza mireia>
+Atleta <pos:77,id:4287392,name:Robert Ton>
+  Segmento <pos:0,id:3678488,name:Tramo final plaza mireia>
+  Segmento <pos:1,id:6895354,name:Calle 6 (full)>
+  Segmento <pos:2,id:8433987,name:Purito Mercadona (PAJAREROS)>
+Atleta <pos:78,id:6499657,name:Rafael Molina 43>
+  Segmento <pos:0,id:3193787,name:Cronoescalada Sprint bikes>
+Atleta <pos:79,id:6829924,name:Eduardo Abian>
+  Segmento <pos:0,id:3193787,name:Cronoescalada Sprint bikes>
+Atleta <pos:80,id:4518268,name:Sergio Palmero BttBSF L'H>
+  Segmento <pos:0,id:4296777,name:Can Gelabert up>
+Atleta <pos:81,id:3384936,name:Ilde Sumotordepersianas>
+  Segmento <pos:0,id:4296777,name:Can Gelabert up>
+Atleta <pos:82,id:1467223,name:Joan Guillamat>
+  Segmento <pos:0,id:4296777,name:Can Gelabert up>
+Atleta <pos:83,id:1265720,name:Pol Romero>
+  Segmento <pos:0,id:2950265,name:Trialera Camí Sta.Creu Olorda a Institut BUP (versió llarga)>
+  Segmento <pos:1,id:8326554,name:trialera de los hobbyts>
+Atleta <pos:84,id:567766,name:josh Biciclinic>
+  Segmento <pos:0,id:2950265,name:Trialera Camí Sta.Creu Olorda a Institut BUP (versió llarga)>
+  Segmento <pos:1,id:3436363,name:Arrabassada - Primer tram (St.Cugat)>
+  Segmento <pos:2,id:850114,name:Can Borni>
+  Segmento <pos:3,id:6333605,name:Subida Tibidabo ctra san cugat, primeros 2 semáforos>
+  Segmento <pos:4,id:7143656,name:21 curvas>
+Atleta <pos:85,id:2423187,name:Marc Arañó>
+  Segmento <pos:0,id:2950265,name:Trialera Camí Sta.Creu Olorda a Institut BUP (versió llarga)>
+Atleta <pos:86,id:3964613,name:Andrés López>
+  Segmento <pos:0,id:707005,name:Siberia>
+Atleta <pos:87,id:251070,name:Àngel Marco "Bucles" BSNTS>
+  Segmento <pos:0,id:707005,name:Siberia>
+Atleta <pos:88,id:1423325,name:Isma Martín>
+  Segmento <pos:0,id:6010919,name:Apreton Can Borrell -Pedala tu>
+Atleta <pos:89,id:946943,name:Oscar Berral>
+  Segmento <pos:0,id:6010919,name:Apreton Can Borrell -Pedala tu>
+Atleta <pos:90,id:5772041,name:Carlos Mendez>
+  Segmento <pos:0,id:6010919,name:Apreton Can Borrell -Pedala tu>
+Atleta <pos:91,id:1310844,name:Deivid Jarram>
+  Segmento <pos:0,id:6010919,name:Apreton Can Borrell -Pedala tu>
+  Segmento <pos:1,id:7040577,name:ojo perros -subida>
+Atleta <pos:92,id:1385181,name:Alex Caballero  (RR Bikers)>
+  Segmento <pos:0,id:6010919,name:Apreton Can Borrell -Pedala tu>
+  Segmento <pos:1,id:7040577,name:ojo perros -subida>
+  Segmento <pos:2,id:7357399,name:Corriols i pista per la Rierada (by Ricard Ferrer)>
+  Segmento <pos:3,id:4450611,name:tramo a full>
+Atleta <pos:93,id:896095,name:Jony  .>
+  Segmento <pos:0,id:7040577,name:ojo perros -subida>
+Atleta <pos:94,id:4030821,name:Aritz Iriarte>
+  Segmento <pos:0,id:7040577,name:ojo perros -subida>
+Atleta <pos:95,id:4494827,name:joaquin escudero>
+  Segmento <pos:0,id:7040577,name:ojo perros -subida>
+Atleta <pos:96,id:2447079,name:Rogelio Rodriguez - Tona Bikes>
+  Segmento <pos:0,id:4335993,name:Esprint entrada St. Cugat>
+Atleta <pos:97,id:11158588,name:Marc Puig, GoVegan!>
+  Segmento <pos:0,id:4335993,name:Esprint entrada St. Cugat>
+Atleta <pos:98,id:3017142,name:M??ARC ??.>
+  Segmento <pos:0,id:4335993,name:Esprint entrada St. Cugat>
+Atleta <pos:99,id:2223236,name:Andre  Cafeducycliste.com>
+  Segmento <pos:0,id:4335993,name:Esprint entrada St. Cugat>
+Atleta <pos:100,id:4859767,name:Xavi Fas>
+  Segmento <pos:0,id:4335993,name:Esprint entrada St. Cugat>
+  Segmento <pos:1,id:7238024,name:Pujada diagonal>
+Atleta <pos:101,id:428395,name:marc de maar>
+  Segmento <pos:0,id:3436363,name:Arrabassada - Primer tram (St.Cugat)>
+  Segmento <pos:1,id:850114,name:Can Borni>
+  Segmento <pos:2,id:4610793,name:Forat del vent (de pont a pont)>
+  Segmento <pos:3,id:675792,name:Forat del Vent (BCN) >
+  Segmento <pos:4,id:1063452,name:Vallensana desde B20>
+Atleta <pos:102,id:7458585,name:René Aamand "SCB" / "WITL?">
+  Segmento <pos:0,id:7566776,name:Sprint llegada a Sant Cugat>
+  Segmento <pos:1,id:4881961,name:Repechón La Floresta>
+  Segmento <pos:2,id:6803220,name:last km tibi>
+  Segmento <pos:3,id:6715482,name:Carles a UPC>
+  Segmento <pos:4,id:8712540,name:Passeig Maritim N>
+  Segmento <pos:5,id:7238024,name:Pujada diagonal>
+  Segmento <pos:6,id:6148342,name:mini raices up>
+  Segmento <pos:7,id:7901413,name:junto al río esquivando mosquitos y peatones>
+  Segmento <pos:8,id:8023812,name:VA POR TI GUS( PAJARERO)>
+  Segmento <pos:9,id:7446459,name:The last bitch>
+  Segmento <pos:10,id:7989885,name:Avinguda Mariestany>
+  Segmento <pos:11,id:8508795,name:Forum al Rio>
+  Segmento <pos:12,id:3962805,name:Repexo Montgat>
+  Segmento <pos:13,id:7991713,name:Sprint del Molinet>
+  Segmento <pos:14,id:7942147,name:Mur Badalona>
+  Segmento <pos:15,id:9552650,name:Besòs - First Bridge >
+  Segmento <pos:16,id:8433987,name:Purito Mercadona (PAJAREROS)>
+Atleta <pos:103,id:1274326,name:Xavi Buzon>
+  Segmento <pos:0,id:7566776,name:Sprint llegada a Sant Cugat>
+  Segmento <pos:1,id:8378471,name:SPRINT CARRER A>
+Atleta <pos:104,id:1319565,name:Miguel Angel Gómez>
+  Segmento <pos:0,id:7566776,name:Sprint llegada a Sant Cugat>
+Atleta <pos:105,id:5481041,name:bnog .>
+  Segmento <pos:0,id:7566776,name:Sprint llegada a Sant Cugat>
+Atleta <pos:106,id:2117883,name:Carles Ramírez>
+  Segmento <pos:0,id:7566776,name:Sprint llegada a Sant Cugat>
+Atleta <pos:107,id:7193743,name:Kasper Christensen>
+  Segmento <pos:0,id:9877038,name:Baixada La Floresta Sant Cugat Arrebasada>
+Atleta <pos:108,id:3002956,name:Marcus Ballnath>
+  Segmento <pos:0,id:9877038,name:Baixada La Floresta Sant Cugat Arrebasada>
+Atleta <pos:109,id:1882081,name:Salatiel Barros>
+  Segmento <pos:0,id:9877038,name:Baixada La Floresta Sant Cugat Arrebasada>
+  Segmento <pos:1,id:1063452,name:Vallensana desde B20>
+Atleta <pos:110,id:573108,name:Daniel Gonzalez>
+  Segmento <pos:0,id:9877038,name:Baixada La Floresta Sant Cugat Arrebasada>
+  Segmento <pos:1,id:8574585,name:TIBIDABO HILL CLIMB 2014>
+Atleta <pos:111,id:1077628,name:Daniel Campos Hull>
+  Segmento <pos:0,id:9877038,name:Baixada La Floresta Sant Cugat Arrebasada>
+Atleta <pos:112,id:1981138,name:Xavier PALLEJA (Insaciables bike)>
+  Segmento <pos:0,id:7357399,name:Corriols i pista per la Rierada (by Ricard Ferrer)>
+Atleta <pos:113,id:2153813,name:David Barcelo>
+  Segmento <pos:0,id:7357399,name:Corriols i pista per la Rierada (by Ricard Ferrer)>
+Atleta <pos:114,id:2359572,name:Toni Juba>
+  Segmento <pos:0,id:7357399,name:Corriols i pista per la Rierada (by Ricard Ferrer)>
+Atleta <pos:115,id:2004765,name:Oscar Teijeiro (RR Bikers)>
+  Segmento <pos:0,id:4881961,name:Repechón La Floresta>
+Atleta <pos:116,id:1151506,name:Octavi Grau  SHAMAN TEAM>
+  Segmento <pos:0,id:4881961,name:Repechón La Floresta>
+Atleta <pos:117,id:788578,name:Xavier Nafría>
+  Segmento <pos:0,id:4881961,name:Repechón La Floresta>
+Atleta <pos:118,id:1068669,name:Marc Castanye Panyella>
+  Segmento <pos:0,id:8326554,name:trialera de los hobbyts>
+Atleta <pos:119,id:3558852,name:Roberto Moreno>
+  Segmento <pos:0,id:8326554,name:trialera de los hobbyts>
+Atleta <pos:120,id:2789429,name:Miguel  moreno >
+  Segmento <pos:0,id:8326554,name:trialera de los hobbyts>
+Atleta <pos:121,id:5379747,name:Xavi Sanchez>
+  Segmento <pos:0,id:8326554,name:trialera de los hobbyts>
+Atleta <pos:122,id:808828,name:jasper hermsen>
+  Segmento <pos:0,id:2778885,name:Step 1 up to Estadi Olimpic>
+Atleta <pos:123,id:199926,name:Nurul Momin Ahmed BikeTraining>
+  Segmento <pos:0,id:2778885,name:Step 1 up to Estadi Olimpic>
+  Segmento <pos:1,id:8440236,name:Pujada W>
+  Segmento <pos:2,id:6803220,name:last km tibi>
+Atleta <pos:124,id:7078088,name:Cal DiCal>
+  Segmento <pos:0,id:2778885,name:Step 1 up to Estadi Olimpic>
+Atleta <pos:125,id:3512225,name:Jordi www.bcnonboard.com>
+  Segmento <pos:0,id:2778885,name:Step 1 up to Estadi Olimpic>
+  Segmento <pos:1,id:7081907,name:Entering the castell >
+Atleta <pos:126,id:3364388,name:Ruben Rodriguez - MAKROBIKE>
+  Segmento <pos:0,id:2778885,name:Step 1 up to Estadi Olimpic>
+Atleta <pos:127,id:11456825,name:Joan Del Rio>
+  Segmento <pos:0,id:7081907,name:Entering the castell >
+Atleta <pos:128,id:12834893,name:Matti De Bruyne>
+  Segmento <pos:0,id:7081907,name:Entering the castell >
+Atleta <pos:129,id:2345368,name:roberto bou martin>
+  Segmento <pos:0,id:7081907,name:Entering the castell >
+  Segmento <pos:1,id:6705684,name:SPRINT CALLE A>
+  Segmento <pos:2,id:8574585,name:TIBIDABO HILL CLIMB 2014>
+  Segmento <pos:3,id:6333605,name:Subida Tibidabo ctra san cugat, primeros 2 semáforos>
+  Segmento <pos:4,id:675792,name:Forat del Vent (BCN) >
+  Segmento <pos:5,id:7070035,name:CADENA A MIRADOR VALLESANA>
+Atleta <pos:130,id:1737903,name:Thomas Lund>
+  Segmento <pos:0,id:7081907,name:Entering the castell >
+Atleta <pos:131,id:1076590,name:Hector HMGentrenamiento.com>
+  Segmento <pos:0,id:8162404,name:Carrer A uphill Sprint>
+  Segmento <pos:1,id:8378471,name:SPRINT CARRER A>
+Atleta <pos:132,id:6354428,name:Eloy de la Fuente>
+  Segmento <pos:0,id:8162404,name:Carrer A uphill Sprint>
+Atleta <pos:133,id:173968,name:Gabriel Nogueira CCGràcia>
+  Segmento <pos:0,id:8162404,name:Carrer A uphill Sprint>
+Atleta <pos:134,id:3885666,name:Aitor Garay>
+  Segmento <pos:0,id:8162404,name:Carrer A uphill Sprint>
+  Segmento <pos:1,id:8378471,name:SPRINT CARRER A>
+Atleta <pos:135,id:5694142,name:Marc Villalba>
+  Segmento <pos:0,id:6705684,name:SPRINT CALLE A>
+Atleta <pos:136,id:1724829,name:David Flaggio>
+  Segmento <pos:0,id:6705684,name:SPRINT CALLE A>
+Atleta <pos:137,id:8750069,name:Marc Canet>
+  Segmento <pos:0,id:6705684,name:SPRINT CALLE A>
+Atleta <pos:138,id:2494190,name:Lucas Chirico>
+  Segmento <pos:0,id:6705684,name:SPRINT CALLE A>
+  Segmento <pos:1,id:9323080,name:Cerdà - Fira>
+Atleta <pos:139,id:6533624,name:Nacho Petit Gil>
+  Segmento <pos:0,id:8440236,name:Pujada W>
+Atleta <pos:140,id:1193998,name:Ivan Arroyo>
+  Segmento <pos:0,id:8440236,name:Pujada W>
+Atleta <pos:141,id:3274159,name:Daniel Carbó>
+  Segmento <pos:0,id:8440236,name:Pujada W>
+Atleta <pos:142,id:3851278,name:Jesus 26"Ti>
+  Segmento <pos:0,id:8440236,name:Pujada W>
+Atleta <pos:143,id:1055377,name:Manuel  Villalba(RR Bikers)>
+  Segmento <pos:0,id:7232052,name:Bajada hasta semáforo c/del Foc>
+Atleta <pos:144,id:2004220,name:Nano Nano>
+  Segmento <pos:0,id:7232052,name:Bajada hasta semáforo c/del Foc>
+Atleta <pos:145,id:538415,name:Raul Lopez Ramos>
+  Segmento <pos:0,id:7232052,name:Bajada hasta semáforo c/del Foc>
+  Segmento <pos:1,id:6816886,name:Mini Pujada del litoral>
+Atleta <pos:146,id:1093012,name:Riqui Pantani>
+  Segmento <pos:0,id:7232052,name:Bajada hasta semáforo c/del Foc>
+Atleta <pos:147,id:3916508,name:Francesco De Pasquale>
+  Segmento <pos:0,id:7232052,name:Bajada hasta semáforo c/del Foc>
+Atleta <pos:148,id:4697413,name:Tomahawk .>
+  Segmento <pos:0,id:8378471,name:SPRINT CARRER A>
+Atleta <pos:149,id:525832,name:Raúl Vallecillos>
+  Segmento <pos:0,id:8378471,name:SPRINT CARRER A>
+Atleta <pos:150,id:3230990,name:Lolo Marin CcNoLimits>
+  Segmento <pos:0,id:6895354,name:Calle 6 (full)>
+Atleta <pos:151,id:6390559,name:Dani Velasco>
+  Segmento <pos:0,id:6895354,name:Calle 6 (full)>
+Atleta <pos:152,id:2154099,name:johnny arce>
+  Segmento <pos:0,id:6895354,name:Calle 6 (full)>
+Atleta <pos:153,id:4838217,name:Carlos Molina Guisado>
+  Segmento <pos:0,id:6895354,name:Calle 6 (full)>
+Atleta <pos:154,id:5896645,name:Carlos Lapuerta>
+  Segmento <pos:0,id:7743570,name:Sprint Ikea>
+Atleta <pos:155,id:11468326,name:Marcos Doblas>
+  Segmento <pos:0,id:7743570,name:Sprint Ikea>
+Atleta <pos:156,id:351663,name:David Dalmau>
+  Segmento <pos:0,id:7743570,name:Sprint Ikea>
+Atleta <pos:157,id:12586897,name:SUILEUNG TSE>
+  Segmento <pos:0,id:7743570,name:Sprint Ikea>
+Atleta <pos:158,id:10324146,name:Mauro Banelli>
+  Segmento <pos:0,id:9323080,name:Cerdà - Fira>
+Atleta <pos:159,id:12557612,name:Eusebio M>
+  Segmento <pos:0,id:9323080,name:Cerdà - Fira>
+Atleta <pos:160,id:4138390,name:Jofre Obrador>
+  Segmento <pos:0,id:9323080,name:Cerdà - Fira>
+Atleta <pos:161,id:4403860,name:josep nuñez>
+  Segmento <pos:0,id:9323080,name:Cerdà - Fira>
+Atleta <pos:162,id:2036897,name:Jaume Estrada>
+  Segmento <pos:0,id:6803220,name:last km tibi>
+Atleta <pos:163,id:526287,name:ferrAn Marsà>
+  Segmento <pos:0,id:6803220,name:last km tibi>
+Atleta <pos:164,id:9800830,name:Jose Luis Alvarez>
+  Segmento <pos:0,id:6303892,name:Subida final Tibi Dabo>
+Atleta <pos:165,id:1164871,name:FREHNER  ALPCROSS>
+  Segmento <pos:0,id:6303892,name:Subida final Tibi Dabo>
+Atleta <pos:166,id:1759786,name:Alejandro Surroca (RCR19)>
+  Segmento <pos:0,id:6303892,name:Subida final Tibi Dabo>
+Atleta <pos:167,id:5622769,name:Javier González>
+  Segmento <pos:0,id:6303892,name:Subida final Tibi Dabo>
+Atleta <pos:168,id:5300850,name:Javier Palacio>
+  Segmento <pos:0,id:6303892,name:Subida final Tibi Dabo>
+Atleta <pos:169,id:297984,name:Quim pagès>
+  Segmento <pos:0,id:850114,name:Can Borni>
+Atleta <pos:170,id:284330,name:Iván Romo>
+  Segmento <pos:0,id:850114,name:Can Borni>
+  Segmento <pos:1,id:6919359,name:Crtra Forat Vent - Forquilla F Groga>
+  Segmento <pos:2,id:4450611,name:tramo a full>
+  Segmento <pos:3,id:9552650,name:Besòs - First Bridge >
+Atleta <pos:171,id:1503703,name:Gonzalo King Bikes>
+  Segmento <pos:0,id:2456949,name:Trialera Raíces Shaman>
+Atleta <pos:172,id:1674019,name:Moi Gimeno (Fomula Extrem Bike Shop)>
+  Segmento <pos:0,id:2456949,name:Trialera Raíces Shaman>
+Atleta <pos:173,id:1643992,name:Eugenio Led>
+  Segmento <pos:0,id:2456949,name:Trialera Raíces Shaman>
+Atleta <pos:174,id:4108326,name:Mario Vasilev>
+  Segmento <pos:0,id:2456949,name:Trialera Raíces Shaman>
+Atleta <pos:175,id:3040324,name:Toralainen ST bcmkt>
+  Segmento <pos:0,id:2456949,name:Trialera Raíces Shaman>
+Atleta <pos:176,id:2509260,name:Maarten Klijnstra>
+  Segmento <pos:0,id:8574585,name:TIBIDABO HILL CLIMB 2014>
+Atleta <pos:177,id:1864941,name:Pau Moltó>
+  Segmento <pos:0,id:8574585,name:TIBIDABO HILL CLIMB 2014>
+Atleta <pos:178,id:7366141,name:Miguel Betanzos>
+  Segmento <pos:0,id:6333605,name:Subida Tibidabo ctra san cugat, primeros 2 semáforos>
+Atleta <pos:179,id:1710706,name:Cristian Astals>
+  Segmento <pos:0,id:6333605,name:Subida Tibidabo ctra san cugat, primeros 2 semáforos>
+Atleta <pos:180,id:1540153,name:xongoku sergio pedrero>
+  Segmento <pos:0,id:6715482,name:Carles a UPC>
+Atleta <pos:181,id:5317756,name:Jose Sanz Garcia>
+  Segmento <pos:0,id:6715482,name:Carles a UPC>
+Atleta <pos:182,id:1129744,name:Daniel Moreno>
+  Segmento <pos:0,id:6715482,name:Carles a UPC>
+Atleta <pos:183,id:4411008,name:David Girodon>
+  Segmento <pos:0,id:6715482,name:Carles a UPC>
+  Segmento <pos:1,id:6816886,name:Mini Pujada del litoral>
+Atleta <pos:184,id:344229,name:Joan Francolí>
+  Segmento <pos:0,id:7960128,name:Avinguda Maria Cristina>
+Atleta <pos:185,id:423495,name:Dominique Rollin>
+  Segmento <pos:0,id:7960128,name:Avinguda Maria Cristina>
+Atleta <pos:186,id:3488421,name:Albert Lorente>
+  Segmento <pos:0,id:7960128,name:Avinguda Maria Cristina>
+Atleta <pos:187,id:1546243,name:Jussi Veikkanen>
+  Segmento <pos:0,id:7960128,name:Avinguda Maria Cristina>
+Atleta <pos:188,id:1758948,name:roger barranco pons>
+  Segmento <pos:0,id:7960128,name:Avinguda Maria Cristina>
+Atleta <pos:189,id:2801177,name:Harald Grimm>
+  Segmento <pos:0,id:8712540,name:Passeig Maritim N>
+Atleta <pos:190,id:6269734,name:Andre Lahouter>
+  Segmento <pos:0,id:8712540,name:Passeig Maritim N>
+Atleta <pos:191,id:1018573,name:Andreas Danielsen>
+  Segmento <pos:0,id:8712540,name:Passeig Maritim N>
+Atleta <pos:192,id:3615917,name:Ogies C>
+  Segmento <pos:0,id:8712540,name:Passeig Maritim N>
+Atleta <pos:193,id:1143918,name:endurer atipic>
+  Segmento <pos:0,id:7238024,name:Pujada diagonal>
+Atleta <pos:194,id:178272,name:Luca Giovannini>
+  Segmento <pos:0,id:7238024,name:Pujada diagonal>
+Atleta <pos:195,id:6257037,name:ulf S>
+  Segmento <pos:0,id:7238024,name:Pujada diagonal>
+Atleta <pos:196,id:335430,name:Pep Tatché>
+  Segmento <pos:0,id:4610793,name:Forat del vent (de pont a pont)>
+  Segmento <pos:1,id:7989885,name:Avinguda Mariestany>
+  Segmento <pos:2,id:3858133,name:Forum to Arts>
+Atleta <pos:197,id:440611,name:Oriol Escolano Navés>
+  Segmento <pos:0,id:4610793,name:Forat del vent (de pont a pont)>
+Atleta <pos:198,id:6325948,name:Robert RcB>
+  Segmento <pos:0,id:1332560,name:Matamachos>
+Atleta <pos:199,id:5352720,name:Arturo Martinez (RR Bikers)>
+  Segmento <pos:0,id:1332560,name:Matamachos>
+Atleta <pos:200,id:898095,name:Oscar Del Baño C.C MEDINA>
+  Segmento <pos:0,id:1332560,name:Matamachos>
+Atleta <pos:201,id:1331135,name:Roman Iglesias>
+  Segmento <pos:0,id:1332560,name:Matamachos>
+Atleta <pos:202,id:5708381,name:Alex Sastre>
+  Segmento <pos:0,id:7143656,name:21 curvas>
+Atleta <pos:203,id:1453793,name:Daniel FVA >
+  Segmento <pos:0,id:6148342,name:mini raices up>
+Atleta <pos:204,id:552317,name:Peter Lykke>
+  Segmento <pos:0,id:6148342,name:mini raices up>
+Atleta <pos:205,id:2212052,name:F J>
+  Segmento <pos:0,id:6148342,name:mini raices up>
+Atleta <pos:206,id:227328,name:Gary Willis>
+  Segmento <pos:0,id:6148342,name:mini raices up>
+Atleta <pos:207,id:274316,name:Ramonet Sagués>
+  Segmento <pos:0,id:4423008,name: Can Borrell-Ermita St. Medir >
+  Segmento <pos:1,id:675792,name:Forat del Vent (BCN) >
+  Segmento <pos:2,id:1063452,name:Vallensana desde B20>
+Atleta <pos:208,id:1295802,name:Juan Gasso>
+  Segmento <pos:0,id:4423008,name: Can Borrell-Ermita St. Medir >
+Atleta <pos:209,id:2187225,name:Cristian Salazar KING BCN RC>
+  Segmento <pos:0,id:4423008,name: Can Borrell-Ermita St. Medir >
+Atleta <pos:210,id:709355,name:Pau Egeda>
+  Segmento <pos:0,id:6919359,name:Crtra Forat Vent - Forquilla F Groga>
+  Segmento <pos:1,id:6686788,name:hacia el curro>
+Atleta <pos:211,id:1454249,name:Diego Lozano>
+  Segmento <pos:0,id:6919359,name:Crtra Forat Vent - Forquilla F Groga>
+  Segmento <pos:1,id:4450611,name:tramo a full>
+Atleta <pos:212,id:1472303,name:Paco Po>
+  Segmento <pos:0,id:6919359,name:Crtra Forat Vent - Forquilla F Groga>
+Atleta <pos:213,id:6350800,name:José Navarro García>
+  Segmento <pos:0,id:4450611,name:tramo a full>
+Atleta <pos:214,id:6344338,name:Isidro Peña>
+  Segmento <pos:0,id:7901413,name:junto al río esquivando mosquitos y peatones>
+Atleta <pos:215,id:7984176,name:Nico Debs>
+  Segmento <pos:0,id:7901413,name:junto al río esquivando mosquitos y peatones>
+Atleta <pos:216,id:900711,name:J. Jara (M.M)>
+  Segmento <pos:0,id:7901413,name:junto al río esquivando mosquitos y peatones>
+Atleta <pos:217,id:6881009,name:Ramón Márquez>
+  Segmento <pos:0,id:7901413,name:junto al río esquivando mosquitos y peatones>
+Atleta <pos:218,id:7004015,name:Julián Fierro>
+  Segmento <pos:0,id:3454970,name:mini montaña rusa interior>
+Atleta <pos:219,id:7139040,name:Alberto Fernandez>
+  Segmento <pos:0,id:3454970,name:mini montaña rusa interior>
+Atleta <pos:220,id:783551,name:Christian Sawatzki>
+  Segmento <pos:0,id:3454970,name:mini montaña rusa interior>
+Atleta <pos:221,id:1925212,name:David Martínez Serrano>
+  Segmento <pos:0,id:3454970,name:mini montaña rusa interior>
+Atleta <pos:222,id:1018552,name:Tomas CUERPER>
+  Segmento <pos:0,id:3454970,name:mini montaña rusa interior>
+Atleta <pos:223,id:3872414,name:Matias Lorusso>
+  Segmento <pos:0,id:6173244,name:BV-5001 Climb>
+Atleta <pos:224,id:4403381,name:Ramon Guimerà>
+  Segmento <pos:0,id:6173244,name:BV-5001 Climb>
+Atleta <pos:225,id:2849631,name:Raul Montoya Urquiza>
+  Segmento <pos:0,id:6173244,name:BV-5001 Climb>
+  Segmento <pos:1,id:6686788,name:hacia el curro>
+Atleta <pos:226,id:3808415,name:Pablo Morales>
+  Segmento <pos:0,id:6173244,name:BV-5001 Climb>
+Atleta <pos:227,id:6709453,name:Roberto Recio>
+  Segmento <pos:0,id:6173244,name:BV-5001 Climb>
+Atleta <pos:228,id:3065972,name:David Juan>
+  Segmento <pos:0,id:8023812,name:VA POR TI GUS( PAJARERO)>
+Atleta <pos:229,id:1048481,name:Oscar Rosinach>
+  Segmento <pos:0,id:8023812,name:VA POR TI GUS( PAJARERO)>
+Atleta <pos:230,id:437248,name:Marc Díaz>
+  Segmento <pos:0,id:8023812,name:VA POR TI GUS( PAJARERO)>
+Atleta <pos:231,id:805089,name:Eduardo Ratera>
+  Segmento <pos:0,id:8023812,name:VA POR TI GUS( PAJARERO)>
+Atleta <pos:232,id:542230,name:Antoine Flori>
+  Segmento <pos:0,id:7446459,name:The last bitch>
+Atleta <pos:233,id:1007381,name:François Riva>
+  Segmento <pos:0,id:7446459,name:The last bitch>
+Atleta <pos:234,id:412859,name:Rich Baker>
+  Segmento <pos:0,id:7446459,name:The last bitch>
+Atleta <pos:235,id:1300047,name:Xavier Garrido>
+  Segmento <pos:0,id:7989885,name:Avinguda Mariestany>
+Atleta <pos:236,id:1281017,name:HECTOR ABAD [BERRIA RACING TEAM CATALUNYA]>
+  Segmento <pos:0,id:7989885,name:Avinguda Mariestany>
+Atleta <pos:237,id:1083417,name:Jordi  Espinar [Tomas Domingo]>
+  Segmento <pos:0,id:7989885,name:Avinguda Mariestany>
+  Segmento <pos:1,id:7070035,name:CADENA A MIRADOR VALLESANA>
+Atleta <pos:238,id:2806838,name:Nicholas Varani>
+  Segmento <pos:0,id:10394165,name:Red Hook Crit Barcelona 2015 *official*>
+Atleta <pos:239,id:1586081,name:Axel Pierre>
+  Segmento <pos:0,id:10394165,name:Red Hook Crit Barcelona 2015 *official*>
+Atleta <pos:240,id:158793,name:Strava Athlete>
+  Segmento <pos:0,id:10394165,name:Red Hook Crit Barcelona 2015 *official*>
+Atleta <pos:241,id:3569497,name:Kyle Murphy>
+  Segmento <pos:0,id:10394165,name:Red Hook Crit Barcelona 2015 *official*>
+Atleta <pos:242,id:263407,name:Walton Brush>
+  Segmento <pos:0,id:10394165,name:Red Hook Crit Barcelona 2015 *official*>
+Atleta <pos:243,id:8134409,name:Ryan Howells>
+  Segmento <pos:0,id:8508795,name:Forum al Rio>
+Atleta <pos:244,id:5947739,name:Mattia Legor Cicli>
+  Segmento <pos:0,id:8508795,name:Forum al Rio>
+Atleta <pos:245,id:1656489,name:Farid Farhumand>
+  Segmento <pos:0,id:8508795,name:Forum al Rio>
+Atleta <pos:246,id:2380478,name:Javier Bertos>
+  Segmento <pos:0,id:8508795,name:Forum al Rio>
+  Segmento <pos:1,id:8433987,name:Purito Mercadona (PAJAREROS)>
+Atleta <pos:247,id:1803490,name:Tim Nottage>
+  Segmento <pos:0,id:7446430,name:Nova Icària>
+Atleta <pos:248,id:1043365,name:Jordi Soler>
+  Segmento <pos:0,id:7446430,name:Nova Icària>
+  Segmento <pos:1,id:2530205,name:Avinguda Diagonal>
+Atleta <pos:249,id:8568658,name:Óscar Castillo>
+  Segmento <pos:0,id:7446430,name:Nova Icària>
+Atleta <pos:250,id:6318215,name:Gonzalo Perales>
+  Segmento <pos:0,id:7446430,name:Nova Icària>
+Atleta <pos:251,id:757670,name:Matt Player>
+  Segmento <pos:0,id:7446430,name:Nova Icària>
+Atleta <pos:252,id:1319122,name:Albano Rabassa>
+  Segmento <pos:0,id:3858133,name:Forum to Arts>
+Atleta <pos:253,id:933919,name:rastabyke Attitudebikes >
+  Segmento <pos:0,id:3858133,name:Forum to Arts>
+Atleta <pos:254,id:1445499,name:Sergio Quintana>
+  Segmento <pos:0,id:3858133,name:Forum to Arts>
+Atleta <pos:255,id:7128876,name:Paco Duque>
+  Segmento <pos:0,id:3858133,name:Forum to Arts>
+Atleta <pos:256,id:3990124,name:Anders Chabert>
+  Segmento <pos:0,id:2530205,name:Avinguda Diagonal>
+Atleta <pos:257,id:1706762,name:Paul Crossley>
+  Segmento <pos:0,id:2530205,name:Avinguda Diagonal>
+Atleta <pos:258,id:1469137,name:Jordi Vigo>
+  Segmento <pos:0,id:2530205,name:Avinguda Diagonal>
+Atleta <pos:259,id:6057472,name:Mario La Pergola>
+  Segmento <pos:0,id:6816886,name:Mini Pujada del litoral>
+Atleta <pos:260,id:2512658,name:edgar martinez>
+  Segmento <pos:0,id:6816886,name:Mini Pujada del litoral>
+Atleta <pos:261,id:1986208,name:Carles Ferreres (MegaBici)>
+  Segmento <pos:0,id:7070035,name:CADENA A MIRADOR VALLESANA>
+Atleta <pos:262,id:3244099,name:Pato Rossi>
+  Segmento <pos:0,id:7070035,name:CADENA A MIRADOR VALLESANA>
+Atleta <pos:263,id:1077699,name:Eduardo Horacio>
+  Segmento <pos:0,id:7070035,name:CADENA A MIRADOR VALLESANA>
+  Segmento <pos:1,id:8405258,name:Subida Merendero Bastida>
+Atleta <pos:264,id:512651,name:Toni Gil>
+  Segmento <pos:0,id:3962805,name:Repexo Montgat>
+Atleta <pos:265,id:1161897,name:Jose María Benítez>
+  Segmento <pos:0,id:3962805,name:Repexo Montgat>
+Atleta <pos:266,id:1001616,name:Fernando Alonso>
+  Segmento <pos:0,id:3962805,name:Repexo Montgat>
+Atleta <pos:267,id:1299262,name:DE AMOS GARCIA BADAGGIOTEAM>
+  Segmento <pos:0,id:3962805,name:Repexo Montgat>
+  Segmento <pos:1,id:9552650,name:Besòs - First Bridge >
+Atleta <pos:268,id:1176913,name:Pablo Benito>
+  Segmento <pos:0,id:7991713,name:Sprint del Molinet>
+Atleta <pos:269,id:427612,name:David Galvany>
+  Segmento <pos:0,id:7991713,name:Sprint del Molinet>
+Atleta <pos:270,id:1039595,name:Stefan Gissler>
+  Segmento <pos:0,id:7991713,name:Sprint del Molinet>
+Atleta <pos:271,id:3303307,name:Jesús Aranda RCR19>
+  Segmento <pos:0,id:7991713,name:Sprint del Molinet>
+Atleta <pos:272,id:1666274,name:Jan Willem Bolderdijk>
+  Segmento <pos:0,id:7942147,name:Mur Badalona>
+Atleta <pos:273,id:4001071,name:Paco García Cala>
+  Segmento <pos:0,id:7942147,name:Mur Badalona>
+Atleta <pos:274,id:738059,name:Pablo López Aguirre>
+  Segmento <pos:0,id:7942147,name:Mur Badalona>
+Atleta <pos:275,id:7515409,name:Jordi Arias Ruiz>
+  Segmento <pos:0,id:7942147,name:Mur Badalona>
+Atleta <pos:276,id:545740,name:Jonathan Rubio Esteban>
+  Segmento <pos:0,id:1063452,name:Vallensana desde B20>
+Atleta <pos:277,id:1521653,name:Oscar Iglesias>
+  Segmento <pos:0,id:1063452,name:Vallensana desde B20>
+  Segmento <pos:1,id:6686788,name:hacia el curro>
+Atleta <pos:278,id:7400804,name:Adrian Merino>
+  Segmento <pos:0,id:7315655,name:2 Finals Vallensana. ROAD.>
+Atleta <pos:279,id:429730,name:Carlos Díaz>
+  Segmento <pos:0,id:7315655,name:2 Finals Vallensana. ROAD.>
+Atleta <pos:280,id:7323189,name:Alejandro Gomez Diaz>
+  Segmento <pos:0,id:7315655,name:2 Finals Vallensana. ROAD.>
+Atleta <pos:281,id:1926068,name:Lucky C.C. No Limits>
+  Segmento <pos:0,id:6686788,name:hacia el curro>
+Atleta <pos:282,id:1038517,name:Riki Español>
+  Segmento <pos:0,id:6686788,name:hacia el curro>
+Atleta <pos:283,id:1099003,name:Sergio Soriano Moreno>
+  Segmento <pos:0,id:9552650,name:Besòs - First Bridge >
+Atleta <pos:284,id:6301641,name:Rafael Diaz>
+  Segmento <pos:0,id:9552650,name:Besòs - First Bridge >
+Atleta <pos:285,id:10870429,name:Aleksey Pertuz Barrera>
+  Segmento <pos:0,id:8405258,name:Subida Merendero Bastida>
+Atleta <pos:286,id:1516399,name:Gaston Barreto>
+  Segmento <pos:0,id:8405258,name:Subida Merendero Bastida>
+Atleta <pos:287,id:1208755,name:Andres Rabal (Badabici)>
+  Segmento <pos:0,id:8405258,name:Subida Merendero Bastida>
+Atleta <pos:288,id:4242448,name:Jose A Calvo>
+  Segmento <pos:0,id:8405258,name:Subida Merendero Bastida>
+Atleta <pos:289,id:1944298,name:Nuria Monzonis Martinez>
+  Segmento <pos:0,id:8433987,name:Purito Mercadona (PAJAREROS)>
+Atleta <pos:290,id:4520938,name:Miguel Angel García Ruiz>
+  Segmento <pos:0,id:8433987,name:Purito Mercadona (PAJAREROS)>
+************** /printArrayAthletes() ****************
+*****************************************************
+

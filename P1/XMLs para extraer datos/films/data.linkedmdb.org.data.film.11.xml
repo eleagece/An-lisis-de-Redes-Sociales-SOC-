@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:dbpedia="http://dbpedia.org/property/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:oddlinker="http://data.linkedmdb.org/resource/oddlinker/"
+    xmlns:db="http://data.linkedmdb.org/resource/"
+    xmlns:movie="http://data.linkedmdb.org/resource/movie/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:map="file:/C:/d2r-server-0.4/mapping.n3#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:d2r="http://sites.wiwiss.fu-berlin.de/suhl/bizer/d2r-server/config.rdf#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://www.rottentomatoes.com/alias?type=imdbid&amp;s=0060464">
+    <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.rottentomatoes.com%2Falias%3Ftype%3Dimdbid%26s%3D0060464%3E"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/39667">
+    <movie:sequel>
+      <movie:film rdf:about="http://data.linkedmdb.org/resource/film/11">
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/4037"/>
+        <movie:producer rdf:resource="http://data.linkedmdb.org/resource/producer/11380"/>
+        <movie:music_contributor rdf:resource="http://data.linkedmdb.org/resource/music_contributor/1711"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/3992"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/12635"/>
+        <dc:title>Godzilla vs. the Sea Monster</dc:title>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/12636"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/12632"/>
+        <foaf:based_near>
+          <rdf:Description rdf:about="http://sws.geonames.org/1861060/">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fsws.geonames.org%2F1861060%2F%3E"/>
+          </rdf:Description>
+        </foaf:based_near>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/4040"/>
+        <movie:language>
+          <rdf:Description rdf:about="http://www.lingvoj.org/lingvo/ja">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.lingvoj.org%2Flingvo%2Fja%3E"/>
+          </rdf:Description>
+        </movie:language>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/12629"/>
+        <movie:film_cut rdf:resource="http://data.linkedmdb.org/resource/film_cut/2669"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/12626"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/2116"/>
+        <movie:film_cut rdf:resource="http://data.linkedmdb.org/resource/film_cut/2668"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/4038"/>
+        <owl:sameAs>
+          <rdf:Description rdf:about="http://dbpedia.org/resource/Godzilla_vs._the_Sea_Monster">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FGodzilla_vs._the_Sea_Monster%3E"/>
+          </rdf:Description>
+        </owl:sameAs>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/191315"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/1844"/>
+        <dc:date>1966-12-17</dc:date>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/12633"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/12630"/>
+        <movie:initial_release_date>1966-12-17</movie:initial_release_date>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/55596"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/4041"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/44286"/>
+        <movie:sequel>
+          <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38098">
+            <movie:prequel rdf:resource="http://data.linkedmdb.org/resource/film/11"/>
+          </rdf:Description>
+        </movie:sequel>
+        <foaf:page>
+          <rdf:Description rdf:about="http://www.imdb.com/title/tt0060464">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0060464%3E"/>
+          </rdf:Description>
+        </foaf:page>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/4039"/>
+        <movie:runtime>87</movie:runtime>
+        <movie:writer rdf:resource="http://data.linkedmdb.org/resource/writer/971"/>
+        <foaf:page rdf:resource="http://www.rottentomatoes.com/alias?type=imdbid&amp;s=0060464"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/12634"/>
+        <movie:writer rdf:resource="http://data.linkedmdb.org/resource/writer/16845"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/12627"/>
+        <movie:filmid rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >11</movie:filmid>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/4042"/>
+        <movie:prequel rdf:resource="http://data.linkedmdb.org/resource/film/39667"/>
+        <dbpedia:hasPhotoCollection>
+          <rdf:Description rdf:about="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Godzilla_vs._the_Sea_Monster">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fflickrwrappr%2Fphotos%2FGodzilla_vs._the_Sea_Monster%3E"/>
+          </rdf:Description>
+        </dbpedia:hasPhotoCollection>
+        <rdfs:label>Godzilla vs. the Sea Monster</rdfs:label>
+        <movie:director>
+          <rdf:Description rdf:about="http://data.linkedmdb.org/resource/director/3238">
+            <foaf:made rdf:resource="http://data.linkedmdb.org/resource/film/11"/>
+          </rdf:Description>
+        </movie:director>
+        <movie:runtime>83</movie:runtime>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/3757"/>
+        <owl:sameAs>
+          <rdf:Description rdf:about="http://mpii.de/yago/resource/Godzilla_vs._the_Sea_Monster">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fmpii.de%2Fyago%2Fresource%2FGodzilla_vs._the_Sea_Monster%3E"/>
+          </rdf:Description>
+        </owl:sameAs>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/12631"/>
+        <movie:country rdf:resource="http://data.linkedmdb.org/resource/country/JP"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/12628"/>
+        <foaf:page>
+          <rdf:Description rdf:about="http://www.freebase.com/view/guid/9202a8c04000641f800000000001939c">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.freebase.com%2Fview%2Fguid%2F9202a8c04000641f800000000001939c%3E"/>
+          </rdf:Description>
+        </foaf:page>
+      </movie:film>
+    </movie:sequel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/37070">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/film/11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/data/film/11">
+    <rdfs:comment>Contents of this file may include content from 
+		      FreeBase (http://www.freebase.com) or Wikipedia 
+		      (http://www.wikipedia.org) licensed under CC-BY
+		      (http://www.freebase.com/view/common/license/cc_attribution_25)
+		      or GFDL (http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License). 
+		      Refer to http://www.linkedmdb.org:8080/Main/Licensing for more details.</rdfs:comment>
+    <rdfs:label>RDF Description of Godzilla vs. the Sea Monster</rdfs:label>
+    <foaf:primaryTopic rdf:resource="http://data.linkedmdb.org/resource/film/11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/133955">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/film/11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/60990">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/film/11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/18537">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/film/11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/4">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/film/11"/>
+  </rdf:Description>
+</rdf:RDF>

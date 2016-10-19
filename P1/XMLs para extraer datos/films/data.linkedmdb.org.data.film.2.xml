@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:dbpedia="http://dbpedia.org/property/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:oddlinker="http://data.linkedmdb.org/resource/oddlinker/"
+    xmlns:db="http://data.linkedmdb.org/resource/"
+    xmlns:movie="http://data.linkedmdb.org/resource/movie/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:map="file:/C:/d2r-server-0.4/mapping.n3#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:d2r="http://sites.wiwiss.fu-berlin.de/suhl/bizer/d2r-server/config.rdf#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://www.imdb.com/title/tt0096895">
+    <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0096895%3E"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film/38075">
+    <movie:prequel>
+      <movie:film rdf:about="http://data.linkedmdb.org/resource/film/2">
+        <movie:director>
+          <rdf:Description rdf:about="http://data.linkedmdb.org/resource/director/8497">
+            <foaf:made rdf:resource="http://data.linkedmdb.org/resource/film/2"/>
+          </rdf:Description>
+        </movie:director>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/32475"/>
+        <movie:filmid rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >2</movie:filmid>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/76532"/>
+        <movie:producer rdf:resource="http://data.linkedmdb.org/resource/producer/12056"/>
+        <foaf:page>
+          <rdf:Description rdf:about="http://www.rottentomatoes.com/alias?type=imdbid&amp;s=0096895">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.rottentomatoes.com%2Falias%3Ftype%3Dimdbid%26s%3D0096895%3E"/>
+          </rdf:Description>
+        </foaf:page>
+        <movie:producer rdf:resource="http://data.linkedmdb.org/resource/producer/11124"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/32267"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/31188"/>
+        <movie:music_contributor rdf:resource="http://data.linkedmdb.org/resource/music_contributor/1764"/>
+        <movie:writer rdf:resource="http://data.linkedmdb.org/resource/writer/14633"/>
+        <movie:sequel rdf:resource="http://data.linkedmdb.org/resource/film/38075"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/3676"/>
+        <movie:producer rdf:resource="http://data.linkedmdb.org/resource/producer/11550"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/8856"/>
+        <foaf:page>
+          <rdf:Description rdf:about="http://www.freebase.com/view/guid/9202a8c04000641f800000000000bea5">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.freebase.com%2Fview%2Fguid%2F9202a8c04000641f800000000000bea5%3E"/>
+          </rdf:Description>
+        </foaf:page>
+        <movie:film_cut rdf:resource="http://data.linkedmdb.org/resource/film_cut/734"/>
+        <movie:language>
+          <rdf:Description rdf:about="http://www.lingvoj.org/lingvo/en">
+            <rdfs:seeAlso rdf:resource="http://data.linkedmdb.org/sparql?query=DESCRIBE+%3Chttp%3A%2F%2Fwww.lingvoj.org%2Flingvo%2Fen%3E"/>
+          </rdf:Description>
+        </movie:language>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/86998"/>
+        <movie:initial_release_date>1989-06-23</movie:initial_release_date>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/30990"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/74896"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/84039"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/81072"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/29704"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/43737"/>
+        <foaf:page rdf:resource="http://www.imdb.com/title/tt0096895"/>
+        <movie:runtime>126</movie:runtime>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/35797"/>
+        <rdfs:label>Batman</rdfs:label>
+        <movie:writer rdf:resource="http://data.linkedmdb.org/resource/writer/6418"/>
+        <movie:music_contributor rdf:resource="http://data.linkedmdb.org/resource/music_contributor/4017"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/74890"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/87987"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/33056"/>
+        <movie:performance rdf:resource="http://data.linkedmdb.org/resource/performance/3675"/>
+        <dc:title>Batman</dc:title>
+        <dc:date>1989-06-23</dc:date>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/46165"/>
+        <movie:editor rdf:resource="http://data.linkedmdb.org/resource/editor/2881"/>
+        <movie:actor rdf:resource="http://data.linkedmdb.org/resource/actor/33318"/>
+        <movie:producer rdf:resource="http://data.linkedmdb.org/resource/producer/14106"/>
+        <movie:writer rdf:resource="http://data.linkedmdb.org/resource/writer/18455"/>
+      </movie:film>
+    </movie:prequel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/70216">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/film/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/data/film/2">
+    <rdfs:comment>Contents of this file may include content from 
+		      FreeBase (http://www.freebase.com) or Wikipedia 
+		      (http://www.wikipedia.org) licensed under CC-BY
+		      (http://www.freebase.com/view/common/license/cc_attribution_25)
+		      or GFDL (http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License). 
+		      Refer to http://www.linkedmdb.org:8080/Main/Licensing for more details.</rdfs:comment>
+    <rdfs:label>RDF Description of Batman</rdfs:label>
+    <foaf:primaryTopic rdf:resource="http://data.linkedmdb.org/resource/film/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/interlink/133948">
+    <oddlinker:link_source rdf:resource="http://data.linkedmdb.org/resource/film/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.linkedmdb.org/resource/film_film_distributor_relationship/6375">
+    <movie:film_of_distributor rdf:resource="http://data.linkedmdb.org/resource/film/2"/>
+  </rdf:Description>
+</rdf:RDF>
