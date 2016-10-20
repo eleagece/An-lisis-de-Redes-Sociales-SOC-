@@ -1,5 +1,5 @@
 # Social Network Analysis
-Graph studies of various social networks (STRAVA mainly) through different variablesid
+Graph studies of social networks (STRAVA mainly) through different variables
 
 # P1
 Data crawler from .xml files (which represent a bipartite graph with movies and actors) and generation of .csv files (which represent actor graph and movies graph separated).
