@@ -1,11 +1,11 @@
-# Análisis de Redes Sociales (SOC) 2015/16
-Por Luis Alfonso González. Grado en Ingeniería Informática, Facultad de Informática, Universidad Complutense de Madrid
+# Social Network Analysis
+Graph studies of various social networks (STRAVA mainly) through different variablesid
 
-# Práctica 1
-Análisis de un grafo bipartito de actores y películas
+# P1
+Data crawler from .xml files (which represent a bipartite graph with movies and actors) and generation of .csv files (which represent actor graph and movies graph separated).
 
-# Práctica 2
-Creación de modelos de red: aleatoria y de red libre de escala mediante Barabasi-Albert
+# P2
+Creating net models: random and scale-free network using Barabasi-Albert
 
-# Proyecto final
-Análisis de la red social de STRAVA
+# P3
+Analysis of STRAVA social network: athletes and segments in Madrid and Barcelona. How they relate to each other?
